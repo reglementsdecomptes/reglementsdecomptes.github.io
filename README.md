@@ -29,7 +29,11 @@ Vous pouvez également utiliser le champ de recherche en haut à droite.
 
 ## Kumu.io
 
-Kumu.io est une interface permettant de structurer l'information sur un sujet, de manière collaborative, dans une base de type graph. Ces dernières fonctionnent autour d'entités reliées entre elles, afin de former un réseau. Un des exemples les plus aboutis de base en graph est ["The Migrant Files"](https://www.detective.io/detective/the-migrants-files/), qui recense les migrants morts aux portes de l'Europe depuis 2000.
+Kumu.io est une interface permettant de structurer l'information sur un sujet, de manière collaborative, dans une base de type graph. Ces dernières fonctionnent autour d'entités reliées entre elles, afin de former un réseau. 
+
+Un des exemples les plus aboutis de base en graph est ["The Migrant Files"](https://www.detective.io/detective/the-migrants-files/), qui recense les migrants morts aux portes de l'Europe depuis 2000. Il utilise la plateforme Detective.io.
+
+Parmi les projet réalisés avec Kumu, vous pouvez trouver une visualisation de [la république dynastique du Congo](https://kumu.io/JeuneAfrique/la-republique-dynastique-du-congo) par Jeune Afrique, une présentation des [facteurs de la qualité de vie à Hawai](https://hiqol.kumu.io/hawaii-quality-of-life), ou le résumé du [concours d'Ice Bucket Challenge chez les personnalités](https://kumu.io/jeff/celebrity-ice-bucket-challenge).
 
 Nous utiliserons également Kumu.io pour exporter des visualisations des relations entre évènements et protagonistes.
 
