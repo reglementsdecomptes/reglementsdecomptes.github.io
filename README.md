@@ -11,7 +11,7 @@
 Le site sera hébergé sur Github. Il est accessible à l'adresse <https://reglementsdecomptes.github.io>.
 
 :exclamation::exclamation::exclamation:
-L'espace de travail est **public** par défaut, donc n'écrivez que les informations destinées à être publiées. **Les brouillons et les sources doivent rester sur vos postes.**
+L'espace de travail en ligne est **public**, donc n'écrivez que les informations destinées à être publiées. **Les brouillons et les sources doivent rester sur vos postes.**
 
 ## Édition du site
 
