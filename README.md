@@ -6,17 +6,6 @@
 
 <https://goo.gl/GyHXLZ>
 
-## Hébergement du site
-
-Le site sera hébergé sur Github. Il est accessible à l'adresse <https://reglementsdecomptes.github.io>.
-
-:exclamation::exclamation::exclamation:
-L'espace de travail en ligne est **public**, donc n'écrivez que les informations destinées à être publiées. **Les brouillons et les sources doivent rester sur vos postes.**
-
-## Édition du site
-
-Une fois que vous avez créé un compte sur Github et obtenu l'accès au répertoire du site, vous pouvez en modifier les articles via le site <http://prose.io/>. **Ne modifiez que les fichiers situés dans le répertoire _posts/, et n'oubliez pas de sauvegarder**
-
 ## Lecture des dépêches
 
 Vous pouvez accéder à la lecture de plus de 600 dépêches sur le thème de la criminalité dans les Bouches du Rhône [en cliquant ici](http://bl.ocks.org/julesbonnard/raw/e56cb6d520c6cb8f7806/). Elles vont de juin 2013 au 7 décembre 2015.
@@ -41,7 +30,33 @@ Pour accéder à la base de données collaborative, vous devez [créer un compte
 
 **La base des règlements de comptes se situe [ici](https://kumu.io/reglementsdecomptes/reglementsdecomptes).**
 
-# Infographies
+## Hébergement du site
+
+Le site sera hébergé sur Github. Il est accessible à l'adresse <https://reglementsdecomptes.github.io>.
+
+:exclamation::exclamation::exclamation:
+L'espace de travail en ligne est **public**, donc n'écrivez que les informations destinées à être publiées. **Les brouillons et les sources doivent rester sur vos postes.**
+
+## Édition du site
+
+Une fois que vous avez créé un compte sur Github et obtenu l'accès au répertoire du site, vous pouvez en modifier les articles via le site <http://prose.io/>. **Ne modifiez que les fichiers situés dans le répertoire _posts/, et n'oubliez pas de sauvegarder**
+
+:question::question::question:
+Pour toute question relative à l'accès aux plateformes, au traitement des données, et à la publication sur le site, [envoyez-moi un mail](mailto:julesbonnard@gmail.com).
+
+## Maquettes
+
+![RDC_Traitement-Carto.jpg](/RDC_Traitement-Carto.jpg)
+![RDC_Codes-Couleur.jpg](/RDC_Codes-Couleur.jpg)
+![RDC_Traitement-Quote.jpg](/RDC_Traitement-Quote.jpg)
+![RDC_Traitement-photo.jpg](/RDC_Traitement-photo.jpg)
+![RDC_Recherches-5.jpg](/RDC_Recherches-5.jpg)
+![RDC_Recherches-4.jpg](/RDC_Recherches-4.jpg)
+![RDC_Recherches-3.jpg](/RDC_Recherches-3.jpg)
+![RDC_Recherches-2.jpg](/RDC_Recherches-2.jpg)
+![RDC_Recherches-1.jpg](/RDC_Recherches-1.jpg)
+
+## Infographies
 
 Extraction et traitement des données : 
 - Google Drive Spreadsheet
@@ -65,6 +80,3 @@ Timeline :
 - [Timeline](https://github.com/jkeefe/Timeline)
 - TimelineJS
 - TimelineVertical
-
-:question::question::question:
-Pour toute question relative à l'accès aux plateformes, au traitement des données, et à la publication sur le site, [envoyez-moi un mail](mailto:julesbonnard@gmail.com).
