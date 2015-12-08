@@ -4,7 +4,7 @@
 
 ## Raccourci vers cette page
 
-[goo.gl/GyHXLZ](https://goo.gl/GyHXLZ)
+<https://goo.gl/GyHXLZ>
 
 ## Hébergement du site
 
