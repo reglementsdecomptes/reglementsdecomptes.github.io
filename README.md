@@ -39,7 +39,7 @@ Nous utiliserons également Kumu.io pour exporter des visualisations des relatio
 
 Pour accéder à la base de données collaborative, vous devez [créer un compte] (https://kumu.io). Cliquez sur le lien reçu par email, puis envoyez votre nom d'utilisateur à [julesbonnard@gmail.com](mailto:julesbonnard@gmail.com) pour être ajouté comme collaborateur.
 
-La base des réglements de comptes se situe [ici](https://kumu.io/edjmarseille/edj-reglements-de-comptes).
+**La base des règlements de comptes se situe [ici](https://kumu.io/edjmarseille/edj-reglements-de-comptes).**
 
 # Infographies
 
