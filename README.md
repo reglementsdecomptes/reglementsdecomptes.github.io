@@ -4,7 +4,7 @@
 
 ## Raccourci vers cette page
 
-(goo.gl/MVVrmd)[https://goo.gl/MVVrmd)
+[goo.gl/MVVrmd](https://goo.gl/MVVrmd)
 
 ## Hébergement du site
 
