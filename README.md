@@ -10,6 +10,8 @@
 
 Le site sera hébergé sur Github. Il est accessible à l'adresse [https://reglementsdecomptes.github.io](https://reglementsdecomptes.github.io).
 
+:exclamation: L'espace de travail est **public** par défaut, donc n'écrivez que les informations destinées à être publiées. **Les brouillons et les sources doivent rester sur vos postes.**
+
 ## Édition du site
 
 Une fois que vous avez créé un compte sur Github et obtenu l'accès au répertoire du site, vous pouvez en modifier les articles via le site [Prose.io](http://prose.io/). **Ne modifiez que les fichiers situés dans le répertoire _posts/, et n'oubliez pas de sauvegarder**
@@ -33,13 +35,6 @@ Nous utiliserons également Kumu.io pour exporter des visualisations des relatio
 Pour accéder à la base de données collaborative, vous devez [créer un compte] (https://kumu.io). Cliquez sur le lien reçu par email, puis envoyez votre nom d'utilisateur à [julesbonnard@gmail.com](mailto:julesbonnard@gmail.com) pour être ajouté comme collaborateur.
 
 La base des réglements de comptes se situe [ici](https://kumu.io/edjmarseille/edj-reglements-de-comptes).
-
-# Répartition des dépêches
-
-|  Prenom  | Nom             | Date        | Lieu                 |
-|----------|-----------------|-------------|----------------------|
-| Camille  | ADAOUST         | 13-janv.-14 | Marseille            |
-
 
 # Infographies
 
@@ -65,3 +60,5 @@ Timeline :
 - [Timeline](https://github.com/jkeefe/Timeline)
 - TimelineJS
 - TimelineVertical
+
+:question: Pour toute question relative à l'accès aux plateformes, au traitement des données, et à la publication sur le site, [envoyez-moi un mail](mailto:julesbonnard@gmail.com).
