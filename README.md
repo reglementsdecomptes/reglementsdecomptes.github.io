@@ -2,6 +2,10 @@
 
 [![Build Status](https://travis-ci.org/reglementsdecomptes/reglementsdecomptes.github.io.svg?branch=master)](https://travis-ci.org/reglementsdecomptes/reglementsdecomptes.github.io)
 
+## Raccourci vers cette page
+
+(goo.gl/MVVrmd)[https://goo.gl/MVVrmd)
+
 ## Hébergement du site
 
 Le site sera hébergé sur Github. Il est accessible à l'adresse [https://reglementsdecomptes.github.io](https://reglementsdecomptes.github.io).
