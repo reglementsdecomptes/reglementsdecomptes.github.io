@@ -62,4 +62,5 @@ Timeline :
 - TimelineJS
 - TimelineVertical
 
-:question: Pour toute question relative à l'accès aux plateformes, au traitement des données, et à la publication sur le site, [envoyez-moi un mail](mailto:julesbonnard@gmail.com).
+:question::question::question:
+Pour toute question relative à l'accès aux plateformes, au traitement des données, et à la publication sur le site, [envoyez-moi un mail](mailto:julesbonnard@gmail.com).
