@@ -16,6 +16,9 @@ defaults:
     values:
       layout: "default"
 
+
 # Build settings
 markdown: kramdown
 exclude: [vendor]
+
+
