@@ -11,13 +11,17 @@ dl, dd, ol, ul, figure {
     //text-rendering : optimizeLegibility;
 }
 
+* {
+    box-sizing: border-box;
+}
+
 
 // * * * * * * * * MARGINS * * * * * * * * *
 
 h1, h2, h3, h4, h5, h6,
 p {
 
-    max-width: 70%;
+    max-width: $width;
     margin-left: auto;
     margin-right: auto;
     // padding-right: $spacing-unit;
@@ -31,10 +35,9 @@ dl, dd, ol, ul, figure {
     max-width: 100%;
     margin-left: auto;
     margin-right: auto;
-    background: $blue;
+    // background: $blue;
     // padding-right: $spacing-unit;
     // padding-left: $spacing-unit;
-
 }
 
 
@@ -53,13 +56,77 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
+strong {
+    background-color: $black;
+    color: $white;
+    padding-left: 0.2rem;
+    padding-right: 0.2rem;
+    font-weight: normal;
+}
+
+.fullwidth {
+    margin-left: 0px;
+    margin-right: 0px;
+    max-width: none;
+    text-align: center;
+    img {
+        width: 100%;
+        height: auto;
+    }
+    &.image {
+        width: 100%;
+        padding-top: 2.5rem;
+        background-color: $black;
+        color: $white;
+        margin-bottom: 0px;
+    }
+}
+
+@include media-query($on-laptop) {
+    .fullwidth img {
+        width: 90%;
+    }
+}
+
+.credit {
+    font-size: smaller;
+    strong {
+        font-weight: bold;
+    }
+}
+
+blockquote+[class],.image+[class] {
+    box-sizing: content-box;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    max-width: 100%;
+    background-color: $black;
+    color: $white;
+    padding-right: 15%;
+    padding-left: 15%;
+    padding-top: 1rem;
+    padding-bottom: 2.5rem;
+}
+
+blockquote+.credit {
+    text-align: right;
+}
+blockquote+.note,,.image+.note {
+    padding-top: $spacing-unit;
+    padding-right: $width/4;
+    padding-left: $width/4;
+    font-size: smaller;
+    text-align: center;
+}
+
 
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
 h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
+p, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
     margin-bottom: $spacing-unit;
@@ -71,10 +138,12 @@ ul, ol, dl, figure,
  * Images
  */
 img {
-    max-width: 100%;
-    vertical-align: middle;
+    -webkit-filter: grayscale(100%) sepia(20%);
+  // -webkit-filter: grayscale(100%);
+  // filter: grayscale(100%);
+  // filter: url("data:image/svg+xml;utf8,<svg version='1.1' xmlns='http://www.w3.org/2000/svg' height='0'><filter id='greyscale'><feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0' /></filter></svg>#greyscale");
+  // filter: gray;
 }
-
 
 
 /**
@@ -149,6 +218,17 @@ blockquote {
     > :last-child {
         margin-bottom: 0;
     }
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    &:before {
+        float: left;
+        content: "« ";
+        position: relative;
+        left: calc((100% - #{$width}) / 3);
+    }
+    p {
+        max-width: $width;
+    }
 }
 
 
@@ -185,20 +265,13 @@ pre {
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(800px - (#{$spacing-unit} * 2));
-    max-width:         calc(800px - (#{$spacing-unit} * 2));
+    max-width: -webkit-calc(#{$on-laptop} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{$on-laptop} - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
     // padding-right: $spacing-unit;
     // padding-left: $spacing-unit;
     @extend %clearfix;
-
-    @include media-query($on-laptop) {
-        max-width: -webkit-calc(800px - (#{$spacing-unit}));
-        max-width:         calc(800px - (#{$spacing-unit}));
-        // padding-right: $spacing-unit / 2;
-        // padding-left: $spacing-unit / 2;
-    }
 }
 
 

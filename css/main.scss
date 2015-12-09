@@ -17,6 +17,8 @@ $small-font-size:  $base-font-size * 0.75;
 $base-line-height: 1.6;
 
 $spacing-unit:     2.5em;
+$width: 70%;
+$margin: 100% - $width;
 
 $text-color:       $black;
 $background-color: $white;
@@ -27,7 +29,7 @@ $grey-color-light: mix($white,$black,70%);
 $grey-color-dark:  mix($white,$black,30%);
 
 $on-palm:          600px;
-$on-laptop:        800px;
+$on-laptop:        1200px;
 
 
 
@@ -40,7 +42,7 @@ $on-laptop:        800px;
 //     }
 // }
 @mixin media-query($device) {
-    @media screen and (max-width: $device) {
+    @media screen and (min-width: $device) {
         @content;
     }
 }
@@ -50,8 +52,6 @@ $on-laptop:        800px;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
-        "layout"
-        
-;
+        "layout";
 
 // "syntax-highlighting"
