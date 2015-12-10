@@ -6,7 +6,7 @@
 // Our variables
 
 $black : #2f302a;
-$white : #fcfef3;
+$white : #F8F9F5;
 $blue : #6fc0bb;
 
 
@@ -16,7 +16,7 @@ $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.75;
 $base-line-height: 1.6;
 
-$spacing-unit:     2.5em;
+$spacing-unit:     2.5rem;
 $width: 70%;
 $margin: 100% - $width;
 
@@ -28,8 +28,10 @@ $grey-color:       mix($white,$black,50%);
 $grey-color-light: mix($white,$black,70%);
 $grey-color-dark:  mix($white,$black,30%);
 
-$on-palm:          600px;
-$on-laptop:        1200px;
+$on-iphone:		320px;
+$on-android:	360px;
+$on-palm:		600px;
+$on-laptop:		1200px;
 
 
 
@@ -41,13 +43,25 @@ $on-laptop:        1200px;
 //         padding-left: $spacing-unit / 2;
 //     }
 // }
+
 @mixin media-query($device) {
     @media screen and (min-width: $device) {
         @content;
     }
 }
 
+@mixin font-feature($features...) {
+  $font-feature-settings: "liga", "dlig";
 
+  @if length($features) > 0 {
+    $font-feature-settings: $features;
+  }
+
+  -webkit-font-feature-settings: $font-feature-settings;
+  -moz-font-feature-settings: $font-feature-settings;
+  -ms-font-feature-settings: $font-feature-settings;
+  font-feature-settings: $font-feature-settings;
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

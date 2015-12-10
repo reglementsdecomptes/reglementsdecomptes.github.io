@@ -1,3 +1,17 @@
+@font-face {
+  font-family: 'Trocchi';
+  src: url('fonts/Trocchi.eot'); /* IE9 Compat Modes */
+  src: url('fonts/Trocchi.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/Trocchi.woff2') format('woff2'), /* Modern Browsers */
+       url('fonts/Trocchi.woff') format('woff'); /* Modern Browsers */
+
+  font-style:   normal;
+  font-weight:  200;
+  text-rendering: optimizeLegibility;
+}
+
+
+
 
 
 /**
@@ -89,7 +103,9 @@ strong {
 }
 
 .credit {
-    font-size: smaller;
+    font-size: 13px;
+    font-family: $sans;
+    line-height: 1.5em;
     strong {
         font-weight: bold;
     }
@@ -110,6 +126,7 @@ blockquote+[class],.image+[class] {
 }
 
 blockquote+.credit {
+    padding-top: 2.5rem;
     text-align: right;
 }
 blockquote+.note,,.image+.note {
@@ -120,6 +137,17 @@ blockquote+.note,,.image+.note {
     text-align: center;
 }
 
+.punchline {
+    box-sizing: content-box;
+    margin:  $spacing-unit 0px;
+    max-width: 100%;
+    background-color: $black;
+    color: $white;
+    padding: 1.5em  15% 4.5em 15%;
+    font-size: 50px;
+    line-height: 1em;
+    @include font-feature("dlig");
+}
 
 
 /**
@@ -212,6 +240,7 @@ blockquote {
     background-color:$black; 
     font-size: 26px;
     //letter-spacing: -0.025em;
+    line-height: 1.2em;
     margin: $spacing-unit auto;
     padding: $spacing-unit 0;
 
@@ -229,6 +258,7 @@ blockquote {
     p {
         max-width: $width;
     }
+    
 }
 
 
