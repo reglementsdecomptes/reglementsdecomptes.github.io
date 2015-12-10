@@ -7,6 +7,7 @@ published: true
 
 
 
+
 Dans la série de règlements de comptes que nous avons étudiés, [trois seulement visent des trafiquants aguerris](https://reglementsdecomptes.wordpress.com/?p=142). Âgés d’une quarantaine d’années, ils tiennent le haut du pavé du banditisme marseillais. Qui sont-ils ? Quels sont leurs liens avec la nouvelle génération de trafiquants ?
 
 Samir A. est une ombre
@@ -42,6 +43,7 @@ C’est le cas de Samir A. À Aubagne, la ville où il résidait depuis plusieur
 {: .fullwidth .image}
 
 <a>Foued B.</a> a été tué avenue de Verdun, à Aubagne 
+hash barette check
 {: .punchline}
 
 
