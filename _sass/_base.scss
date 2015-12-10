@@ -128,14 +128,34 @@ blockquote+[class],.image+[class] {
 blockquote+.credit {
     padding-top: 2.5rem;
     text-align: right;
+    background: $black;
 }
 blockquote+.note,,.image+.note {
     padding-top: $spacing-unit;
     padding-right: $width/4;
     padding-left: $width/4;
-    font-size: smaller;
-    text-align: center;
+    font-size: 15px;
+    text-align: justify;
+    padding: 2.5rem  15% 6rem 15%;
+    
 }
+
+
+blockquote+.credit {
+    padding-top: 2.5rem;
+    text-align: right;
+}
+
+
+
+// .note {
+//     &.small {
+//         font-family: $sans;
+//         font-size: 15px;
+//         color: $white;
+//         background-color: $black;
+//     }
+// }
 
 .punchline {
     box-sizing: content-box;
@@ -147,6 +167,14 @@ blockquote+.note,,.image+.note {
     font-size: 50px;
     line-height: 1em;
     @include font-feature("dlig");
+}
+
+
+.image+.punchline {
+    padding: 2.5rem  15% 6rem 15%;
+    font-size: 26px;
+    line-height: 1.25em;
+    
 }
 
 
