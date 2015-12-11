@@ -2,14 +2,15 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    // border-top: 5px solid $white;
+    // border-bottom: 1px solid $black;
     min-height: 56px;
+    background-color: $black;
 
     // Positioning context for the mobile navigation icon
     position: relative;
 
-    display: none;
+    // display: none;
 }
 
 .site-title {
@@ -21,7 +22,7 @@
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: $white;
     }
 }
 
@@ -43,38 +44,38 @@
         }
     }
 
-    @include media-query($on-iphone) {
+    // @include media-query($on-iphone) {
         position: absolute;
         top: 9px;
         right: 30px;
-        background-color: $background-color;
+        background-color: $white;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
         text-align: right;
 
-        .menu-icon {
-            display: block;
-            float: right;
-            width: 36px;
-            height: 26px;
-            line-height: 0;
-            padding-top: 10px;
-            text-align: center;
+        // .menu-icon {
+        //     display: block;
+        //     float: right;
+        //     width: 36px;
+        //     height: 26px;
+        //     line-height: 0;
+        //     padding-top: 10px;
+        //     text-align: center;
 
-            > svg {
-                width: 18px;
-                height: 15px;
+        //     > svg {
+        //         width: 18px;
+        //         height: 15px;
 
-                path {
-                    fill: $grey-color-dark;
-                }
-            }
-        }
+        //         path {
+        //             fill: $grey-color-dark;
+        //         }
+        //     }
+        // }
 
-        .trigger {
-            clear: both;
-            display: none;
-        }
+        // .trigger {
+        //     clear: both;
+        //     display: none;
+        // }
 
         &:hover .trigger {
             display: block;
@@ -85,7 +86,7 @@
             display: block;
             padding: 5px 10px;
         }
-    }
+    // }
 }
 
 
