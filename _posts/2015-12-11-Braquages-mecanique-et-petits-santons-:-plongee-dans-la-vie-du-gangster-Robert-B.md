@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 ## Braquages, mécanique et petits santons : plongée dans la vie du gangster Robert B.
 
@@ -49,5 +50,3 @@ Le gang a été déstabilisé et retardé dans ses projets par la mort de Robert
 La mort de Robert Bérengier est-elle liée à cette nouvelle activité ? Mystère. Lorsqu’il a été assassiné le 6 août 2015, Robert Bérengier résidait dans le centre-ville de Marseille Il était en liberté depuis trois ans. Selon un des proches de l’enquête qui s’est exprimé auprès de La Provence,  “Les tueurs connaissaient son emploi du temps. Et le fait qu'il n'ait pas enlevé son casque peut laisser penser qu'il n'était pas tranquille ». Le truand fan de moto a quitté ce monde un casque vissé sur la tête.
 
 Chloé Fiancette
-
-
