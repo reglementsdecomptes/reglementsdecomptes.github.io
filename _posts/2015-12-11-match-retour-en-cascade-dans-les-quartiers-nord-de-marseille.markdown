@@ -65,3 +65,5 @@ La technique du “barbecue” est un moyen symbolique fort car en brûlant le c
 Dans le “match retour” dont a été victime Zackary R. le nombre de douilles de kalachnikov est évidemment un symbole important car il témoigne de la violence avec laquelle les membres du réseau de la cité des Flamands se sont acharnés sur le corps de la victime. 
 
 Les “match retour” sont donc avant tout un jeu de force permanent entre clans rivaux, qui leur permet d’imposer leur autorité et d’impressionner les autres réseaux par la force. Si le mobile premier est la vengeance de la mort d’un des leurs les bandes rivales cherchent avant tout à imposer leur puissance de feu par le nombre de règlements de compte auxquels ils répondent et le mode opératoire qu’ils choisissent.
+
+**Laure-Hélène de Vriendt**
