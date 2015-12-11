@@ -28,7 +28,6 @@ Même discours du coté de Stéphane Querré, criminologue, pour qui les associ�
 
 Cette dimension familiale pourrait aussi expliquer en partie les engrenages de violence qui secouent la ville depuis des années, à l’image de « Babouin », tué pour avoir vengé son frère. Les rivalités entre bandes deviennent claniques. Un ennemi ? La cible devient son entourage, sa famille. 
 
-
 Peut être pouvons-nous trouver dans la famille un outil pour lutter contre la criminalité ? Au moins mieux la comprendre. Scott Decker, criminologue américain de l’université Arizona State, s’est justement penché sur les logiques d’incitation familiale concernant le banditisme et les phénomènes de gang. Il en ressort que 80% des jeunes délinquants étudiés n’ont jamais eu de parent dans les gangs. En revanche, près de la moitié d’entre eux ont un grand frère déjà impliqué dans la criminalité. L’influence de ces « guides informels » est réelle, elle doit être mieux comprise, à défaut de quoi des fratries continueront de peupler, coude-à-coude, les bancs des tribunaux pour de macabres affaires. 
 
 Dernière en date ? Le procès de 3 hommes accusés d’un triple homicide a débuté mercredi 9 décembre, et durera 9 jours. Parmi eux, deux frères : Abdelatif et Mohamed. 
