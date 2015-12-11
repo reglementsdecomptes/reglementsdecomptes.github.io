@@ -33,7 +33,7 @@ Mos Def - Black on Both Sides (1999)
 
 À l’honneur de la famille s’ajoute l’honneur indispensable pour garder la crédibilité requise dans une économie ou les preuves de faiblesses incitent à la violence des adversaires désireux de se tailler une plus grande part dans le juteux trafic des stupéfiants. Cette légitimité requise, le sociologue Thomas Sauvadet l’appelle le capital guerrier, tandis ce que les Anglo-Saxons parlent de street credibility. La culture hip-hop anglo-saxonne regorgent elle aussi de références à ce code de l’honneur à eux. L’album Black on Both Sides de Mos Def (1999), n’est qu’un exemple parmi tant d’autres. “Je suis le code de l’honneur comme le ferait n’importe quel vrai homme. Je ne manque jamais de respect aux femme car j’aime ma mère.”, rappe l’Américain de Boston dans la chanson “Know That”. Le français Rhoff avait lui aussi largement traité le thème de l’honneur dans son album Le code de l’horreur (2008). Plus pessimiste, lui regrette l’absence d’honneur de certains en région parisienne: “Où sont le shommes d’honneur, à la Jack Mess? Plus de parole, ni loyauté, les balances tiennent le business“
 
-![RHOFF.jpeg]({{site.baseurl}}/img/RHOFF.jpeg)
+![RHOFF1.jpg]({{site.baseurl}}/img/RHOFF1.jpg)
 {: .fullwidth .image}
 Rhoff - Le code de l'horreur (2008)
 {: .credit}
