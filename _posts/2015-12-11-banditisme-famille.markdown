@@ -18,7 +18,9 @@ Causant la mort de 3 jeunes, cette expédition punitive aurait été montée par
 
 La dimension familiale du litige saute aux yeux, avec 3 individus d’une même fratrie impliqués dans la criminalité, empêtrés dans d’interminables vengeances sanguinaires. Un seul sur les 3 est encore vivant. Les frères Hornec, les frères Jourdain : les exemples passés à la postérité criminelle ne manquent pas. Marseille et se règlements de compte ne dérogent pas à la règle : à l’image du cas emblématique des frères Nicolas et François B. : réputés impitoyables. Originaires de la cité des Cèdres, assassinats, rapts et trafics rythment leurs journées. 
 
-Fiches sur les Bengler 
+![fiche Nicolas B.png]({{site.baseurl}}/img/fiche Nicolas B.png)
+![fiche François B.png]({{site.baseurl}}/img/fiche François B.png)
+
 
 Travailler en famille constitue, dans le milieu, un réel avantage. La trahison dans une fratrie fait figure d’exception. Un correspondant local du Monde place la confiance au centre de tout système criminel : «  nous pouvons dire que cette confiance est plus grande dans une même famille. Pas besoin de s’entretuer entre frères pour les gains, il n’y a qu’à partager, et effectivement c’est plus facile d’être en confiance avec des gens qu’on connait aussi bien que ceux de sa propre famille ». 
 
@@ -31,4 +33,6 @@ Peut être pouvons-nous trouver dans la famille un outil pour lutter contre la c
 
 Dernière en date ? Le procès de 3 hommes accusés d’un triple homicide a débuté mercredi 9 décembre, et durera 9 jours. Parmi eux, deux frères : Abdelatif et Mohamed. 
 
-Fiche Larimine
+![fiche Mohamed L.png]({{site.baseurl}}/img/fiche Mohamed L.png)
+![fiche Abdelatif L.png]({{site.baseurl}}/img/fiche Abdelatif L.png)
+
