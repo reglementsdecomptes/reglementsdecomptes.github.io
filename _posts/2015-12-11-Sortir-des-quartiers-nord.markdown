@@ -5,6 +5,7 @@ title: Sortir des quartiers nord
 
 
 
+
 ##Sortir des quartiers nord de Marseille, une nécessité bien difficile : le cas de Mohamed A.
 
 _Assassiné dans la nuit du 24 au 25 octobre 2015 au pied de l’immeuble des Lauriers, dans le 13e arrondissement de Marseille, Mohamed A., 15 ans, avait pourtant déménagé quatre ans plus tôt à Rennes._
@@ -25,7 +26,7 @@ Les familles font part de leur souhait de quitter les quartiers à la police, au
 
 ![lauriers-urbanisme.png]({{site.baseurl}}/img/lauriers-urbanisme.png)
 {: .fullwidth .image}
-**La Cité des grands Lauriers** - Les logements sociaux de ce grand-ensemble sont répliqués à l’identique
+**La Cité des grands Lauriers, 400 logements sociaux dans un immeuble** - Les logements sociaux de ce grand-ensemble sont répliqués à l’identique
 {: .credit}
 
 **Le manque de sécurité remis en cause**
