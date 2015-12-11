@@ -16,7 +16,7 @@ La cité, pourtant réputée assez calme, sert une nouvelle fois de décors à u
 
 L’expression de “match retour” qualifie des homicides qui prennent la forme de vengeance pour répondre, plus ou moins directement, à un meurtre ayant eu lieu précédemment. Dans le cas de Zakary R. le “match retour” a eu lieu trois mois après les faits mais il s’écoule parfois plus de temps avant que la vengeance ne se manifeste. Romain Capdepon, reporter Police et Justice à La Provence rappelle que certains règlements de comptes et les “match retour” qui les suivent s’échelonnent parfois sur plusieurs années. 
 
-![Infographie 1 (4).jpeg]({{site.baseurl}}/img/Infographie 1 (4).jpeg)
+![]({{site.baseurl}}/img/Infographie%201%20(4).jpeg)
 {: .fullwidth}
 
 Un “match retour” est donc la réponse directe, immédiate ou non, à un autre meurtre par des proches de la victime d’un règlement de compte précédent, mais le mode opératoire n’est pas toujours le même. Luc Leroux, journaliste au Monde et à l’AFP, spécialiste des règlements de compte à Marseille, explique que le mode opératoire des “matchs retour” peut être un simple coup de couteau dans une rue mais il peut aussi être beaucoup plus élaboré et spectaculaire. 
