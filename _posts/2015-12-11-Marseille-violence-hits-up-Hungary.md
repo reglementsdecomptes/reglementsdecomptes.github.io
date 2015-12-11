@@ -21,7 +21,7 @@ Violent killings of Hungarian nationals in France are uncommon according to the 
 
 Using words such as “immigrants”, the Hungarian media assume that the culprits were arms dealers. Dismissing the thesis of a settlement of accounts, Hungarian journalists assure that Laszlo T. was truly a victim since he had no police records. French investigators have yet to speak out on the case. 
 
-![SampleGraph]({{siteimg}}/img/Infographie_finale.jpg) 
+![Infographie_finale.jpg]({{site.baseurl}}/img/Infographie_finale.jpg)
 {: .fullwidth .image}
 
 Locals of Bekes county in Hungary, from which Laszlo T. was a native, expressed their utter surprise and emotional support to the family. As indicated by the local newspaper Beol, Laszlo’s mother was extremely affected by his loss and under sedatives. His step-dad handled the funerals and launched a crowdfunding campaign for the ceremony that was held on October 16th. Friends from his childhood boxing club also held a vigil in his honor. 
