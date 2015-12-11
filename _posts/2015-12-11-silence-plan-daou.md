@@ -6,7 +6,7 @@ categorie: articles
 
 Prolixes sur les problèmes généraux: la drogue, le chômage, la déscolarisation des jeunes, dans les quartiers nord de Marseille, où les trafiquants de drogue exercent une forte emprise, les habitants taisent des meurtres qui ont tout de règlements de compte. Au plan d’Aou, à quelques kilomètres de la Castellane, un [jeune homme de dix-huit ans](http://reglementsdecomptes.github.io/2015/12/11/PLANDAOU.html) est tué par balle au pied d’un immeuble, en fin de matinée le 12 octobre dernier. L’enquête policière se heurte au mutisme de certains voisins. 
 
-![]({{site.baseurl}}/img/Capture%20d%E2%80%99e%CC%81cran%202015-12-11%20a%CC%80%2016.48.16.png)
+![infographie 1.png]({{site.baseurl}}/img/infographie 1.png)
 {: .fullwidth .image}
 
 Suite aux opérations policières dans la cité de la Castellane, les trafics se déplacent dans les grands ensembles de la Bricarde mais également dans le quartier résidentiel du Plan d’Aou. - **Google Maps 10/12/2015**
@@ -16,7 +16,7 @@ Aux alentours de onze heures, en fin de matinée, le 12 octobre dernier, la rue 
 
 Sur la chaussée, des traces de sang témoignent pourtant d’un dernier appel au secours. Agonisant, le jeune homme a péniblement atteint la porte la plus proche, celle de l’immeuble au crépit orange, à quelques mètres de là. Un homme a ouvert et a appelé les secours. En vain, marins pompiers et Samu tentent de le réanimer mais l’adolescent succombe de ses blessures sur le trajet vers l’hôpital Nord de Marseille. Son cri de détresse, comme l’écho des balles, s’est tu dans les mémoires. “Je n’étais pas là quand c’est arrivé” élude une mère de famille habitant l’immeuble. Prolixes sur les problèmes généraux: la drogue, le chômage, la déscolarisation des jeunes, les voisins se taisent sur les cas personnels: “Tout le monde se connaît dans le quartier. Lui, le mort, non jamais entendu parler” explique un voisin. 
  
-![]({{site.baseurl}}/img/Capture%20d%E2%80%99e%CC%81cran%202015-12-11%20a%CC%80%2016.48.28.png)
+![Infographie 2.png]({{site.baseurl}}/img/Infographie 2.png)
 {: .fullwidth .image}
 
 Le 12 octobre, un jeune homme de 18 ans reçoit une ou deux balles dans la rue Jorgi Reboul et trouve refuge dans l’immeuble voisin. **(Google Maps 10/12/2015)**
