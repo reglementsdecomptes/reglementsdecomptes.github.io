@@ -27,7 +27,8 @@ Stéphane Quéré, expert en criminologie et que nous avons joint par téléphon
 
 > Tout est bon dans le “match retour”. Il peut adopter une autre forme que l’on appelle le “drive by shooting”: on tire sur un groupe de personnes alors que le véhicule est en déplacement.
  
- **Stéphane Quéré** - expert en criminologie 
+**Stéphane Quéré** - expert en criminologie 
+{: .credit}
  
 Dans le cas du “drive by shooting” le lien est encore plus difficile à établir car les personnes ne sont pas visées en tant qu’individus mais parce qu’elles représentent le clan rival ou parce qu’elles sont sur le territoire de ce clan, sans qu’elles aient pour autant un lien avec le clan lui même.
  
@@ -42,6 +43,7 @@ Depuis 2012 la police fait en sorte d’éviter les “match retour” grâce à
 > On cible tous les futurs auteurs ou victimes de règlements de compte, on ouvre des enquêtes tous azimuts sur eux, sur tous les sujets
 
 **Source policière**
+{: .credit}
 
 Ces agresseurs et victimes potentiels finissant par sortir de prison, l’échéance du règlement de compte n’en est que repoussée car comme le rappelle Romain Capdepon, “dans ce milieu on a de la mémoire”
 
@@ -52,7 +54,8 @@ Plus que la philosophie du “tuer pour tuer” il y a une véritable portée sy
 > L'absence de réponse peut attiser la convoitise d’autres réseaux qui diraient alors qu’ils “n’ont pas les couilles de réagir”.
 
 **Stéphane Quéré** - expert en criminologie 
- 
+{: .credit}
+
 La portée symbolique se voit aussi dans les modes opératoires de ces match retour. Le “drive by shooting” est une forme de “match retour” purement symbolique car elle cherche avant tout à fragiliser le clan, par le nombre de victime, mais aussi dans les mentalités en l’attaquant sur son propre territoire. 
 
 La technique du “barbecue” est un moyen symbolique fort car en brûlant le corps de la victime les auteurs de l’homicide retardent l’identification mais surtout retardent le processus de deuil de la famille, ce qui est une forme d’humiliation pour les membres du clan. Cette technique a encore plus de poids lorsque certains membres du clan visé ont des liens de sang. D’après une source policière c’est “la technique d’intimidation la plus efficace car elle permet à ses auteurs de dire ‘attention ne jouez pas avec nous sinon vous verrez ce qui va vous arriver’.”
