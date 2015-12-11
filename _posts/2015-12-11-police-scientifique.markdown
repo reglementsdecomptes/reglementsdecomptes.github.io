@@ -15,11 +15,17 @@ Sur les lieux du crime, interviennent Les Officiers de police judiciaire (OPJ), 
 
 Des traces digitales restées intactes,  en passant par les poils, tout objet du véhicule et de la victime n’ayant pas été impacté par les flammes sont relevés, placés sous scellées et envoyés au Laboratoire de police de Marseille. La division de l’identification du laboratoire de police scientifique se charge de l’analyse des prélèvements. « On est une dizaine d’experts en biologie génétique à travailler sur un cas, analyser les empruntes digitales quand elles sont disponible et les traces ADN » explique Bruno Sera. 
 
+![IMG_5914.PNG]({{site.baseurl}}/_posts/IMG_5914.PNG)
+
+![femur.png]({{site.baseurl}}/_posts/femur.png)
+
+
 
 Problème : les corps calcinés rendent difficile l’analyse des empruntes digitales. « Les mains et le corps sont les premiers membres à être impactés par le feu et sont donc  rarement exploitables. » confirme Bruno Sera. Quand le corps est trop calciné, il est impossible d’extraire de l’ADN cellulaire. Les experts tentent alors l’extraction d’ADN mitochondrial qui nécessite d’autres techniques plus complexes.  
 
 
 Fichage et coordination
+![infographie.png]({{site.baseurl}}/_posts/infographie.png)
 
 L’identification peut alors prendre beaucoup de temps. « Dans les cas d’urgence, néanmoins, on peut parvenir avec du sang ou un peu de muscle à une emprunte digitale en 48h » explique Bruno Sera. Les empruntes sont alors transmis au Ficher Automatisé des empruntes digitales. (FAED)
 
