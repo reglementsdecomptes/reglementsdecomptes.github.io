@@ -10,16 +10,14 @@ C’est presque en homme ordinaire que Bernard F. se rend, mardi 19 mai, un peu 
 
 Cette affaire aurait pu être classée à la rubrique “Faits divers” et passer relativement inaperçue. Mais l’opposition ne manque pas de faire remarquer la situation professionnelle douteuse de Bernard F., à la fois employé de la fonction publique et proche du grand banditisme. En seulement quelques heures, les premières réactions créent une véritable controverse, qui n’a cessé d’être alimenté depuis mai par des invectives de parts et d’autres de la classe politique marseillaise.  
 
-<iframe src='//cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Mr7AF3dgapAmR4p1IXXCQAnSB1xJeaQqcRBQak5Oabo&font=OpenSans-GentiumBook&lang=fr&timenav_position=top&initial_zoom=2&height=650' width='100%' height='650' frameborder='0'></iframe>
+<iframe src='//cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Mr7AF3dgapAmR4p1IXXCQAnSB1xJeaQqcRBQak5Oabo&font=OpenSans-GentiumBook&lang=fr&timenav_position=top&initial_zoom=2&height=500' width='100%' height='500' frameborder='0'></iframe>
 
 Le jour même de l’assassinat, le président du groupe PS de la ville de Marseille, Stéphane Mari, tweet ainsi «L'homme abattu ce matin faisait partie du grand banditisme et était employé municipal à la mairie de #Marseille : comment est-ce possible ?». Revenant aujourd’hui sur cette période, il explique s’être étonné que «la Mairie de Marseille et son entourage aient été très choqué par ses mots salissant leur image par de mauvaises insinuations». Selon lui, son seul souhait alors était d’interroger la population sur cette ambiguïté professionnelle douteuse.
 
 Stéphane Mari insiste sur le fait qu’il ne prétend pas détenir la réponse à ce mystère et qu’il “n’accuse personne en particulier. D’ailleurs il reconnaît que certains élus socialistes aient pu aussi pratiquer une forme de clientélisme. Néanmoins il évoque une série d’éléments troublants autour de cette affaire: outre les précédents judiciaires de celui qui se faisait appeler «Petit Ber» et les soupçons quant à la nature fictive de son emploi, de nombreuses rumeurs planeraient dans le quartier à propos du Service des Sports de la ville.
  
-> L'homme abattu ce matin faisait partie du grand banditisme et était employé municipal à la mairie de #Marseille : comment est-ce possible ?
-
-**Stephane Mari** - Président du groupe PS de la ville de Marseille (Tweet du 19 mai 2015)
-{: .credit}
+<blockquote class="twitter-tweet" lang="fr"><p lang="fr" dir="ltr">L&#39;homme abattu ce matin faisait partie du grand banditisme et était employé municipal à la mairie de <a href="https://twitter.com/hashtag/Marseille?src=hash">#Marseille</a> : comment est ce possible ?</p>&mdash; Stéphane MARI (@stephanemari) <a href="https://twitter.com/stephanemari/status/600778867926765568">19 Mai 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
  
 Le 14 septembre dernier, la Mairie de Marseille a de nouveau appuyé sa défense sur les différentes procédures judiciaires dans lesquelles Bernard F. se trouvait. Répondant à une question orale de Me Georges Maury, Président du groupe Front National de la ville de Marseille, Jean-Claude Gaudin explique que «la ville et son employeur n’ont pas eu d’attitude laxiste à son égard” lui imposant des exclusions temporaires à chacune de ses condamnations passées. 
 
