@@ -10,7 +10,11 @@ Laurine Benjebria
 _Assassiné dans la nuit du 24 au 25 octobre 2015 au pied de l’immeuble des Lauriers, dans le 13e arrondissement de Marseille, Mohamed A., 15 ans, avait pourtant déménagé quatre ans plus tôt à Rennes._
  
 C’est à 2h40 que Mohamed A. est retrouvé mort, dans le hall d’entrée D du bâtiment B des Lauriers. Son corps gît à côté de ceux de Kamal Z. (15 ans) et Abdelmalik A. (24 ans). Selon [La Provence](http://www.laprovence.com/article/actualites/3641977/marseille-ils-ont-ete-lachement-assassines-procureur.html), les trois jeunes gens ont été les victimes d’une fusillade dont ils n’étaient pas les cibles initiales. En effet, les assaillants cherchaient ce samedi soir-là une personne dont on ignore jusqu’à présent l’identité. Les auteurs présumés sont montés dans l’immeuble pour chercher leur cible, sans succès d’après l’AFP. Et c’est en redescendant qu’ils ont ouvert le feu sur les trois jeunes hommes désarmés. Au mauvais endroit, au mauvais moment ? La question n’est pas encore élucidée pas les forces de l’ordre. Pour rendre hommage aux trois victimes, une marche blanche fut organisée le 7 novembre dernier. Elle a rassemblé 700 personnes selon les organisateurs, comme le rapporte [_Le Figaro_](http://www.lefigaro.fr/flash-actu/2015/11/07/97001-20151107FILWWW00109-marche-blanche-apres-une-fusillade-a-marseille.php#xtor=AL-155-[Facebook]). Le quartier des Lauriers, endeuillé, exprimait alors son ras-le-bol des meurtres et trafics de drogue, mais aussi une volonté de faire changer les choses.
- 
+
+Répartition des logements sociaux du 13e arrondissement
+![carte-marseille-logementssociaux.jpg]({{site.baseurl}}/img/carte-marseille-logementssociaux.jpg)
+
+
 A lire : « En première ligne : mourir à 18 ans dans les quartiers nord de Marseille, de Mahauld Grenier »
  
 **Pour éviter l’engrenage des trafics, quitter les quartiers nord**
