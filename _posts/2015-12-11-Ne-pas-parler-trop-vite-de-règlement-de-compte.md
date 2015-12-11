@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 
 # Ne pas parler trop vite de règlement de comptes
@@ -33,7 +34,3 @@ La criminalité particulièrement forte de la région, qui ne se limite pas à M
 Homicides et règlements en dehors de Marseille et sa périphérie, de janvier 2014 à novembre 2015
 
 ![Carte-region.png]({{site.baseurl}}/img/Carte-region.png)
-
-
-
-
