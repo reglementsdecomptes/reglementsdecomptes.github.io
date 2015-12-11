@@ -32,7 +32,7 @@ Robert Bérengier a fait des braquages sa spécialité. En 2000, il participe à
 
 L’impossible réinsertion
 
->Je ne peux pas être passé sur Paris le 26 décembre 2000, parce que, chez nous, le 26, c’est les santons. C’est aussi important que le 25.
+>On dit toujours que la délinquance, c'est à cause des parents. Mais quand j'ai décidé de faire une connerie, c'est moi qui l'ai décidé !
 
 **Robert B** - Braqueur
 {: .credit}
@@ -41,7 +41,7 @@ En 2009, il se retrouve de nouveau devant la cour d’appel de Paris pour [le br
 
 Lors du procès en appel, l’avocat général a plaidé en sa faveur. Pour lui permettre de se reconstruire, il fallait l’innocenter, pour qu’il puisse de nouveau trouver un travail. Mais il semble bien que Robert B n’a jamais abandonné ses affaires dans la pègre marseillaise. Il devait participer à un autre braquage de fourgon, qui a été déjoué par la police au début du mois de septembre par [l’appréhension de neuf personnes](http://www.bfmtv.com/societe/annecy-une-attaque-de-fourgon-dejouee-neuf-suspects-deferes-911006.html), selon une informations révélée par Midi Libre et confirmée mardi 1er septembre par Brice Robin,  procureur de la République à Marseille. Leurs repérages sur la route des fourgons blindés en Haute-Savoie a mis la police sur leur piste. 
 
-<iframe src="https://kumu.io/embed/86776ceec9e8081dbd9086c57301e084" width="100%" height="400" frameborder="0"></iframe>
+<iframe src="https://kumu.io/embed/df7e010675ca1f7aa7c49135877766a4"  width="100" height="400" frameborder="0"></iframe>
 
 Le gang a été déstabilisé et retardé dans ses projets par la mort de Robert B : «  On ne peut absolument pas vous dire si il a été assassiné par des membres de cette équipe ou des concurrents, c'est trop tôt... Ca a surtout stoppé dans l'élan notre équipe qui s'est un peu égayée dans la nature », [a déclaré Brice Robin en conférence de presse](http://www.lamarseillaise.fr/marseille/faits-divers-justice/41401-marseille-un-gang-de-neuf-braqueurs-marseillais-demantele). Les obsèques du bandit auraient donné lieu à une occasion pour la police d’identifier Jean-Philippe B, selon Le Parisien. 
 
