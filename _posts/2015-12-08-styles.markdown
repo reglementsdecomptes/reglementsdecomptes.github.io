@@ -8,6 +8,8 @@ cover_image: RDC_sample-streetview.jpg
 
 Dans la série de règlements de comptes que nous avons étudiés, [trois seulement visent des trafiquants aguerris](https://reglementsdecomptes.wordpress.com/?p=142). Âgés d’une quarantaine d’années, ils tiennent le haut du pavé du banditisme marseillais. Qui sont-ils ? Quels sont leurs liens avec la nouvelle génération de trafiquants ?
 
+Samir A. est une ombre
+{: .punchline}
 
 Samir A. est **une ombre**. De cet homme, [abattu dans sa voiture](http://www.laprovence.com/article/actualites/3372476/aubagne-un-homme-crible-de-balles-dans-sa-voiture.html) de 11 balles dans la nuit du 20 avril 2015, comme le rapportent les quotidiens _La Provence_ et _Le Parisien_, il n’a été possible de déterminer que l’âge, 43 ans, et l’adresse, dans le centre-ville d’Aubagne. Le reste n’est que rumeur : il tremperait dans le trafic d’armes, serait un braqueur de haute volée… selon des sources anonymes, citées par la presse locale. Les éléments connus de son casier judiciaire ne comportent aucun faits liés au trafic d’armes ou de stupéfiant. Si l’homme frayait avec le milieu, il était visiblement discret.
 
@@ -18,21 +20,29 @@ Pourquoi faire un taf honnête ?<br /><br />
 Au quartier ils sont millionnaires, <br /><br />
 en vendant des savonettes »
 
-“Ils ne nous connaissent pas” — le rappeur Soprano
+“Ils ne nous connaissent pas” — **le rappeur Soprano**
 {: .credit}
 
 Des « pros » du crime organisé
 ------------------------------
 
-« Jeunes et vieux, dans le monde du trafic, c’est incomparable », tranche Laurent Mucchielli, sociologue et criminologue de l’Observatoire de la délinquance à Marseille, interrogé par téléphone. « Les plus vieux sont souvent des anciens de la <a style="cursor:help;color:#9e7900;" title="Les individus qui ont participé à l'exportation d'héroïne aux États-Unis depuis la France, dans les années 1980.">French Connection</a>. Ils appartiennent à cette époque du trafic de coke, dans les années 1980\. Plus professionnels, plus expérimentés que les petits jeunes, les caïds de l’ancienne génération ne vivent plus dans les cités marseillaises depuis longtemps », précise-t-il.
+« Jeunes et vieux, dans le monde du trafic, c’est incomparable », tranche Laurent Mucchielli, sociologue et criminologue de l’Observatoire de la délinquance à Marseille, interrogé par téléphone. « Les plus vieux sont souvent des anciens de la <a style="cursor:help;" title="Les individus qui ont participé à l'exportation d'héroïne aux États-Unis depuis la France, dans les années 1980.">French Connection</a>. Ils appartiennent à cette époque du trafic de coke, dans les années 1980\. Plus professionnels, plus expérimentés que les petits jeunes, les caïds de l’ancienne génération ne vivent plus dans les cités marseillaises depuis longtemps », précise-t-il.
+
+
+![SampleGraph]({{siteimg}}/img/RDC_sample-image.jpg) 
+{: .fullwidth .image}
+
+Photo : Moshe Reuveni - Flickr - **Creative Commons**
+{: .credit}
 
 C’est le cas de Samir A. À Aubagne, la ville où il résidait depuis plusieurs années, le quadragénaire semble n’avoir jamais laissé aucune trace. Voisins, associations de quartier, commerces que nous avons contactés ont tous répondu de la même façon : « connaît pas ». Une discrétion qui s’étend au web : sur Internet, Samir A. n’a aucun existence. A la différence d’autres victimes de règlements de compte, il n’a pas de profil Facebook, pas de compte Twitter, et encore moins de photos.
 
 ![SampleGraph]({{siteimg}}/img/RDC_sample-streetview.jpg) 
 {: .fullwidth .image}
 
-Photo : Moshe Reuveni - Flickr - **Creative Commons**
-{: .credit}
+<a>Foued B.</a> a été tué avenue de Verdun, à Aubagne 
+{: .punchline}
+
 
 Pourquoi ces « anciens » du trafic cherchent-ils autant l’anonymat ? Volonté de se « ranger » ou stratégie de protection ? Les deux à la fois, estime un haut responsable de la police de Marseille : « arrivés à 40 ans, certains criminels décident de lâcher du lest et de s’éloigner des lieux chauds du trafic ». Un avis partagé par M. Mucchielli : « Les forces de police ne se concentrent que sur les cités car ce sont les parties visibles de l’iceberg mais il y a aussi de gros trafiquants qui se cachent dans les petites villes autour de Marseille », estime-t-il.
 
@@ -57,6 +67,7 @@ Les jeunes trafiquants ont en revanche tendance à se faire justice eux-mêmes e
 Suivi des enquêtes sur les 21 affaires de règlements de comptes ayant eu lieu a Marseille et dans la région de
 janvier 2014 a avril 2015 :a la fin avril 2015. l'enquête n'avait abouti qu'une seule fois sur une condamnation.
 {: .note}
+
 
 Milieux cloisonnés
 ------------------
