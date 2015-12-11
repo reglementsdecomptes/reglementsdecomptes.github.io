@@ -14,7 +14,7 @@ Ce n’est pas un cas isolé, selon l’AFP, il y a deux ans dans le même quart
 ##  **Quartier de l’Opéra, un quartier à risque**
 > “Le quartier de l’Opéra, c’est un quartier de nuit, situé à l’hyper centre de Marseille. Il y a beaucoup de monde qui fréquente les commerces et les boites de nuit, donc c’est un quartier à risque.” 
 
-Guy Nicolaï, adjoint délégué à la sécurité de la mairie du 1er arrondissement de Marseille{: .credit}
+- Guy Nicolaï, adjoint délégué à la sécurité de la mairie du 1er arrondissement de Marseille {: .credit} 
 
 Depuis cette fusillade, “un sentiment d’insécurité, de tristesse et de peur s’est installé parmi les commerçants. Une voiture peut passer et mitrailler. On essaie de les tranquilliser avec les mesures prises pour sécuriser le secteur. Le nombre de policiers n’a cependant pas été augmenté. Il y a beaucoup de patrouilles à pied, des brigades VTT, mais finalement comme ailleurs.” nous précise l’adjoint délégué à la sécurité.
 
