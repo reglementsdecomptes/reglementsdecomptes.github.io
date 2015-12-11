@@ -4,7 +4,7 @@ published: true
 
 Le 6 août 2015, Robert Bérengier est tué par balles (lien vers article Raphaël) dans une avenue commerçante du 12e arrondissement de Marseille. Ce quinquagénaire n’était pas un inconnu des forces de police. Braqueur notoire, il était sorti de prison en 2012 et semblait préparer son prochain coup. Portrait d’une forte tête de la pègre marseillaise.
 
-![648x415_robert-berengier-croque-pendant-procese-braquage-gentilly-2006.jpg]({{site.baseurl}}/_posts/648x415_robert-berengier-croque-pendant-procese-braquage-gentilly-2006.jpg)
+![648x415_robert-berengier-croque-pendant-procese-braquage-gentilly-2006.jpg]({{site.baseurl}}/img/648x415_robert-berengier-croque-pendant-procese-braquage-gentilly-2006.jpg)
 
 Ses amis le surnommaient le “Petit Robert”. Il n’a pourtant rien d’un enfant de coeur. Fiché pour grand banditisme et surveillé par la police, il faisait partie des grands noms d’un réseau de braqueurs « à l’ancienne », fort d’une carrière de 30 ans dans la délinquance. Un parcours qui s’est achevé un matin du mois d’août dans une artère commerçante du quartier de Beaumont, quand deux individus ont tiré sur lui à huit reprises au calibre 9mm. 
 
