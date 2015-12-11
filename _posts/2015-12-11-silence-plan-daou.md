@@ -19,7 +19,7 @@ Sur la chaussée, des traces de sang témoignent pourtant d’un dernier appel a
 ![]({{site.baseurl}}/img/Capture%20d%E2%80%99e%CC%81cran%202015-12-11%20a%CC%80%2016.48.28.png)
 {: .fullwidth .image}
 
-Légende: Le 12 octobre, un jeune homme de 18 ans reçoit une ou deux balles dans la rue Jorgi Reboul et trouve refuge dans l’immeuble voisin. **(Google Maps 10/12/2015)**
+Le 12 octobre, un jeune homme de 18 ans reçoit une ou deux balles dans la rue Jorgi Reboul et trouve refuge dans l’immeuble voisin. **(Google Maps 10/12/2015)**
 {: .credit}
 
 Pour la police, l’affaire est pourtant très localisée et a toutes les caractéristiques d’un règlement de comptes. Le jeune homme né en 1996 avait déjà un casier judiciaire fourni : vols avec effraction, violences volontaires et affaires de stupéfiants. Un profil devenu tristement banal dans un quartier quasiment administré par les trafiquants de narcotiques. La police judiciaire de Marseille tait son identité, deux complices présumés ont déjà été interpellés dans le dossier et les enquêteurs s’apprêterait à localiser et interpeller l’auteur de l’assassinat, selon une source policière. 
