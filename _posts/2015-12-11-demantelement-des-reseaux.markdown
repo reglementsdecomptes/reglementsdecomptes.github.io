@@ -8,7 +8,7 @@ cover_image: "Cite-des-Bleuets.png"
 
 Abdallah A. a été assassiné le 19 juin 2015, un mois après le démantèlement d’un réseau de trafic de stupéfiants dans une cité voisine. Une source policière n’exclut pas qu’Abdallah soit une nouvelle victime des guerres de territoires déclenchées par le démantèlement des réseaux à Marseille.
 
-![Cite-des-Bleuets.png]({{site.baseurl}}/_posts/Cite-des-Bleuets.png)
+![Cite-des-Bleuets.png]({{site.baseurl}}/Cite-des-Bleuets.png)
 {: .fullwidth .image}
 Avenue Saint-Paul, Cité des Bleuets, Marseille (Google)
 {: .credit}
@@ -17,7 +17,7 @@ Sous le porche d’un immeuble de la cité des Bleuets, dans les quartiers Nord 
 
 A 28 ans, Abdallah était connu des services de police pour des affaires de stupéfiants, sans être un “gros profil” d’après l’AFP. La source policière contactée directement par téléphone indique simplement qu’actuellement “l’enquête est en cours”. Mais une autre source policière citée à l’époque par le Le Figaro, affirmait qu’“il y a de fortes probabilités mais pas de certitude sur le mobile. Un gros réseau de trafic de stupéfiants avait été démantelé dans ce secteur il y a un mois”. Le 18 mai 2015, en effet, près de 300 policiers ont mené un vaste coup de filet permettant d’interpeller plus d'une vingtaine de personnes dans la cité des Lauriers, à 900m de la cité des Bleuets. 
 
-![Carte Bleuets Lauriers final.jpg]({{site.baseurl}}/_posts/Carte Bleuets Lauriers final.jpg)
+![Carte Bleuets Lauriers final.jpg]({{site.baseurl}}/Carte Bleuets Lauriers final.jpg)
 
 Si la mort d’Abdallah A. a bien un lien avec ce démantèlement, il ne serait pas un cas isolé. L’opération policière a également provoqué un règlement de compte dans la cité des Lauriers, le 25 octobre dernier. A ce propos, Laurent Nuñez, préfet de police des Bouches-du-Rhône, expliquait au micro de RTL que le quartier, déstabilisé, était la cible d’une guerre de territoire entre réseaux adverses. 
 
@@ -45,7 +45,7 @@ Mais la déconstruction des réseaux a d’autres conséquences à plus long ter
 Et des exemples, il y en a beaucoup. En avril 2014, deux hommes à peine sortis de la prison de Lyunes, Yassine A. et Mehdi B., sont abattus dans leur voiture, sur l’autoroute. En mars 2013 déjà, un détenu est exécuté cinq minutes après avoir été libéré de la prison des Baumettes. 
 Comme eux, 14 personnes ont été victimes des règlements de compte à Marseille en 2015. Et parmi ces cas, beaucoup surviennent suite au démantèlement de réseaux de trafic de drogue.
 
-![Timeline.png]({{site.baseurl}}/_posts/Timeline.png)
+![Timeline.png]({{site.baseurl}}/Timeline.png)
 
 Si cette chronologie n’est pas exhaustive, elle permet de mettre en évidence l’apparition de règlements de compte après les démantèlements. Pour le cas d’Abdallah A., l’enquête est en cours, et doit encore confirmer que son assassinat a bien un lien avec le démantèlement du réseau des Lauriers, un mois plus tôt.
 
