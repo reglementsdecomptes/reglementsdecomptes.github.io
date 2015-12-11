@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 ## « Règlement de comptes » en plein quartier Beaumont
 
