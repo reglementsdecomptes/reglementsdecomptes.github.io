@@ -291,6 +291,47 @@ blockquote {
 
 
 
+// * * * * * * * FICHE * * * * * * * * * * 
+
+// * * * * * * * FICHE * * * * * * * * * * 
+
+
+
+.fiche {
+        padding : $spacing-unit/6 0;
+        color: $white;
+        background-color:$black; 
+        font-size: 13px;
+        font-family: $sans;
+        line-height: 1em;
+        margin-bottom: 0em;
+        //color:red;
+       
+
+        &.description{
+            font-size: 14px;
+            line-height: 1.5em;
+            letter-spacing: 0.050em;
+
+        }
+
+        &.info {
+            font-weight: 500;
+            font-size: 12px;
+            letter-spacing: 0.1em;
+            //text-transform: uppercase;
+        }
+
+
+}
+
+
+
+
+
+
+
+
 /**
  * Code formatting
  */

@@ -88,3 +88,22 @@ Jacques Dallest
 
 
 *Camille Kaelblen*
+
+Bloc Fiche
+{: .fiche}
+
+Fred Bourgeais
+--------------
+{: .fiche}
+
+Une ligne d'info
+{: .fiche.info}
+
+Le poids de la hiérarchie dans les organisations de trafiquants dans les cités est aussi un facteur de ségrégation entre ceux qui occupent les échelons inférieurs et les poids lourds du grand banditisme
+{: .fiche.description}
+
+
+{: .fiche}
+
+
+
