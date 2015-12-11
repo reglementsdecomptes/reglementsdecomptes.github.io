@@ -28,6 +28,7 @@ La prudence est de mise avec les très jeunes (11-15 ans) car leur implication n
 Kamal Z., 15 ans, une des victimes du triple homicide des Lauriers, a priori pas cible originelle des assaillants, était en CAP béton armé au Lycée Polyvalent Diderot dans le 13ème et préparait son bac professionnel. Il était le meilleur élève de sa classe d’après le proviseur de son établissement. Mohamed A., l’autre victime âgée de 15 ans, était scolarisé dans un collège en zone de sécurité prioritaire du quartier Blosne de Rennes.
  
 ![dessin scol.png]({{site.baseurl}}/img/dessin scol.png)
+{: .fullwidth}{: .image}
  
 Ces taux réalisés par l’Insee en 2012, pas si éloignés de la moyenne nationale (98.7%), s’inscrivent dans une dynamique à la baisse du décrochage scolaire, qui  concerne 110 000 élèves en 2015 au lieu de 136 000 en 2014. “Les résultats sont encourageants, même si la communauté éducative doit maintenir ses efforts sur les plus jeunes, deux tiers des élèves décrochant à 15 ans, dès la fin du collège”, avertit la ministre de l’Éducation Nationale, le 1er décembre 2015.
 
