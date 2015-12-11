@@ -23,7 +23,7 @@ Un “match retour” est donc la réponse directe, immédiate ou non, à un aut
 
 Les “match retour” ont un seul point commun : ce sont des guet-apens préparés. Un règlement de compte n’est jamais le fruit du hasard et la victime est toujours mise dans une situation dont elle ne peut pas s’échapper. C’est le cas du “match retour” de Zackary R. qui, sur son scooter puis à pied, n’a aucun moyen d’échapper aux tirs de ses agresseurs. Abadallah A. n’a également aucune chance d’éviter les balles le 20 juin car il est sous un porche puis s'échappe à pied, sans aucun moyen de locomotion.
 
-Les modes opératoires des différents “match retour” varient souvent d’une affaire à l’autre. Les armes utilisées ne sont pas forcément les mêmes. Ce sont souvent des kalachnikovs car elles sont des armes faciles à manier et demandent très peu d’entretien mais les agresseurs peuvent aussi utiliser des armes de poing, comme un calibre 9mm dans le cas de l’homicide d’Abdallah A. 
+Les modes opératoires des différents “match retour” varient souvent d’une affaire à l’autre et les armes utilisées ne sont pas forcément les mêmes. Ce sont souvent des kalachnikovs car elles sont des armes faciles à manier et demandent très peu d’entretien mais les agresseurs peuvent aussi utiliser des armes de poing, comme un calibre 9mm dans le cas de l’homicide d’Abdallah A. 
 
 Stéphane Quéré, expert en criminologie et que nous avons joint par téléphone explique que ces “match retour” sont souvent délicats à mettre en lien avec des affaires précédentes, notamment au vu de la diversité des modes opératoire :
 
