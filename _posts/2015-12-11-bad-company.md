@@ -45,6 +45,9 @@ Still he was out of jail by January, after spending little more than 5 months th
  
 As of now Ange Toussaint F. remains in jail but the « traditional » Corsica organized-crime clans remain very much active. Marseille is no Chicago, and the Shepherds Robbers no Cosa Nostra but, under the mediteranean sun, organized crime doesn’t seem ready to end.
 
+
+**Elise Blanchard**
+
 ![Rue_Panier_Marseille-1.png]({{site.baseurl}}/img/Rue_Panier_Marseille-1.png)
 {: .fullwidth .image}
 Panier Street
