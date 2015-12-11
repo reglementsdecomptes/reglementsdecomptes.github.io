@@ -6,6 +6,7 @@ categories: articles
 cover_image: "Cite-des-Bleuets.png"
 ---
 
+
 Abdallah A. a été assassiné le 19 juin 2015, un mois après le démantèlement d’un réseau de trafic de stupéfiants dans une cité voisine. Une source policière n’exclut pas qu’Abdallah soit une nouvelle victime des guerres de territoires déclenchées par le démantèlement des réseaux à Marseille.
 
 ![Cite-des-Bleuets.png]({{site.baseurl}}/img/Cite-des-Bleuets.png)
@@ -18,6 +19,7 @@ Sous le porche d’un immeuble de la cité des Bleuets, dans les quartiers Nord 
 A 28 ans, Abdallah était connu des services de police pour des affaires de stupéfiants, sans être un “gros profil” d’après l’AFP. La source policière contactée directement par téléphone indique simplement qu’actuellement _“l’enquête est en cours”_. Mais une autre source policière citée à l’époque par le Le Figaro, affirmait qu’_“il y a de fortes probabilités mais pas de certitude sur le mobile. Un gros réseau de trafic de stupéfiants avait été démantelé dans ce secteur il y a un mois”_. Le 18 mai 2015, en effet, près de 300 policiers ont mené un vaste coup de filet permettant d’interpeller plus d'une vingtaine de personnes dans la cité des Lauriers, à 900m de la cité des Bleuets. 
 
 ![Carte Bleuets Lauriers final.jpg]({{site.baseurl}}/img/Carte Bleuets Lauriers final.jpg)
+{: .fullwidth}
 
 Si la mort d’Abdallah A. a bien un lien avec ce démantèlement, il ne serait pas un cas isolé. L’opération policière a également provoqué un règlement de compte dans la cité des Lauriers, le 25 octobre dernier. A ce propos, Laurent Nuñez, préfet de police des Bouches-du-Rhône, expliquait au micro de RTL que le quartier, déstabilisé, était la cible d’une guerre de territoire entre réseaux adverses. _"Il y avait des tentatives de reprises et on peut penser que le règlement de compte [du 25 octobre] est sous doute lié à cette tentative."_
 
@@ -47,6 +49,7 @@ Et des exemples, il y en a beaucoup. En avril 2014, deux hommes à peine sortis 
 Comme eux, 14 personnes ont été victimes des règlements de compte à Marseille en 2015. Et parmi ces cas, beaucoup surviennent suite au démantèlement de réseaux de trafic de drogue.
 
 ![Timeline.png]({{site.baseurl}}/img/Timeline.png)
+{: .fullwidth}
 
 Si cette chronologie n’est pas exhaustive, elle permet de mettre en évidence l’apparition de règlements de compte après les démantèlements. Pour le cas d’Abdallah A., l’enquête est en cours, et doit encore confirmer que son assassinat a bien un lien avec le démantèlement du réseau des Lauriers, un mois plus tôt.
 
