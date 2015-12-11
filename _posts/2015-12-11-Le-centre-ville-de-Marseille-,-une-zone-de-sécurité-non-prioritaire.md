@@ -40,7 +40,7 @@ Dans ce cadre exceptionnel, le préfet de Police des Bouches du Rhône annonce q
 
 > Il ne faut pas délaisser le centre ville car c’est un point important. Néanmoins, on constate une baisse des faits criminels dans ce secteur.” 
 
-Laurent Nunez
+Laurent Nunez, préfet de Police des Bouches-du-Rhône
 {: .credit}
 
 [Justine Barraud](https://twitter.com/JustineBarraud)
