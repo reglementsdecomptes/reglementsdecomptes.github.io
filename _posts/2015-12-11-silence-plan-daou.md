@@ -16,7 +16,7 @@ Aux alentours de onze heures, en fin de matinée, le 12 octobre dernier, la rue 
 
 Sur la chaussée, des traces de sang témoignent pourtant d’un dernier appel au secours. Agonisant, le jeune homme a péniblement atteint la porte la plus proche, celle de l’immeuble au crépit orange, à quelques mètres de là. Un homme a ouvert et a appelé les secours. En vain, marins pompiers et Samu tentent de le réanimer mais l’adolescent succombe de ses blessures sur le trajet vers l’hôpital Nord de Marseille. Son cri de détresse, comme l’écho des balles, s’est tu dans les mémoires. “Je n’étais pas là quand c’est arrivé” élude une mère de famille habitant l’immeuble. Prolixes sur les problèmes généraux: la drogue, le chômage, la déscolarisation des jeunes, les voisins se taisent sur les cas personnels: “Tout le monde se connaît dans le quartier. Lui, le mort, non jamais entendu parler” explique un voisin. 
  
- ![Capture d’écran 2015-12-11 à 16.48.28.png]({{site.baseurl}}/img/Capture d’écran 2015-12-11 à 16.48.28.png)
+![]({{site.baseurl}}/img/Capture%20d%E2%80%99e%CC%81cran%202015-12-11%20a%CC%80%2016.48.28.png)
 {: .fullwidth .image}
 
 Légende: Le 12 octobre, un jeune homme de 18 ans reçoit une ou deux balles dans la rue Jorgi Reboul et trouve refuge dans l’immeuble voisin. **(Google Maps 10/12/2015)**
