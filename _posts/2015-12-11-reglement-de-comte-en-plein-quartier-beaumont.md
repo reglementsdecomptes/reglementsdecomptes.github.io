@@ -9,7 +9,7 @@ published: true
 
 Les clients font la queue à la boulangerie, la petite terrasse aux murs jaunis du « Rotonde Bar » est à moitié remplie et le soleil est déjà haut dans le ciel sans nuages de Marseille, raconte Sylvie, jointe par téléphone. Ce devait être une journée splendide. Ce jeudi 6 août 2015 vers 9 heures, deux hommes à moto s’arrêtent près du bar, avenue du 24 avril 1915, dans un quartier pavillonnaire dans l’Est de Marseille. L’un reste en attente sur sa moto, l’autre descend. Il porte une perruque et fait des allers et retours entre le bar et la terrasse.
 
-![Situation du “Rotonde Bar” dans Marseille. Google]({{site.baseurl}}/_posts/carte.png)
+![carte.png]({{site.baseurl}}/_posts/carte.png)
 {: .fulwidth .image}
 Situation du “Rotonde Bar” dans Marseille. Google
 {: .credit}
