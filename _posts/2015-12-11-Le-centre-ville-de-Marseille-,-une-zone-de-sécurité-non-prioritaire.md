@@ -27,7 +27,8 @@ Le répartition des effectifs et le ratio des équipes se fait en fonction du no
 
 La division Centre, dont fait parti le quartier de l’Opéra, ne concentre que quatre arrondissements: le 1er, le 2e, le 6e et le 7e. En comparaison, les divisions nord et sud regroupe 12 autres arrondissements dont 10 sont considérées comme des zones de sécurité prioritaire (ZSP).
 
-![Carte-ZSP-Marseille.png]({{site.baseurl}}/img/Carte-ZSP-Marseille.png){: .fullwidth .image}
+![Carte-ZSP-Marseille.png]({{site.baseurl}}/_posts/Carte-ZSP-Marseille.png)
+{: .fullwidth .image}
 
 La répartition des policiers se base sur des études sur la criminalité à moyen-long terme.
 “A chaque jour un dispositif est différent, une fusillade c’est un cas anecdotique par rapport au problème global de la délinquance. Elle ne symbolise pas forcément une hausse de la délinquance.” nous explique Arnaud Louis, porte-parole de la DDSP des Bouches du Rhône.
