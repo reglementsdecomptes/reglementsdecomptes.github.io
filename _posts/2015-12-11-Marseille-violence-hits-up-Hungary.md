@@ -3,6 +3,7 @@ published: true
 ---
 
 
+
 ## Marseille's violence hits up Hungary
 
 _In September, Hungary was brought violently into the tumultuous crime scene of France’s southern city Marseille. A Hungarian man, Laszlo T. was shot to death in front of a bar, supposedly by gang members._
@@ -13,7 +14,10 @@ The alleged target, Laszlo T., was a 29 years old Hungarian man living in France
 
 Violent killings of Hungarian nationals in France are uncommon according to the Hungarian Consulate in Paris. Hence the media fury it triggered in the country, prompt to drawing conclusions. Newspapers with a wide audience mentioned a dispute with “Arabs” while the French police is still not revealing the identity of the suspects. In a political context of rising nationalism in Europe and especially in Hungary, it is not surprising that the media are fueling the argument of a civilizational clash. 
 
-> “During the tragic night, a group of Arab immigrants refused to pay their order and caused a conflict” - Blikk, a daily national tabloid
+> During the tragic night, a group of Arab immigrants refused to pay their order and caused a conflict.
+
+**Blikk** — national daily tabloid
+{: .credit}
 
 Using words such as “immigrants”, the Hungarian media assume that the culprits were arms dealers. Dismissing the thesis of a settlement of accounts, Hungarian journalists assure that Laszlo T. was truly a victim since he had no police records. French investigators have yet to speak out on the case. 
 
