@@ -2,9 +2,6 @@
 published: true
 ---
 
-
-## Braquages, mécanique et petits santons : plongée dans la vie du gangster Robert B.
-
 Le 6 août 2015, Robert Bérengier est tué par balles (lien vers article Raphaël) dans une avenue commerçante du 12e arrondissement de Marseille. Ce quinquagénaire n’était pas un inconnu des forces de police. Braqueur notoire, il était sorti de prison en 2012 et semblait préparer son prochain coup. Portrait d’une forte tête de la pègre marseillaise.
 
 ![648x415_robert-berengier-croque-pendant-procese-braquage-gentilly-2006.jpg]({{site.baseurl}}/_posts/648x415_robert-berengier-croque-pendant-procese-braquage-gentilly-2006.jpg)
