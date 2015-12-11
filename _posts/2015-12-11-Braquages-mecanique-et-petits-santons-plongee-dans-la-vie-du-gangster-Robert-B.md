@@ -3,8 +3,7 @@ published: true
 ---
 
 
-Le 6 août 2015, Robert B est tué par balles (lien vers article Raphaël) dans une avenue commerçante du 12e arrondissement de Marseille. Ce quinquagénaire n’était pas un inconnu des forces de police. Braqueur notoire, il était sorti de prison en 2012 et semblait préparer son prochain coup. Portrait d’une forte tête de la pègre marseillaise.
-{: .punchline}
+**Le 6 août 2015, Robert B est tué par balles (lien vers article Raphaël) dans une avenue commerçante du 12e arrondissement de Marseille. Ce quinquagénaire n’était pas un inconnu des forces de police. Braqueur notoire, il était sorti de prison en 2012 et semblait préparer son prochain coup. Portrait d’une forte tête de la pègre marseillaise.**
 
 ![648x415_robert-berengier-croque-pendant-procese-braquage-gentilly-2006.jpg]({{site.baseurl}}/img/648x415_robert-berengier-croque-pendant-procese-braquage-gentilly-2006.jpg)
 
@@ -16,8 +15,7 @@ Le meurtre a tout d’un règlement de compte. Robert B évoluait en effet dans 
 
 Le quinquagénaire était notamment lié à la “Dream Team”, ce gang de braqueurs qui sévit entre la France et l’Espagne. Il a également un lien trouble avec Antonio Ferrara, un bandit célèbre pour s’être évadé de prison à deux reprises. Les enquêteurs soupçonnent fortement Robert Bérengier d’avoir aidé “Nino” Ferrara à s’échapper de la prison de Fresnes en 2003, selon [La Provence](http://www.laprovence.com/article/actualites/3525845/marseille-un-homme-abattu-en-pleinerue-dans-un-guet-apens.html). Les braqueurs Michel Acariès et Jean-Philippe Boehm semblent également faire partie de ses proches.
 
-Profession truand, spécialité braquages
-{: .punchline}
+**Profession truand, spécialité braquages**
 
 >Je ne peux pas être passé sur Paris le 26 décembre 2000, parce que, chez nous, le 26, c’est les santons. C’est aussi important que le 25.
 
@@ -32,8 +30,7 @@ C’est à l’âge de 26 ans, après le suicide de son frère, que Robert B ren
 
 Robert Bérengier a fait des braquages sa spécialité. En 2000, il participe à l’attaque d’un fourgon de la société de transport de fonds Brink's à Gentilly. Dans ce cas emblématique, environ 6 millions d’euros ont été dérobés par plusieurs membres de la fine fleur du banditisme marseillais. La police finit par retrouver une partie des membres du gang endormie sur des sacs de billets, les armes à la main. Sur le banc des accusés, on retrouve Karim M, Bruno C et Jean-Jacques N, membres de la fameuse « [Dream Team](http://www.liberation.fr/societe/2013/02/13/la-rechute-des-tontons-braqueurs_881610) ». Le charismatique Antonio Ferrara et le corse Joseph M sont également présents, et seront acquittés en appel, fautes de preuves suffisantes. Robert B aura moins de chance. Son ADN, retrouvé sur les lieux, le trahit. Il tente de se défendre : « Je ne peux pas être passé sur Paris le 26 décembre 2000, parce que, chez nous, le 26, c’est les santons. C’est aussi important que le 25. » Il dit n'avoir commis « que des cambriolages de bijouteries et jamais des hold-up », selon des propos rapportés par [Le Parisien](http://www.leparisien.fr/val-de-marne/l-adn-au-coeur-du-proces-des-braqueurs-14-12-2006-2007591580.php). Robert B sera condamné à 9 ans de réclusion criminelle. 
 
-L’impossible réinsertion
-{: .punchline}
+**L’impossible réinsertion**
 
 >On dit toujours que la délinquance, c'est à cause des parents. Mais quand j'ai décidé de faire une connerie, c'est moi qui l'ai décidé !
 
@@ -50,4 +47,4 @@ Le gang a été déstabilisé et retardé dans ses projets par la mort de Robert
 
 La mort de Robert B est-elle liée à cette nouvelle activité ? Mystère. Lorsqu’il a été assassiné le 6 août 2015, Robert B résidait dans le centre-ville de Marseille Il était en liberté depuis trois ans. Selon un des proches de l’enquête qui s’est exprimé auprès de La Provence,  “Les tueurs connaissaient son emploi du temps. Et le fait qu'il n'ait pas enlevé son casque peut laisser penser qu'il n'était pas tranquille ». Le truand fan de moto a quitté ce monde un casque vissé sur la tête.
 
-Chloé Fiancette
+**Chloé Fiancette**
