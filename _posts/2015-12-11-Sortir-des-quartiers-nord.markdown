@@ -2,7 +2,7 @@
 published: true
 ---
 
-## Sortir des quartiers nord de Marseille, une nécessité bien difficile : le cas de Mohamed A.
+##Sortir des quartiers nord de Marseille, une nécessité bien difficile : le cas de Mohamed A.
 
 _Assassiné dans la nuit du 24 au 25 octobre 2015 au pied de l’immeuble des Lauriers, dans le 13e arrondissement de Marseille, Mohamed A., 15 ans, avait pourtant déménagé quatre ans plus tôt à Rennes._
  
