@@ -24,7 +24,7 @@ Cet empressement à voir un règlement de comptes dans un cas d’homicide qui s
 
 LIRE AUSSI : [“Quand le trafic dépasse les frontières de Marseille”](https://reglementsdecomptes.wordpress.com/2015/05/12/quand-le-trafic-depasse-les-frontieres-de-marseille/) 
 
-La criminalité particulièrement forte de la région, qui ne se limite pas à Marseille et les “quartiers nord”, tisse une toile fond favorable à ce genre d’interprétation hâtive.  En 2015, il y a eu 20 règlements de compte dans le département des Bouches-du-Rhône, dont 12 à Marseille, a indiqué la préfecture de police. La Ciotat, Port de Bouc, Aubagne, Gignac-la-Nerthe, etc. sur les 32 cas de règlements de comptes que nous avons répertoriés entre le 1er janvier 2014 et le 30 novembre 2015, huit ont eu lieu dans un périmètre situé au delà d’une vingtaine de kilomètres de la cité phocéenne (Voir Carte). A la campagne, les règlements de comptes n’expliquent donc pas tout.
+La criminalité particulièrement forte de la région, qui ne se limite pas à Marseille et les “quartiers nord”, tisse une toile fond favorable à ce genre d’interprétation hâtive. En 2015, il y a eu 20 règlements de compte dans le département des Bouches-du-Rhône, dont 12 à Marseille, a indiqué la préfecture de police. La Ciotat, Port de Bouc, Aubagne, Gignac-la-Nerthe, etc. sur les 32 cas de règlements de comptes que nous avons répertoriés entre le 1er janvier 2014 et le 30 novembre 2015, huit ont eu lieu dans un périmètre situé au delà d’une vingtaine de kilomètres de la cité phocéenne (Voir Carte).  
 
                                            Natacha Gorwitz et Juliette Jabkhiro
 
