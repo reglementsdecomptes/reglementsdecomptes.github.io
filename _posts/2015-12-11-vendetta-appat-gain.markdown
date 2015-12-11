@@ -18,9 +18,7 @@ Les rivalités entre clans pour le contrôle de territoires, la compétition sur
 Dans la culture populaire, l’idée de la famille qui prime sur tout, qu’il faut protéger les siens fait largement écho à cette conception de l’honneur. C’est cela qu’expriment les paroles rappeur basé à Marseille Lacrim: “Hein mon gros, mon gros, mais pourquoi tu fais du biff [de l’argent]? Pour ta famille ou pour tes salopes?”
 
 ![LACRIM1.jpg]({{site.baseurl}}/img/LACRIM1.jpg)
-{: .fullwidth .image}
-LACRIM
-{: .credit}
+
 
 Dans les quartiers Nord de Marseille, la famille peut aussi s’entendre au sens large du terme, et inclure les partenaires de réseaux. Dès lors, le même code de l’honneur s’applique lorsqu’il s’agit de protéger ou venger les membres de la famille. “On est dans des équipes constituées avec des liens forts créés à l'occasion des trafics, des séjours en prison. Quand vous avez un membre de l'équipe qui se fait tuer, on a envie de le venger.” explique une source policière.
 
