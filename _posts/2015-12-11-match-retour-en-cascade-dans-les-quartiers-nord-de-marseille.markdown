@@ -40,7 +40,7 @@ Lorsqu’il y a un homicide dans le milieu criminel marseillais les policiers es
  
 “C’est un vrai travail de renseignement criminel qui est parfois méprisé. Parfois les équipes des clans changent, parfois des hypothèses sont tirées un peu rapidement car on ne connaît pas les spécificités actuelles du clan.”
  
-Depuis 2012 la police fait en sorte d’éviter les “match retour” grâce à la mise en place d’une méthode pro-active. Les enquêteurs essaient de placer en détention certaines personnes dont ils savent, grâce à leurs indics ou aux écoutes téléphoniques, qu’ils vont commettre un assassinat ou qu’ils pourraient en être très prochainement victime.
+Depuis 2012 la police fait en sorte d’éviter les “match retour” avec à la mise en place d’une méthode pro-active. Les enquêteurs essaient de placer en détention certaines personnes dont ils savent, grâce à leurs indics ou aux écoutes téléphoniques, qu’ils vont commettre un assassinat ou qu’ils pourraient en être très prochainement victime.
 
 > On cible tous les futurs auteurs ou victimes de règlements de compte, on ouvre des enquêtes tous azimuts sur eux, sur tous les sujets
 
