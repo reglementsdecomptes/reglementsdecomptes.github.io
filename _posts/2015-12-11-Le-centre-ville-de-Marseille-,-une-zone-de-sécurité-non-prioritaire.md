@@ -10,7 +10,8 @@ Ce n’est pas un cas isolé, selon l’AFP, il y a deux ans dans le même quart
 
 ##  **Quartier de l’Opéra, un quartier à risque**
 
-> “Le quartier de l’Opéra, c’est un quartier de nuit, situé à l’hyper centre de Marseille. Il y a beaucoup de monde qui fréquente les commerces et les boites de nuit, donc c’est un quartier à risque.” 
+> “Le quartier de l’Opéra, c’est un quartier de nuit, situé à l’hyper centre de Marseille. Il y a beaucoup de monde qui fréquente les commerces et les boites de nuit, donc c’est un quartier à risque.
+” 
 
 -Guy Nicolaï, adjoint délégué à la sécurité de la mairie du 1er arrondissement de Marseille{: .credit} 
 
