@@ -24,6 +24,11 @@ D’après La Provence, la victime était recherchée dans le cadre de l’enqu�
 
 Les modes opératoires portent également à confusion. D’un côté, ce qui a tout l’air, dans le jargon marseillais, d’un “barbecue”. De l’autre, l’arme utilisée - un revolver ou un fusil de chasse - ne correspond pas au scénario classique du règlement de compte. Stéphane Querré, spécialiste de la criminalité, rejette la possibilité que des tensions communautaires aient pu jouer : “Il y a des rivalités, mais plutôt entre clans et réseaux criminels qu’entre communautés.” A ce stade, les circonstances de leur mort restent troubles, et les gendarmes de la section de recherches de Marseille, responsable de toute affaire criminelle au niveau régional, refusent de donner tout élément. 
 
+![Carte-region.png]({{site.baseurl}}/img/Carte-region.png)
+{: .fullwidth .image}
+Homicides et règlements en dehors de Marseille et sa périphérie, de janvier 2014 à novembre 2015
+{: .note}
+
 # Meyreuil : pas un cas isolé
 
 Cet empressement à voir un règlement de comptes dans un cas d’homicide qui se produit en dehors de la périphérie de Marseille, a pu déjà être constaté dans de précédentes affaires. En juillet 2014, dans le centre ville de Tarascon, une ville réputée calme, située à une centaine de kilomètres de la citée phocéenne, [Abdelkarim K. est abattu en pleine rue au fusil de chasse](https://reglementsdecomptes.wordpress.com/2015/04/30/abdelkarim-k-et-si-le-reglement-de-comptes-netait-quune-affaire-privee/). En pleine ‘série noire’ - 4 règlements de compte en un mois - la presse locale pense qu’il s’agit d’un cas de plus. En fait, il s’agirait plutôt d’une affaire privée, une dispute qui aurait dégénérée. 
@@ -34,7 +39,3 @@ La criminalité particulièrement forte de la région, qui ne se limite pas à M
 
 **Natacha Gorwitz et Juliette Jabkhiro**
 
-![Carte-region.png]({{site.baseurl}}/img/Carte-region.png)
-{: .fullwidth .image}
-Homicides et règlements en dehors de Marseille et sa périphérie, de janvier 2014 à novembre 2015
-{: .note}
