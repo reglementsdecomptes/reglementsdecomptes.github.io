@@ -5,9 +5,10 @@ title: Ne pas parler trop vite des règlements de comptes
 
 
 
+
 # Ne pas parler trop vite de règlement de comptes
 
-Les véhicules de gendarmerie entourent une voiture stationnée près du rond point du Canet, en périphérie de Meyreuil, à une trentaine de kilomètres de Marseille. Dimanche 1er novembre, vers 18h, Jean-Daniel Rougier a été la cible d’un ou plusieurs coups de feu. L’homme “âgé d’une trentaine d’années” a été retrouvé sur le siège conducteur, le “visage en partie défiguré”, a déclaré à [La Provence](http://www.laprovence.com/article/actualites/3651539/meyreuil-assassine-sur-fond-de-vendetta.html) Dominique Moyal, Procureur d’Aix. 
+Les véhicules de gendarmerie entourent une voiture stationnée près du rond point du Canet, en périphérie de Meyreuil, à une trentaine de kilomètres de Marseille. Dimanche 1er novembre, vers 18h, Jean-Daniel R. a été la cible d’un ou plusieurs coups de feu. L’homme “âgé d’une trentaine d’années” a été retrouvé sur le siège conducteur, le “visage en partie défiguré”, a déclaré à [La Provence](http://www.laprovence.com/article/actualites/3651539/meyreuil-assassine-sur-fond-de-vendetta.html) Dominique Moyal, Procureur d’Aix. 
 
 > “On est à côté de Gardane, on est pas loin de Marseille, des cadavres dans des voitures on en a trouvé...C’est tombé là comme ça aurait pu tomber ailleurs ” 
 
@@ -16,11 +17,11 @@ M. Santini, adjoint à la mairie de Meyreuil, chargé de la sécurité.
 
 “Assassinat sur fond de vendetta”, “match retour”, la presse locale soulève dès le surlendemain l’hypothèse d’un règlement de comptes. Mais est-ce aussi évident ? Comme dans bien des cas d’homicides constatés dans la région marseillaise, et particulièrement à la campagne, les premières étiquettes ne résistent pas à l’épreuve de l’investigation.
 
-D’après La Provence, la victime était recherchée dans le cadre de l’enquête sur la mort de Richard Santiago. Le corps de cet homme de 54 ans avait été retrouvé, le 23 septembre 2015, sur le siège passager d’une voiture calcinée à Pertuis, dans le département du Vaucluse, à 35 kilomètres de Meyreuil. 
+D’après La Provence, la victime était recherchée dans le cadre de l’enquête sur la mort de Richard S. Le corps de cet homme de 54 ans avait été retrouvé, le 23 septembre 2015, sur le siège passager d’une voiture calcinée à Pertuis, dans le département du Vaucluse, à 35 kilomètres de Meyreuil. 
 
 # Un règlement de comptes ? 
 
-“Une mort plus qu’étrange” commente Fabien Perez, avocat de la famille et conseiller d’opposition (PS) de la ville de Pertuis. Jean-Daniel Rougier, “le jeune maçon” et le “leader de la communauté gitane”, installée le long de la Durance, “étaient amis. Ils étaient proches et travaillaient ensemble”. “On peut imaginer que ceux qui ont tué Jean-Daniel Rougier étaient impliqués dans le meurtre de Richard Santiago”. Pour l’heure, le lien entre les deux homicides n’a pas été confirmé : Bernard Marchal, procureur d’Avignon, ne s’est pas dessaisi du dossier Santiago au profit du parquet d’Aix-en-Provence, chargée de l’enquête sur la mort de Rougier. 
+“Une mort plus qu’étrange” commente Fabien Perez, avocat de la famille et conseiller d’opposition (PS) de la ville de Pertuis. Jean-Daniel R., “le jeune maçon” et le “leader de la communauté gitane”, installée le long de la Durance, “étaient amis. Ils étaient proches et travaillaient ensemble”. “On peut imaginer que ceux qui ont tué Jean-Daniel R. étaient impliqués dans le meurtre de Richard S.”. Pour l’heure, le lien entre les deux homicides n’a pas été confirmé : Bernard Marchal, procureur d’Avignon, ne s’est pas dessaisi du dossier Richard S. au profit du parquet d’Aix-en-Provence, chargée de l’enquête sur la mort de Rougier. 
 
 Les modes opératoires portent également à confusion. D’un côté, ce qui a tout l’air, dans le jargon marseillais, d’un “barbecue”. De l’autre, l’arme utilisée - un revolver ou un fusil de chasse - ne correspond pas au scénario classique du règlement de compte. Stéphane Querré, spécialiste de la criminalité, rejette la possibilité que des tensions communautaires aient pu jouer : “Il y a des rivalités, mais plutôt entre clans et réseaux criminels qu’entre communautés.” A ce stade, les circonstances de leur mort restent troubles, et les gendarmes de la section de recherches de Marseille, responsable de toute affaire criminelle au niveau régional, refusent de donner tout élément. 
 
@@ -38,4 +39,3 @@ LIRE AUSSI : [“Quand le trafic dépasse les frontières de Marseille”](https
 La criminalité particulièrement forte de la région, qui ne se limite pas à Marseille et les “quartiers nord”, tisse une toile fond favorable à ce genre d’interprétation hâtive. En 2015, il y a eu 20 règlements de compte dans le département des Bouches-du-Rhône, dont 12 à Marseille, a indiqué la préfecture de police. La Ciotat, Port de Bouc, Aubagne, Gignac-la-Nerthe, etc. sur les 32 cas de règlements de comptes que nous avons répertoriés entre le 1er janvier 2014 et le 30 novembre 2015, huit ont eu lieu dans un périmètre situé au delà d’une vingtaine de kilomètres de la cité phocéenne (Voir Carte).  
 
 **Natacha Gorwitz et Juliette Jabkhiro**
-
