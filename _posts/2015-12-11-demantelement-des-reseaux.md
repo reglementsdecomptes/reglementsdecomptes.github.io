@@ -12,6 +12,11 @@ cover_image: Cite-des-Bleuets.png
 
 Abdallah A. a été assassiné le 19 juin 2015, un mois après le démantèlement d’un réseau de trafic de stupéfiants dans une cité voisine. Une source policière n’exclut pas qu’Abdallah soit une nouvelle victime des guerres de territoires déclenchées par le démantèlement des réseaux à Marseille.
 
+![Cite-des-Bleuets.png]({{site.baseurl}}/_posts/Cite-des-Bleuets.png)
+{: .fullwidth .image}
+Avenue Saint-Paul, Cité des Bleuets, Marseille (Google)
+{: .credit}
+
 Sous le porche d’un immeuble de la cité des Bleuets, dans les quartiers Nord de Marseille, Abdallah A. reçoit une première balle. Il est environ 23h, mais en ce 19 juin 2015, deuxième jour de ramadan, des enfants jouent encore dans le petit square, au bas des tours. D’après La Provence, le tireur est seul et cagoulé. Abdallah, blessé, reçoit deux autres balles avant d’atteindre la porte d’un appartement. Il se réfugie chez un voisin, qui l'emmène à l’hôpital militaire Alphonse Laveran. Mais Abdallah ne survit pas à ses blessures. Il y meurt à 1h du matin.
 
 A 28 ans, Abdallah était connu des services de police pour des affaires de stupéfiants, sans être un “gros profil” d’après l’AFP. La source policière contactée directement par téléphone indique simplement qu’actuellement “l’enquête est en cours”. Mais une autre source policière citée à l’époque par le Le Figaro, affirmait qu’“il y a de fortes probabilités mais pas de certitude sur le mobile. Un gros réseau de trafic de stupéfiants avait été démantelé dans ce secteur il y a un mois”. Le 18 mai 2015, en effet, près de 300 policiers ont mené un vaste coup de filet permettant d’interpeller plus d'une vingtaine de personnes dans la cité des Lauriers, à 900m de la cité des Bleuets. 
@@ -43,6 +48,6 @@ Lire aussi: Lien vers le papier d’Hadrien (quand il sera publié)
 
 Megane De Amorim
 
-![Cite-des-Bleuets.png]({{site.baseurl}}/_posts/Cite-des-Bleuets.png)
+
 
 
