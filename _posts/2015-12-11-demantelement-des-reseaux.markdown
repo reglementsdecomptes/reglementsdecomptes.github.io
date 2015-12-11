@@ -1,5 +1,9 @@
 ---
-published: false
+published: true
+layout: post
+title: Quand le démantèlement des réseaux de trafiquants tue
+categories: articles
+cover_image: "Cite-des-Bleuets.png"
 ---
 
 ---
