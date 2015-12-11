@@ -10,7 +10,9 @@ published: true
 
 Les clients font la queue à la boulangerie, la petite terrasse aux murs jaunis du « Rotonde Bar » est à moitié remplie et le soleil est déjà haut dans le ciel sans nuages de Marseille, raconte Sylvie, jointe par téléphone. Ce devait être une journée splendide. Ce jeudi 6 août 2015 vers 9 heures, deux hommes à moto s’arrêtent près du bar, avenue du 24 avril 1915, dans un quartier pavillonnaire dans l’Est de Marseille. L’un reste en attente sur sa moto, l’autre descend. Il porte une perruque et fait des allers et retours entre le bar et la terrasse.
 
-![Situation du “Rotonde Bar” dans Marseille. Google]({{site.baseurl}}/_posts/carte.png)
+![carte.png]({{site.baseurl}}/_posts/carte.png)
+Situation du Rotonde Bar dans Marseille Google
+{: .credit}
 
 Un jeune homme qui le voit passer à cinq reprises le salue deux fois. Aucune réponse, rapporte la [Provence](http://www.laprovence.com/article/actualites/3525845/marseille-un-homme-abattu-en-pleinerue-dans-un-guet-apens.html). Entre-temps, un homme d’une cinquantaine d’années portant une chemise bleu-gris et un jean clair selon des photos AFP de la scène de crime, arrive aussi en moto. Il rentre dans le bar sans même retirer son casque noir. C’est Robert B., fiché au grand banditisme. Il est connu depuis 30 ans pour des vols de voiture, un vol aggravé et pour avoir participé au fameux [braquage d’un fourgon blindé Brink’s à Gentilly](http://www.leparisien.fr/faits-divers/deux-fourgons-de-la-brink-s-attaques-a-l-explosif-27-12-2000-2001852979.php) le 26 décembre 2000 avec une dizaine de malfaiteurs. 
 
