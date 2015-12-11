@@ -19,7 +19,7 @@ Les familles font part de leur souhait de quitter les quartiers à la police, au
  
 La Cité des grands Lauriers
 ![lauriers-urbanisme.png]({{site.baseurl}}/img/lauriers-urbanisme.png)
-{: .fullwidth}{: .image}
+
 Les logements sociaux de ce grand-ensemble sont répliqués à l'identique
  
 **Le manque de sécurité remis en cause**
