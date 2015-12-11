@@ -21,6 +21,14 @@ Dans les quartiers Nord de Marseille, la famille peut aussi s’entendre au sens
 
 Selon cette même source cependant, les règlements de comptes au sein des réseaux de trafic de drogues ne peuvent pas être considérés comme portées par un véritable sens de l’honneur: “Oui il y a un code de l'honneur qui peut dans le banditisme qui peut exister, c'est assez noble. Mais dans les narco-trafic, les types n'ont aucune noblesse. Il y a un degré de violence et une disproportion entre les choses reprochées et ce qui arrive aux victimes qui n'a rien d'un code de l'honneur.”
 
+![MOSDEF.jpg]({{site.baseurl}}/img/MOSDEF.jpg)
+{: .fullwidth .image}
+ton credit
+{: .credit}
+
 À l’honneur de la famille s’ajoute l’honneur indispensable pour garder la crédibilité requise dans une économie ou les preuves de faiblesses incitent à la violence des adversaires désireux de se tailler une plus grande part dans le juteux trafic des stupéfiants. Cette légitimité requise, le sociologue Thomas Sauvadet l’appelle le capital guerrier, tandis ce que les Anglo-Saxons parlent de street credibility. La culture hip-hop anglo-saxonne regorgent elle aussi de références à ce code de l’honneur à eux. L’album Black on Both Sides de Mos Def (1999), n’est qu’un exemple parmi tant d’autres. “Je suis le code de l’honneur comme le ferait n’importe quel vrai homme. Je ne manque jamais de respect aux femme car j’aime ma mère.”, rappe l’Américain de Boston dans la chanson “Know That”. Le français Rhoff avait lui aussi largement traité le thème de l’honneur dans son album Le code de l’horreur (2008). Plus pessimiste, lui regrette l’absence d’honneur de certains en région parisienne: “Où sont le shommes d’honneur, à la Jack Mess? Plus de parole, ni loyauté, les balances tiennent le business“
 
 Le code de l’honneur est il donc lié à l’importance de la famille, une valeur romanesque voire romantique dans l’imaginaire collectif, ou simplement au besoin des trafiquants de s’afficher en caïd endurcis suivant un code bien précis afin de mieux contrôler leur territoire ? Chez les rappeurs, qui ont largement contribué à définir et diffuser cette idée du code de l’honneur, l’honneur peut rester un idéal basé sur des valeurs. Dans l’univers du trafic de stupéfiants à Marseille en revanche, c’est la quête plus prosaïque du gain matériel qui est le réel moteur du code de l’honneur.
+
+**Louis Baudoin**
+
