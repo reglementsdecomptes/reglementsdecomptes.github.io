@@ -17,7 +17,6 @@ Victimes innocentes ou victimes impliquées... Comment se fait-il que des jeunes
 Si 16 % des impliqués dans des faits liés à la grande criminalité sont mineurs dans les Bouches-du-Rhône, indique la Préfecture de police contactée le 10 décembre 2015, il s’avère que les faits de petite et moyenne délinquance (violences légères, vols, dégradations, rackets) impliquent certains jeunes dans les règlements de comptes marseillais. A cet âge-là, beaucoup ont déjà « un palmarès bien étoffé »  indiquent à la fois une source policière et un habitant du 13ème arrondissement de Marseille. « On voit des choufs à partir de 12 ans », souligne un élu responsable de la sécurité dans les quartiers Nord.
  
 ![dessin crimi.png]({{site.baseurl}}/img/dessin crimi.png)
-{: .fullwidth}{: .image}
 
  
 Pour le criminologue Stéphane Quéré, ces chiffres, révélant la part des mineurs dans la délinquance en 2015 dans les Bouches-du-Rhône, sont à mettre sur le compte du mauvais exemple donné par les guetteurs qui gagnent 50 euros par jour dans une cité où le taux de chômage est élevé, et où des caïds roulent en voiture haut de gamme tout en partant régulièrement en vacances. « Ça crée des envieux. Le temps de l’adolescence, les jeunes vont faire le guetteur et le dealer. Ensuite, deux options, ils quittent le quartier le temps de fonder une famille ou de décrocher un contrat à durée déterminée ou alors se lancent dans une carrière criminelle. » 
