@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 **Sortir des quartiers nord de Marseille, une nécessité bien difficile : le cas de Mohamed A.**
@@ -17,7 +17,10 @@ A lire : « En première ligne : mourir à 18 ans dans les quartiers nord de Mar
 
 Les familles font part de leur souhait de quitter les quartiers à la police, aux élus et à leurs bailleurs sociaux, comme le confie Antoine Maggio, élu des 13e et 14e arrondissements délégué au logement qui reçoit ces demandes de relogement. Mais les procédures sont longues, et parfois sans succès. Un journaliste spécialiste de la question, insiste sur ces problèmes de logement : _« ce n’est pas une envie c’est une nécessité. Plein de familles veulent partir mais elles ne peuvent pas. Il y a ceux qui sont victimes de règlements de compte et qui ne veulent plus rester et il y a ceux qui parlent à la police et qui après sont visés par les trafiquants qui doivent partir »_. En effet, le rapport de mars 2015 de l’Observatoire régional de la Délinquance et des Contextes sociaux ([ORDCS](http://ordcs.mmsh.univ-aix.fr/publications/Documents/Rapport%20final_Clos-Sauvagere.pdf)), 52% des personnes interrogées à Clos la Rose (13e arrondissement) et 45,5% à la Sauvagère (10e arrondissement) souhaitent quitter leur logement pour des raisons d’insécurité. C’est le cas de la famille de Mohamed M., originaire d’un village au centre de Mayotte et installée dans la cité phocéenne depuis 1994. En 2011, la mère décide de quitter Marseille pour le quartier de Blosnes, à Rennes afin d’éloigner son fils Mohamed des _« mauvaises fréquentations »_.  En septembre 2015, il est impliqué dans une affaire de voiture volée et finit par fuguer à Marseille, succombant à la fin tragique qu’on lui connaît, le 25 octobre 2015, comme l’indique la chaîne ultra-marine _[1ère](http://www.la1ere.fr/2015/10/26/un-mahorais-de-15-ans-parmi-les-victimes-d-un-reglement-de-compte-marseille-299309.html)_.
  
-Infographies
+La Cité des grands Lauriers
+![lauriers-urbanisme.png]({{site.baseurl}}/img/lauriers-urbanisme.png)
+{: .fullwidth}{: .image}
+Les logements sociaux de ce grand-ensemble sont répliqués à l'identique
  
 **Le manque de sécurité remis en cause**
 
