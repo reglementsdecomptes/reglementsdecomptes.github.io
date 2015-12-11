@@ -10,10 +10,10 @@ Ce n’est pas un cas isolé, selon l’AFP, il y a deux ans dans le même quart
 
 ##  **Quartier de l’Opéra, un quartier à risque**
 
-> “Le quartier de l’Opéra, c’est un quartier de nuit, situé à l’hyper centre de Marseille. Il y a beaucoup de monde qui fréquente les commerces et les boites de nuit, donc c’est un quartier à risque.
-” 
+> Le quartier de l’Opéra, c’est un quartier de nuit, situé à l’hyper centre de Marseille. Il y a beaucoup de monde qui fréquente les commerces et les boites de nuit, donc c’est un quartier à risque." 
 
--Guy Nicolaï, adjoint délégué à la sécurité de la mairie du 1er arrondissement de Marseille{: .credit} 
+Guy Nicolaï, adjoint délégué à la sécurité de la mairie du 1er arrondissement de Marseille
+{: .credit}
 
 Depuis cette fusillade, “un sentiment d’insécurité, de tristesse et de peur s’est installé parmi les commerçants. Une voiture peut passer et mitrailler. On essaie de les tranquilliser avec les mesures prises pour sécuriser le secteur. Le nombre de policiers n’a cependant pas été augmenté. Il y a beaucoup de patrouilles à pied, des brigades VTT, mais finalement comme ailleurs.” nous précise l’adjoint délégué à la sécurité.
 
@@ -36,6 +36,11 @@ Ces cas là ne change pas l’attribution des policiers à certains secteurs. Le
 ## **Etat d’urgence et centre-ville**
 
 Le 19 novembre, les députés ont voté la prolongation de l’Etat d’Urgence pour trois mois. 
-Dans ce cadre exceptionnel, le préfet de Police des Bouches du Rhône annonce qu’il y a plus de patrouilles dans le centre ville. Mais pour Laurent Nunez, la priorité en matière de sécurité se situe vers les cités et quartiers sensibles de Marseille. “Il ne faut pas délaisser le centre ville car c’est un point important. Néanmoins, on constate une baisse des faits criminels dans ce secteur.” précise-t-il. 
+Dans ce cadre exceptionnel, le préfet de Police des Bouches du Rhône annonce qu’il y a plus de patrouilles dans le centre ville. Mais pour Laurent Nunez, la priorité en matière de sécurité se situe vers les cités et quartiers sensibles de Marseille. 
+
+> Il ne faut pas délaisser le centre ville car c’est un point important. Néanmoins, on constate une baisse des faits criminels dans ce secteur.” 
+
+Laurent Nunez
+{: .credit}
 
 [Justine Barraud](https://twitter.com/JustineBarraud)
