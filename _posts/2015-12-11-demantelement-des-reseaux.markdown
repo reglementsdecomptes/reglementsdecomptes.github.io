@@ -6,14 +6,6 @@ categories: articles
 cover_image: "Cite-des-Bleuets.png"
 ---
 
----
-layout: post
-title: Quand le démantèlement des réseaux de trafiquants tue
-categories: articles
-published: true
-cover_image: Cite-des-Bleuets.png
----
-
 Abdallah A. a été assassiné le 19 juin 2015, un mois après le démantèlement d’un réseau de trafic de stupéfiants dans une cité voisine. Une source policière n’exclut pas qu’Abdallah soit une nouvelle victime des guerres de territoires déclenchées par le démantèlement des réseaux à Marseille.
 
 ![Cite-des-Bleuets.png]({{site.baseurl}}/_posts/Cite-des-Bleuets.png)
