@@ -7,9 +7,10 @@ categorie: articles
 Prolixes sur les problèmes généraux: la drogue, le chômage, la déscolarisation des jeunes, dans les quartiers nord de Marseille, où les trafiquants de drogue exercent une forte emprise, les habitants taisent des meurtres qui ont tout de règlements de compte. Au plan d’Aou, à quelques kilomètres de la Castellane, un jeune homme de dix-huit ans est tué par balle au pied d’un immeuble, en fin de matinée le 12 octobre dernier. L’enquête policière se heurte au mutisme de certains voisins. 
 
 ![Capture d’écran 2015-12-11 à 16.48.16.png]({{site.baseurl}}/img/Capture d’écran 2015-12-11 à 16.48.16.png)
+{: .fullwidth .image}
 
-Légende : Suite aux opérations policières dans la cité de la Castellane, les trafics se déplacent dans les grands ensembles de la Bricarde mais également dans le quartier résidentiel du Plan d’Aou. 
-(Google Maps 10/12/2015)
+Suite aux opérations policières dans la cité de la Castellane, les trafics se déplacent dans les grands ensembles de la Bricarde mais également dans le quartier résidentiel du Plan d’Aou. - **Google Maps 10/12/2015**
+{: .credit}
 
 Aux alentours de onze heures, en fin de matinée, le 12 octobre dernier, la rue Jorgi Reboul de la cité du plan d’Aou, au Nord de Marseille, est calme. Un jeune homme de dix-huit ans y meurt apparemment sans témoins. Seules les balles résonnent, l’une vient se loger dans sa nuque et l’autre dans son bras, puis le silence revient, plus personne ne s’exprime. Pour tout hommage, le mutisme des voisins et la discrétion. Dans les quartiers nord de Marseille, règne une omertà inquiète et solidaire, qui obstrue le travail d’enquête policière et tait les meurtres les plus insensés, expliquent élus et sociologues.
 
