@@ -3,10 +3,6 @@ published: true
 ---
 
 
-
-
-
-
 #**Le centre-ville de Marseille, une zone de sécurité non prioritaire**# 
 
 _Le dimanche 13 septembre 2015, une [fusillade](http://www.lemonde.fr/police-justice/article/2015/09/13/une-fusillade-en-plein-c-ur-de-marseille-fait-un-mort-et-six-blesses_4755203_1653578.html) a éclaté à 6h du matin à la suite d’un différend survenu un peu plus tôt dans la nuit devant un bar du centre de Marseille, en face de l'Opéra, faisant un mort et 5 blessés._
@@ -15,6 +11,7 @@ Ce n’est pas un cas isolé, selon l’AFP, il y a deux ans dans le même quart
 
 ##  **Quartier de l’Opéra, un quartier à risque**
 > “Le quartier de l’Opéra, c’est un quartier de nuit, situé à l’hyper centre de Marseille. Il y a beaucoup de monde qui fréquente les commerces et les boites de nuit, donc c’est un quartier à risque.” 
+
 
 - Guy Nicolaï, adjoint délégué à la sécurité de la mairie du 1er arrondissement de Marseille {: .credit} 
 
@@ -29,7 +26,7 @@ Le répartition des effectifs et le ratio des équipes se fait en fonction du no
 
 La division Centre, dont fait parti le quartier de l’Opéra, ne concentre que quatre arrondissements: le 1er, le 2e, le 6e et le 7e. En comparaison, les divisions nord et sud regroupe 12 autres arrondissements dont 10 sont considérées comme des zones de sécurité prioritaire (ZSP).
 
-![SampleGraph]({{site.baseurl}}//Carte-ZSP-Marseille.png)
+![Carte-ZSP-Marseille.png]({{site.baseurl}}/_posts/Carte-ZSP-Marseille.png)
 {: .fullwidth .image}
 
 La répartition des policiers se base sur des études sur la criminalité à moyen-long terme.
