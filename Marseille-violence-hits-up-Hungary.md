@@ -20,4 +20,5 @@ In France, Laszlo’s friends also showed their support on social media. Marseil
 
 Almost three months after the incident, very few information transpire from the investigation. French officers refuse to reveal any details on their probe and the owners of the O’Stop bar are reluctant to answer any inquiries. No suspects seem to have been identified yet. The case being recent, Hungarian can expect to hear the first conclusions in months at the earliest. 
 
-																Rebecca Zissmann
+Rebecca Zissmann
+	
