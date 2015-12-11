@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 Identifier un corps calciné : la police scientifique en première ligne 
 
@@ -29,11 +30,3 @@ Lorsque la personne n’est pas connue des services de police, le laboratoire pe
 Dans les cas extrêmes, où le degré de calcination du corps est trop élevé pour réaliser une identification, l’analyse dentaire est mobilisée. Dans les cas de règlements de compte, néanmoins, cette méthode est très rarement utilisée. L’identification est toujours réalisée, bien que retardée. Un retard dont l’impact psychologique sur les victimes et leurs proches profite aux criminels.
 
 Majda Abdellah
-
-
-
-
-
-
-  
-
