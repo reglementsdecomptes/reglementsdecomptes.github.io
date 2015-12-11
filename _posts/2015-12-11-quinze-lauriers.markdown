@@ -8,7 +8,7 @@ categorie: articles
 # Avoir 15 ans à la Cité des Lauriers
 
 Il est 2h40 quand dans la nuit du 24 au 25 octobre 2015 en pleine vacances de la Toussaint, une rafale d’arme automatique de calibre 9mm abat trois jeunes au pied d’un immeuble de la Cité des Lauriers dans le 13ème arrondissement de la cité phocéenne.
-Parmi les trois victimes, deux sont âgées de 15 ans et déjà connues des services de police pour des faits de petite délinquance. Avant de les assassiner, les auteurs présumés ont d’abord questionné les victimes sur l’identité d’un individu. L’hypothèse d’un règlement de comptes vraisemblablement connecté au trafic de stupéfiants est envisagée par une source policière, sachant que le hall D du bâtiment de la Cité serait selon cette même source un point de revente._
+Parmi les trois victimes, deux sont âgées de 15 ans et déjà connues des services de police pour des faits de petite délinquance. Avant de les assassiner, les auteurs présumés ont d’abord questionné les victimes sur l’identité d’un individu. L’hypothèse d’un règlement de comptes vraisemblablement connecté au trafic de stupéfiants est envisagée par une source policière, sachant que le hall D du bâtiment de la Cité serait selon cette même source un point de revente.
  
 Victimes innocentes ou victimes impliquées... Comment se fait-il que des jeunes de 15 ans se trouvent mêlés à de tels drames ? Décryptage d’une jeunesse aux Lauriers et dans le 13ème arrondissement de Marseille, où un cinquième de la population est âgé de moins de 15 ans (Insee, 2012).
  
@@ -16,7 +16,8 @@ Victimes innocentes ou victimes impliquées... Comment se fait-il que des jeunes
  
 Si 16 % des impliqués dans des faits liés à la grande criminalité sont mineurs dans les Bouches-du-Rhône, indique la Préfecture de police contactée le 10 décembre 2015, il s’avère que les faits de petite et moyenne délinquance (violences légères, vols, dégradations, rackets) impliquent certains jeunes dans les règlements de comptes marseillais. A cet âge-là, beaucoup ont déjà « un palmarès bien étoffé »  indiquent à la fois une source policière et un habitant du 13ème arrondissement de Marseille. « On voit des choufs à partir de 12 ans », souligne un élu responsable de la sécurité dans les quartiers Nord.
  
-VISUEL délinquance juvénile bouches du rhone
+![dessin crimi.png]({{site.baseurl}}/img/dessin crimi.png)
+
  
 Pour le criminologue Stéphane Quéré, ces chiffres, révélant la part des mineurs dans la délinquance en 2015 dans les Bouches-du-Rhône, sont à mettre sur le compte du mauvais exemple donné par les guetteurs qui gagnent 50 euros par jour dans une cité où le taux de chômage est élevé, et où des caïds roulent en voiture haut de gamme tout en partant régulièrement en vacances. « Ça crée des envieux. Le temps de l’adolescence, les jeunes vont faire le guetteur et le dealer. Ensuite, deux options, ils quittent le quartier le temps de fonder une famille ou de décrocher un contrat à durée déterminée ou alors se lancent dans une carrière criminelle. » 
  
@@ -26,7 +27,7 @@ La prudence est de mise avec les très jeunes (11-15 ans) car leur implication n
  
 Kamal Z., 15 ans, une des victimes du triple homicide des Lauriers, a priori pas cible originelle des assaillants, était en CAP béton armé au Lycée Polyvalent Diderot dans le 13ème et préparait son bac professionnel. Il était le meilleur élève de sa classe d’après le proviseur de son établissement. Mohamed A., l’autre victime âgée de 15 ans, était scolarisé dans un collège en zone de sécurité prioritaire du quartier Blosne de Rennes.
  
-VISUEL sur les taux de scolarisation en bouches-du-rhone
+![dessin scol.png]({{site.baseurl}}/img/dessin scol.png)
  
 Ces taux réalisés par l’Insee en 2012, pas si éloignés de la moyenne nationale (98.7%), s’inscrivent dans une dynamique à la baisse du décrochage scolaire, qui  concerne 110 000 élèves en 2015 au lieu de 136 000 en 2014. “Les résultats sont encourageants, même si la communauté éducative doit maintenir ses efforts sur les plus jeunes, deux tiers des élèves décrochant à 15 ans, dès la fin du collège”, avertit la ministre de l’Éducation Nationale, le 1er décembre 2015.
 
