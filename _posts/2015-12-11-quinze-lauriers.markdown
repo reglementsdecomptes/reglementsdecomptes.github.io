@@ -5,12 +5,10 @@ categorie: articles
 ---
 
 
-**Avoir 15 ans à la Cité des Lauriers**
+# Avoir 15 ans à la Cité des Lauriers
 
 Il est 2h40 quand dans la nuit du 24 au 25 octobre 2015 en pleine vacances de la Toussaint, une rafale d’arme automatique de calibre 9mm abat trois jeunes au pied d’un immeuble de la Cité des Lauriers dans le 13ème arrondissement de la cité phocéenne.
 Parmi les trois victimes, deux sont âgées de 15 ans et déjà connues des services de police pour des faits de petite délinquance. Avant de les assassiner, les auteurs présumés ont d’abord questionné les victimes sur l’identité d’un individu. L’hypothèse d’un règlement de comptes vraisemblablement connecté au trafic de stupéfiants est envisagée par une source policière, sachant que le hall D du bâtiment de la Cité serait selon cette même source un point de revente._
- 
-**Delphine ALLAIRE**
  
 Victimes innocentes ou victimes impliquées... Comment se fait-il que des jeunes de 15 ans se trouvent mêlés à de tels drames ? Décryptage d’une jeunesse aux Lauriers et dans le 13ème arrondissement de Marseille, où un cinquième de la population est âgé de moins de 15 ans (Insee, 2012).
  
@@ -44,3 +42,5 @@ C’est justement pour amortir le choc émotionnel et prévenir de futurs cas ch
 VISUEL sur le rappel homicides – de 15 ans (datagouv)
  
 Depuis 1996, 37 jeunes de moins de 15 ans ont été victimes d’homicides dans le département des Bouches-du-Rhône avec une variabilité de 0 à 2, selon les années. Avec l’affaire des Lauriers le 25 octobre dernier, l’année 2015 en comptera deux. Deux de trop.
+
+**Delphine Allaire**
