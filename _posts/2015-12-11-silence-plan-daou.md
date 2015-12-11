@@ -4,7 +4,7 @@ title: Le silence des quartiers nord de Marseille
 categorie: articles
 ---
 
-Prolixes sur les problèmes généraux: la drogue, le chômage, la déscolarisation des jeunes, dans les quartiers nord de Marseille, où les trafiquants de drogue exercent une forte emprise, les habitants taisent des meurtres qui ont tout de règlements de compte. Au plan d’Aou, à quelques kilomètres de la Castellane, un jeune homme de dix-huit ans est tué par balle au pied d’un immeuble, en fin de matinée le 12 octobre dernier. L’enquête policière se heurte au mutisme de certains voisins. 
+Prolixes sur les problèmes généraux: la drogue, le chômage, la déscolarisation des jeunes, dans les quartiers nord de Marseille, où les trafiquants de drogue exercent une forte emprise, les habitants taisent des meurtres qui ont tout de règlements de compte. Au plan d’Aou, à quelques kilomètres de la Castellane, un [jeune homme de dix-huit ans](http://reglementsdecomptes.github.io/2015/12/11/PLANDAOU.html) est tué par balle au pied d’un immeuble, en fin de matinée le 12 octobre dernier. L’enquête policière se heurte au mutisme de certains voisins. 
 
 ![]({{site.baseurl}}/img/Capture%20d%E2%80%99e%CC%81cran%202015-12-11%20a%CC%80%2016.48.16.png)
 {: .fullwidth .image}
