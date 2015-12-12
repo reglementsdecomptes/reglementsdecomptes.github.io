@@ -1,9 +1,12 @@
 ---
+layout: post
+title: "Braquages mécaniques et petits santons : plongée dans la vie du gangster Robert B."
+categories: articles
 published: true
 ---
 
 
-**Le 6 août 2015, Robert B est tué par balles (lien vers article Raphaël) dans une avenue commerçante du 12e arrondissement de Marseille. Ce quinquagénaire n’était pas un inconnu des forces de police. Braqueur notoire, il était sorti de prison en 2012 et semblait préparer son prochain coup. Portrait d’une forte tête de la pègre marseillaise.**
+Le 6 août 2015, Robert B est tué par balles (lien vers article Raphaël) dans une avenue commerçante du 12e arrondissement de Marseille. Ce quinquagénaire n’était pas un inconnu des forces de police. Braqueur notoire, il était sorti de prison en 2012 et semblait préparer son prochain coup. Portrait d’une forte tête de la pègre marseillaise.
 
 ![648x415_robert-berengier-croque-pendant-procese-braquage-gentilly-2006.jpg]({{site.baseurl}}/img/648x415_robert-berengier-croque-pendant-procese-braquage-gentilly-2006.jpg)
 
@@ -12,10 +15,11 @@ Ses amis le surnommaient le “Petit Robert”. Il n’a pourtant rien d’un en
 Le meurtre a tout d’un règlement de compte. Robert B évoluait en effet dans le « Milieu » marseillais, parmi ces truands qui sont les héritiers de l’âge d’or du banditisme de la French Connexion. Cette ancienne génération de bandits [se distingue des jeunes trafiquants de drogue des cités du Nord](https://reglementsdecomptes.wordpress.com/2015/05/12/deux-generations-de-trafiquants-dos-a-dos/) de la ville, comme l’explique le criminologue Stéphane Querré, contacté par téléphone : « Les bandits à l’ancienne avaient plus de temps, une meilleure formation criminelle. Ils étaient moins pressés et moins désireux de gagner du fric rapidement. (…) La société change donc le milieu change aussi. » Si les règlements de compte existent aussi chez ces vieux truands, ils sont souvent plus discrets : « Avant, on flinguait moins spectaculairement car aujourd’hui on utilise plus la kalachnikov que le 9mm, on arrosait pas comme on peut faire avec la kalach. » ajoute le spécialiste. A Marseille, ce sont surtout les jeunes qui sont les principales victimes des règlements de compte (voir infographie). Le cas de Robert B est donc singulier. 
 
 ![Graphique morts age.png]({{site.baseurl}}/img/Graphique morts age.png)
+{: .fullwidth}
 
 Le quinquagénaire était notamment lié à la “Dream Team”, ce gang de braqueurs qui sévit entre la France et l’Espagne. Il a également un lien trouble avec Antonio Ferrara, un bandit célèbre pour s’être évadé de prison à deux reprises. Les enquêteurs soupçonnent fortement Robert Bérengier d’avoir aidé “Nino” Ferrara à s’échapper de la prison de Fresnes en 2003, selon [La Provence](http://www.laprovence.com/article/actualites/3525845/marseille-un-homme-abattu-en-pleinerue-dans-un-guet-apens.html). Les braqueurs Michel Acariès et Jean-Philippe Boehm semblent également faire partie de ses proches.
 
-**Profession truand, spécialité braquages**
+## Profession truand, spécialité braquages
 
 >Je ne peux pas être passé sur Paris le 26 décembre 2000, parce que, chez nous, le 26, c’est les santons. C’est aussi important que le 25.
 
@@ -30,7 +34,7 @@ C’est à l’âge de 26 ans, après le suicide de son frère, que Robert B ren
 
 Robert Bérengier a fait des braquages sa spécialité. En 2000, il participe à l’attaque d’un fourgon de la société de transport de fonds Brink's à Gentilly. Dans ce cas emblématique, environ 6 millions d’euros ont été dérobés par plusieurs membres de la fine fleur du banditisme marseillais. La police finit par retrouver une partie des membres du gang endormie sur des sacs de billets, les armes à la main. Sur le banc des accusés, on retrouve Karim M, Bruno C et Jean-Jacques N, membres de la fameuse « [Dream Team](http://www.liberation.fr/societe/2013/02/13/la-rechute-des-tontons-braqueurs_881610) ». Le charismatique Antonio Ferrara et le corse Joseph M sont également présents, et seront acquittés en appel, fautes de preuves suffisantes. Robert B aura moins de chance. Son ADN, retrouvé sur les lieux, le trahit. Il tente de se défendre : « Je ne peux pas être passé sur Paris le 26 décembre 2000, parce que, chez nous, le 26, c’est les santons. C’est aussi important que le 25. » Il dit n'avoir commis « que des cambriolages de bijouteries et jamais des hold-up », selon des propos rapportés par [Le Parisien](http://www.leparisien.fr/val-de-marne/l-adn-au-coeur-du-proces-des-braqueurs-14-12-2006-2007591580.php). Robert B sera condamné à 9 ans de réclusion criminelle. 
 
-**L’impossible réinsertion**
+## L’impossible réinsertion
 
 >On dit toujours que la délinquance, c'est à cause des parents. Mais quand j'ai décidé de faire une connerie, c'est moi qui l'ai décidé !
 
@@ -41,7 +45,7 @@ En 2009, il se retrouve de nouveau devant la cour d’appel de Paris pour [le br
 
 Lors du procès en appel, l’avocat général a plaidé en sa faveur. Pour lui permettre de se reconstruire, il fallait l’innocenter, pour qu’il puisse de nouveau trouver un travail. Mais il semble bien que Robert B n’a jamais abandonné ses affaires dans la pègre marseillaise. Il devait participer à un autre braquage de fourgon, qui a été déjoué par la police au début du mois de septembre par [l’appréhension de neuf personnes](http://www.bfmtv.com/societe/annecy-une-attaque-de-fourgon-dejouee-neuf-suspects-deferes-911006.html), selon une informations révélée par Midi Libre et confirmée mardi 1er septembre par Brice Robin,  procureur de la République à Marseille. Leurs repérages sur la route des fourgons blindés en Haute-Savoie a mis la police sur leur piste. 
 
-<iframe src="https://kumu.io/embed/df7e010675ca1f7aa7c49135877766a4"  width="100%" height="600" frameborder="0"></iframe>
+<iframe src="https://kumu.io/embed/df7e010675ca1f7aa7c49135877766a4" width="100%" height="600" frameborder="0"></iframe>
 
 Le gang a été déstabilisé et retardé dans ses projets par la mort de Robert B : «  On ne peut absolument pas vous dire si il a été assassiné par des membres de cette équipe ou des concurrents, c'est trop tôt... Ca a surtout stoppé dans l'élan notre équipe qui s'est un peu égayée dans la nature », [a déclaré Brice Robin en conférence de presse](http://www.lamarseillaise.fr/marseille/faits-divers-justice/41401-marseille-un-gang-de-neuf-braqueurs-marseillais-demantele). Les obsèques du bandit auraient donné lieu à une occasion pour la police d’identifier Jean-Philippe B, selon Le Parisien. 
 

@@ -1,8 +1,9 @@
 ---
-published: true
+layout: post
 title: Laver son linge en famille
+categories: articles
+published: true
 ---
-
 
 Le tunnel du Prado est un point de passage obligatoire pour de nombreux Marseillais dans leurs déplacements quotidiens. Dans la nuit du lundi 9 au mardi 10 novembre, l’endroit accueille une scène de guerre d’une rare violence, immortalisée par les caméras de surveillance.
 

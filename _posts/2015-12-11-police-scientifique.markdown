@@ -1,9 +1,9 @@
 ---
-published: false
+layout: post
+published: true
+categorie: articles
+title: "Identifier un corps calciné : la police scientifique en première ligne"
 ---
-
-
-Identifier un corps calciné : la police scientifique en première ligne 
 
 Parmi les modes opératoires prisés dans les règlements de compte marseillais, figure celui de l’incendie. Popularisé sous le terme de « barbecue », il vise à faire disparaître un maximum de traces sur les lieux du crime. Un défi pour la police scientifique en charge de l’identification des victimes calcinées. 
 
@@ -15,17 +15,18 @@ Sur les lieux du crime, interviennent Les Officiers de police judiciaire (OPJ), 
 
 Des traces digitales restées intactes,  en passant par les poils, tout objet du véhicule et de la victime n’ayant pas été impacté par les flammes sont relevés, placés sous scellées et envoyés au Laboratoire de police de Marseille. La division de l’identification du laboratoire de police scientifique se charge de l’analyse des prélèvements. « On est une dizaine d’experts en biologie génétique à travailler sur un cas, analyser les empruntes digitales quand elles sont disponible et les traces ADN » explique Bruno Sera. 
 
-![IMG_5914.PNG]({{site.baseurl}}/_posts/IMG_5914.PNG)
+![IMG_5914.PNG]({{site.baseurl}}/img/IMG_5914.PNG)
+{: .fullwidth}
 
-![femur.png]({{site.baseurl}}/_posts/femur.png)
-
-
+![femur.png]({{site.baseurl}}/img/femur.png)
+{: .fullwidth}
 
 Problème : les corps calcinés rendent difficile l’analyse des empruntes digitales. « Les mains et le corps sont les premiers membres à être impactés par le feu et sont donc  rarement exploitables. » confirme Bruno Sera. Quand le corps est trop calciné, il est impossible d’extraire de l’ADN cellulaire. Les experts tentent alors l’extraction d’ADN mitochondrial qui nécessite d’autres techniques plus complexes.  
 
+# Fichage et coordination
 
-Fichage et coordination
-![infographie.png]({{site.baseurl}}/_posts/infographie.png)
+![infographie.png]({{site.baseurl}}/img/infographie.png)
+{: .fullwidth}
 
 L’identification peut alors prendre beaucoup de temps. « Dans les cas d’urgence, néanmoins, on peut parvenir avec du sang ou un peu de muscle à une emprunte digitale en 48h » explique Bruno Sera. Les empruntes sont alors transmis au Ficher Automatisé des empruntes digitales. (FAED)
 
@@ -35,4 +36,4 @@ Lorsque la personne n’est pas connue des services de police, le laboratoire pe
 
 Dans les cas extrêmes, où le degré de calcination du corps est trop élevé pour réaliser une identification, l’analyse dentaire est mobilisée. Dans les cas de règlements de compte, néanmoins, cette méthode est très rarement utilisée. L’identification est toujours réalisée, bien que retardée. Un retard dont l’impact psychologique sur les victimes et leurs proches profite aux criminels.
 
-Majda Abdellah
+**Majda Abdellah**

@@ -1,5 +1,7 @@
 ---
+layout: post
 published: true
+title: Matchs retour en cascade dans les quartiers nords de Marseille
 categorie: articles
 ---
 
@@ -12,7 +14,7 @@ Le règlement de compte dont a été victime Zakary R. fait écho au meurtre de 
 Hichem A. et Rochdi G., deux jeunes de 18 et 25 ans, sont tués de plusieurs balles le 13 mars 2013 en plein jour, au pied des immeubles de la cité des Bleuets dans le 13ème arrondissement de Marseille. 
 La cité, pourtant réputée assez calme, sert une nouvelle fois de décors à un règlement de compte lorsque Abdallah A., 28 ans, est tué par trois tirs d’une arme de poing de calibre 9mm, le 20 juin 2015. Connu des services de police pour des trafics de stupéfiants sans pour autant être un “gros profil”, Abdallah A. serait-il lui aussi la victime d’un match retour ? Une source policière proche du dossier a confié que les enquêteurs ne connaissaient pas le mobile du meurtrier, sans pour autant exclure cette possibilité. 
 
-**Un guet-apens planifié** 
+# Un guet-apens planifié
 
 L’expression de “match retour” qualifie des homicides qui prennent la forme de vengeance pour répondre, plus ou moins directement, à un meurtre ayant eu lieu précédemment. Dans le cas de Zakary R. le “match retour” a eu lieu trois mois après les faits mais il s’écoule parfois plus de temps avant que la vengeance ne se manifeste. Romain Capdepon, reporter Police et Justice à La Provence rappelle que certains règlements de comptes et les “match retour” qui les suivent s’échelonnent parfois sur plusieurs années. 
 
@@ -34,7 +36,7 @@ Stéphane Quéré, expert en criminologie et que nous avons joint par téléphon
  
 Dans le cas du “drive by shooting” le lien est encore plus difficile à établir car les personnes ne sont pas visées en tant qu’individus mais parce qu’elles représentent le clan rival ou parce qu’elles sont sur le territoire de ce clan, sans qu’elles aient pour autant un lien avec le clan lui même.
  
-**Un long travail de recherche pour la police**
+# Un long travail de recherche pour la police
  
 Lorsqu’il y a un homicide dans le milieu criminel marseillais les policiers essaient de définir rapidement quelles sont les forces en présence et quels liens elles ont entre elles, afin d’anticiper de qui viendra le coup d’en face et quelle personne ou quel clan celui-ci visera. Mais les rivalités s’entremêlent et faire le lien entre l’homicide et son auteur est souvent compliqué, d’autant plus qu’il peut également y avoir des rivalités internes au sein du clan. Pour Stéphane Quéré c’est sur ces liens que reposent les principales difficultés pour les policiers : 
  
@@ -49,7 +51,7 @@ Depuis 2012 la police fait en sorte d’éviter les “match retour” avec à l
 
 Ces agresseurs et victimes potentiels finissant par sortir de prison, l’échéance du règlement de compte n’en est que repoussée car comme le rappelle Romain Capdepon, “dans ce milieu on a de la mémoire”
 
-**La portée symbolique des “match retour”**
+# La portée symbolique des “match retour”
  
 Plus que la philosophie du “tuer pour tuer” il y a une véritable portée symbolique derrière ces “match retour” car ils tiennent de la vendetta. Pour Stéphane Quéré le rôle utilitariste de la réponse est important à prendre en compte. C’est essentiel pour un clan de réagir quand un de ses membres est visé car l’absence de réponse à une attaque subie signifierait un acte de faiblesse.
  

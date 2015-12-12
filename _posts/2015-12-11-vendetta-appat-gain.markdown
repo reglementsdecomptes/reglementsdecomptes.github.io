@@ -1,8 +1,9 @@
 ---
+layout: post
 published: true
-title: "Vendetta ou appât du gain ?"
+categorie: articles
+title: Vendetta ou appât du gain ?
 ---
-
 
 Nasseri M. et Jimmy I., 27 et 29 ans, morts sous les balles à bord de leur voiture à Saint Jérôme en 2012. Mohamed A., Kamal Z., et Adelmalik A., 15 et 23 ans, tués au pistolet automatique devant leur domicile, la cité des Lauriers en octobre 2015. Mohamed M. et Anthony C., exécutés lors d’une embuscade dans le tunnel du Prado-Carénage en novembre 2015.
 
@@ -13,11 +14,12 @@ Si le premier facteur de ces morts est l’appartenance aux réseaux de trafic d
 Les rivalités entre clans pour le contrôle de territoires, la compétition sur marché de la vente de stupéfiants sont bel et bien à l’origine de la violence que vivent les quartiers nord de Marseille. Mais derrière les rivalités entre réseaux existe un autre facteur pour ces règlements, moins intéressé, moins rationnel, celui de l’honneur. Dans un environnement ou les affaires se règlent souvent en famille, la place de cette dernière au sein du code de l’honneur qui guide les relations interpersonnelles dans les quartiers Nord de Marseille. 	
 
 
-**Le rap comme vecteur de la notion d’honneur**	
+# Le rap comme vecteur de la notion d’honneur
 
 Dans la culture populaire, l’idée de la famille qui prime sur tout, qu’il faut protéger les siens fait largement écho à cette conception de l’honneur. C’est cela qu’expriment les paroles rappeur basé à Marseille Lacrim: “Hein mon gros, mon gros, mais pourquoi tu fais du biff [de l’argent]? Pour ta famille ou pour tes salopes?”
 
 ![LACRIM1.jpg]({{site.baseurl}}/img/LACRIM1.jpg)
+{: .fullwidth}
 
 
 Dans les quartiers Nord de Marseille, la famille peut aussi s’entendre au sens large du terme, et inclure les partenaires de réseaux. Dès lors, le même code de l’honneur s’applique lorsqu’il s’agit de protéger ou venger les membres de la famille. “On est dans des équipes constituées avec des liens forts créés à l'occasion des trafics, des séjours en prison. Quand vous avez un membre de l'équipe qui se fait tuer, on a envie de le venger.” explique une source policière.
