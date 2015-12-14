@@ -57,5 +57,6 @@ Face aux conséquences mortelles des démantèlements, la police a une responsab
 “Mais ça commence à changer.” 
 
 Lire aussi: Marseille, l'approche globale à l'épreuve des faits.
+{: .relance}
 
 **Megane De Amorim**

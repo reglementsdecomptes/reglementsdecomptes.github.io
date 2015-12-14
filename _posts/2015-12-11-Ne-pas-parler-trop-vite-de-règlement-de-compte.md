@@ -31,7 +31,8 @@ Homicides et règlements en dehors de Marseille et sa périphérie, de janvier 2
 
 Cet empressement à voir un règlement de comptes dans un cas d’homicide qui se produit en dehors de la périphérie de Marseille, a pu déjà être constaté dans de précédentes affaires. En juillet 2014, dans le centre ville de Tarascon, une ville réputée calme, située à une centaine de kilomètres de la citée phocéenne, [Abdelkarim K. est abattu en pleine rue au fusil de chasse](https://reglementsdecomptes.wordpress.com/2015/04/30/abdelkarim-k-et-si-le-reglement-de-comptes-netait-quune-affaire-privee/). En pleine ‘série noire’ - 4 règlements de compte en un mois - la presse locale pense qu’il s’agit d’un cas de plus. En fait, il s’agirait plutôt d’une affaire privée, une dispute qui aurait dégénérée. 
 
-LIRE AUSSI : [“Quand le trafic dépasse les frontières de Marseille”](https://reglementsdecomptes.wordpress.com/2015/05/12/quand-le-trafic-depasse-les-frontieres-de-marseille/) 
+LIRE AUSSI : [“Quand le trafic dépasse les frontières de Marseille”](https://reglementsdecomptes.wordpress.com/2015/05/12/quand-le-trafic-depasse-les-frontieres-de-marseille/)
+{: .relance}
 
 La criminalité particulièrement forte de la région, qui ne se limite pas à Marseille et les “quartiers nord”, tisse une toile fond favorable à ce genre d’interprétation hâtive. En 2015, il y a eu 20 règlements de compte dans le département des Bouches-du-Rhône, dont 12 à Marseille, a indiqué la préfecture de police. La Ciotat, Port de Bouc, Aubagne, Gignac-la-Nerthe, etc. sur les 32 cas de règlements de comptes que nous avons répertoriés entre le 1er janvier 2014 et le 30 novembre 2015, huit ont eu lieu dans un périmètre situé au delà d’une vingtaine de kilomètres de la cité phocéenne (Voir Carte).  
 

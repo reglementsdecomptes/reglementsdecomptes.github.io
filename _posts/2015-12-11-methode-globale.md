@@ -18,8 +18,8 @@ L'objectif de cette nouvelle approche est ambitieux. Il s'agit, pour Camille All
 
  
 
-**A lire :** Sortir des quartiers Nord de Marseille, une nécessité bien difficile : le cas de Mohamed A. 
-
+A lire : Sortir des quartiers Nord de Marseille, une nécessité bien difficile : le cas de Mohamed A. 
+{: .relance}
 
 L'infographie ci-dessous, décrit les différentes phases de présence des CRS dans la cité de La Sauvagère entre mars 2013 et septembre 2014.
 

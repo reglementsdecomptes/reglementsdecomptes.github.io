@@ -15,6 +15,7 @@ Répartition des logements sociaux du 13e arrondissement
 {: .credit}
  
 A lire : « En première ligne : mourir à 18 ans dans les quartiers nord de Marseille, de Mahauld Grenier »
+{: .relance}
  
 # Pour éviter l’engrenage des trafics, quitter les quartiers nord
 
@@ -35,6 +36,7 @@ Antoine Maggio est adjoint délégué à l’Urbanisme et au Logement dans les 1
 Ils sont nombreux à trouver différents moyens pour ne pas entrer ou pour sortir de cet environnement difficile et sensible. C’était le cas de Kamal Z. qui faisait partie du club de foot Loisir Malpassé (FCM) depuis 2014. Selon Othman Sahki, dirigeant du club, _« le foot véhicule les valeurs de dépassement de soi et l’esprit de solidarité »_, et c’est par le foot que les jeunes enfants de Malpassé (quartier dans lequel se trouve la cité des Lauriers) réussissent à ne pas mettre un pied dans le trafic de drogue. 
  
 A lire : « Avoir 15 ans à la Cité des Lauriers », de Delphine Allaire
+{: .relance}
 
 
 **Laurine Benjebria**

@@ -49,7 +49,7 @@
         top: 9px;
         right: 30px;
         background-color: $white;
-        border: 1px solid $grey-color-light;
+        border: 1px solid $grey-color-light-1;
         border-radius: 5px;
         text-align: right;
 
@@ -90,12 +90,42 @@
 }
 
 
+// * * * * * * * * * * * HOME * * * * * * * * * * * * * 
+
+.home {
+
+    //background-color: $black;
+    .post-list{
+        text-align: center;
+    }
+
+    .post-meta {
+        font-family: $sans;
+        font-size: $small-font-size;
+        color: $white;
+        padding: 2px 6px;
+        background-color: $black;
+    }
+
+    .post-link {
+        background-color: $white;
+        padding : 30px;
+    }
+
+
+
+
+
+}
+
+
+
 
 /**
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: 1px solid $grey-color-light-1;
     padding: $spacing-unit 0;
 }
 
@@ -190,6 +220,7 @@
 .post-link {
     display: block;
     font-size: 24px;
+    line-height: $base-line-height/1.5;
 }
 
 
@@ -244,4 +275,25 @@
             font-size: 18px;
         }
     }
+
+    .relance {
+        
+        font-family: $sans;
+        font-weight: 900;
+        color: $white;
+        font-size: 14px;
+        background-color: $black;
+        //border : 1px solid $grey-color-light-2;
+
+        padding :15px;
+
+        a{
+            color: $white;
+            font-weight: 300;
+
+        }
+
+    }
+
+
 }

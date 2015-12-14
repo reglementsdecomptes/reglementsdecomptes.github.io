@@ -9,6 +9,7 @@ published: true
 Le 6 août 2015, Robert B est tué par balles (lien vers article Raphaël) dans une avenue commerçante du 12e arrondissement de Marseille. Ce quinquagénaire n’était pas un inconnu des forces de police. Braqueur notoire, il était sorti de prison en 2012 et semblait préparer son prochain coup. Portrait d’une forte tête de la pègre marseillaise.
 
 ![648x415_robert-berengier-croque-pendant-procese-braquage-gentilly-2006.jpg]({{site.baseurl}}/img/648x415_robert-berengier-croque-pendant-procese-braquage-gentilly-2006.jpg)
+{: .fullwidth}
 
 Ses amis le surnommaient le “Petit Robert”. Il n’a pourtant rien d’un enfant de coeur. Fiché pour grand banditisme et surveillé par la police, il faisait partie des grands noms d’un réseau de braqueurs « à l’ancienne », fort d’une carrière de 30 ans dans la délinquance. Un parcours qui s’est achevé un matin du mois d’août dans une artère commerçante du quartier de Beaumont, quand deux individus ont tiré sur lui à huit reprises au calibre 9mm. 
 
@@ -31,6 +32,7 @@ Comme les choses n’arrivent jamais vraiment par hasard, c’est une enfance di
 C’est à l’âge de 26 ans, après le suicide de son frère, que Robert B rentre dans le grand banditisme. Les simples vols de voiture deviennent des vols à main armée et des vols aggravés. Robert B aura passé plus de 20 ans en prison. Entre deux incarcérations, ce passionné de moto est mécanicien au noir. Certains soirs, il monte sur scène pour jouer de la batterie dans un groupe de rock. 
 
 ![Robert B et Antonio Ferrara au proces de la Brinks.jpg]({{site.baseurl}}/img/Robert Berengier et Antonio Ferrara au proces de la Brinks.jpg)
+{: .fullwidth}
 
 Robert Bérengier a fait des braquages sa spécialité. En 2000, il participe à l’attaque d’un fourgon de la société de transport de fonds Brink's à Gentilly. Dans ce cas emblématique, environ 6 millions d’euros ont été dérobés par plusieurs membres de la fine fleur du banditisme marseillais. La police finit par retrouver une partie des membres du gang endormie sur des sacs de billets, les armes à la main. Sur le banc des accusés, on retrouve Karim M, Bruno C et Jean-Jacques N, membres de la fameuse « [Dream Team](http://www.liberation.fr/societe/2013/02/13/la-rechute-des-tontons-braqueurs_881610) ». Le charismatique Antonio Ferrara et le corse Joseph M sont également présents, et seront acquittés en appel, fautes de preuves suffisantes. Robert B aura moins de chance. Son ADN, retrouvé sur les lieux, le trahit. Il tente de se défendre : « Je ne peux pas être passé sur Paris le 26 décembre 2000, parce que, chez nous, le 26, c’est les santons. C’est aussi important que le 25. » Il dit n'avoir commis « que des cambriolages de bijouteries et jamais des hold-up », selon des propos rapportés par [Le Parisien](http://www.leparisien.fr/val-de-marne/l-adn-au-coeur-du-proces-des-braqueurs-14-12-2006-2007591580.php). Robert B sera condamné à 9 ans de réclusion criminelle. 
 

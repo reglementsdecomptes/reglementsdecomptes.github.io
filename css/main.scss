@@ -6,7 +6,8 @@
 // Our variables
 
 $black : #2f302a;
-$white : #F8F9F5;
+$white:#FFFFF9;
+//$white : #F8F9F5;
 $blue : #6fc0bb;
 
 
@@ -25,7 +26,8 @@ $background-color: $white;
 $brand-color:      $blue;
 
 $grey-color:       mix($white,$black,50%);
-$grey-color-light: mix($white,$black,70%);
+$grey-color-light-2: mix($white,$black,92%);
+$grey-color-light-1: mix($white,$black,95%);
 $grey-color-dark:  mix($white,$black,30%);
 
 $on-iphone:		320px;
