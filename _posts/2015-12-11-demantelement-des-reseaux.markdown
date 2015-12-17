@@ -59,4 +59,5 @@ Face aux conséquences mortelles des démantèlements, la police a une responsab
 Lire aussi: Marseille, l'approche globale à l'épreuve des faits.
 {: .relance}
 
-**Megane De Amorim**
+Megane De Amorim
+{: .auteur}

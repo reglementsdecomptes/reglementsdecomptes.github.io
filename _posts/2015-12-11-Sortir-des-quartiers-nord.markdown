@@ -39,4 +39,5 @@ A lire : « Avoir 15 ans à la Cité des Lauriers », de Delphine Allaire
 {: .relance}
 
 
-**Laurine Benjebria**
+Laurine Benjebria
+{: .auteur}

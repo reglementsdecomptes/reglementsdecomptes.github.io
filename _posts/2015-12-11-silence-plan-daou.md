@@ -35,4 +35,5 @@ Mais la clé de compréhension du silence est également à chercher dans la str
 
 Dans ce contexte, se taire est pour la plupart des habitants une façon de se distancier de la rue déviante, tout en adhérant tacitement à un nouveau cadre de référence: celui de l’ordre narcotique qui structure la vie quotidienne des quartiers en occupant les espaces publics: cages d’escalier, rez-de-chaussée des immeubles. Pour Laurent Muchielli, l’emprise des trafiquants est en réalité bien acceptée par les habitants: ils rendent service, rémunèrent et protègent parfois. La rupture avec les institutions politiques et médiatiques, elle, est certaine. Dans le climat de défiance vis-à-vis des institutions centrales, des forces de l’ordre, de la justice pénale et des médias, auprès de qui s’insurger? Aux yeux de qui manifester l’injustice et l’immoralité? Dans l’intimidation générale et la rupture avec l’ordre social national, les morts sont silencieuses. 
 
-**Joséphine Devambez**
+Joséphine Devambez
+{: .auteur}

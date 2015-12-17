@@ -39,4 +39,5 @@ A l’origine de la question fâcheuse au Conseil municipal, Maître Georges Mau
  «Je ne me veux pas médisant. D’ailleurs je n’ai pas mentionné le nom de l’élu qui accompagnait Monsieur F. en Andorre» explique le président du groupe Front National de la ville, qui pourtant interroge directement le maire socialiste quant à une «éventuelle complaisance à l’égard d’un employé municipal membre du grand banditisme». Dans ce contexte d’entre deux tours des élections régionales, cette dispute politique ne semble pas prête de s’achever de sitôt. «Il y a 11500 employés municipaux, il se peut qu’il y ait toujours quelqu’un qui ne se comporte pas bien» semble déplorer innocemment en septembre dernier, le maire de la ville de Marseille.
 
  
-**Marine Giraud**
+Marine Giraud
+{: .auteur}

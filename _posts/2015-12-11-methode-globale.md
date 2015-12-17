@@ -50,4 +50,5 @@ La préfecture de police indique que cette présence s'accompagne d'interpellati
 
 « Quand on fait tomber des réseaux on les affaiblit », explique Laurent Nunez, qui estime que son action peut, à court terme « favoriser les règlements de compte ». En clair, il faudra donc attendre encore un peu avant de pouvoir constater les effets tangibles de la méthode globale.
 
-**Hadrien Bect**
+Hadrien Bect
+{: .auteur}

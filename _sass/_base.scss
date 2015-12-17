@@ -286,6 +286,24 @@ blockquote {
 }
 
 
+// * * * * * * * TWITTER * * * * * * * * * * 
+
+
+.auteur {
+    padding: $spacing-unit 0 ; 
+    font-family: $serif;
+    font-size: small;
+    &::before {
+        content: "— ";
+        margin-left:-12px;
+    }
+    & a {
+        color:$grey-color-light-4;
+        border-left: 1px solid $grey-color-light-3;
+        padding-left: 24px;
+        margin-left: 24px; 
+    }
+}
 
 // * * * * * * * FICHE * * * * * * * * * * 
 
@@ -405,3 +423,12 @@ iframe {
     margin-right: auto !important;
     margin-bottom: 35px !important;
 }
+
+
+//* * * * * * * * * LOGO * * * * * * * * * * *
+
+.logo {
+    max-width: 140px;
+    display: block;
+
+} 

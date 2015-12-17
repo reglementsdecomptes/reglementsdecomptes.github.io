@@ -45,4 +45,5 @@ VISUEL sur le rappel homicides – de 15 ans (datagouv)
  
 Depuis 1996, 37 jeunes de moins de 15 ans ont été victimes d’homicides dans le département des Bouches-du-Rhône avec une variabilité de 0 à 2, selon les années. Avec l’affaire des Lauriers le 25 octobre dernier, l’année 2015 en comptera deux. Deux de trop.
 
-**Delphine Allaire**
+Delphine Allaire
+{: .auteur}

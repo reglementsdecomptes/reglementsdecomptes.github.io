@@ -45,4 +45,6 @@ Dans ce cadre exceptionnel, le préfet de Police des Bouches du Rhône annonce q
 Laurent Nunez, préfet de Police des Bouches-du-Rhône
 {: .credit}
 
-[Justine Barraud](https://twitter.com/JustineBarraud)
+Justine Barraud [Twitter](https://twitter.com/JustineBarraud)
+{: .auteur}
+

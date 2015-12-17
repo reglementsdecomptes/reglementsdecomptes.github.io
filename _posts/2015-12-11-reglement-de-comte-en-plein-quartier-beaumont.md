@@ -50,4 +50,5 @@ Les habitants ne semblent pas craindre que les règlements de compte ne s’expo
 
 Nombreux sont les habitants qui ont questionné M. Coulet sur la sécurité dans le quartier. Néanmoins celui-ci avoue ne pas pouvoir faire de miracles : _« Il peut toujours y avoir des dommages collatéraux, et ça m’interpelle. Mais on est impuissants par rapport à cela »_.
 
-**Raphaël Georgy**
+Raphaël Georgy
+{: .auteur}
