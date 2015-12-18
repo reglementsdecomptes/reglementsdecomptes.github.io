@@ -5,11 +5,12 @@ categories: articles
 published: true
 ---
 
+
 Le tunnel du Prado est un point de passage obligatoire pour de nombreux Marseillais dans leurs déplacements quotidiens. Dans la nuit du lundi 9 au mardi 10 novembre, l’endroit accueille une scène de guerre d’une rare violence, immortalisée par les caméras de surveillance.
 
 Kalachnikov, grosses voitures, douilles par dizaines et surtout 2 frères: tout y est pour un bon film d’action. De quoi inspirer Brian Helgeland pour son prochain long-métrage? Sa dernière réalisation, Legend, actuellement en salle, emmenée par Tom Hardy s’attaque aux jumeaux Kray, gangsters londoniens des années 1960. Et même si ce soir ce n’est pas du cinéma, la question des fratries au centre du crime ne peut qu’attirer l’attention. L’occasion de revenir sur cette relation peu étudiée, entre liens de sang et criminalité. 
 
-Les victimes du guet apens du tunnel du Prado sont connues des forces de police : Anthony C. succombe de la suite de ses blessures, et surtout : Mohamed M. alias « Babouin », tué sur le coup. Deux autres occupants réussissent à s’échapper, dont Omar, l’un des cousins de Mohamed.  
+Les victimes du guet apens du tunnel du Prado sont connues des forces de police: Anthony C. succombe de la suite de ses blessures, et surtout : Mohamed M. alias « Babouin », tué sur le coup. Deux autres occupants réussissent à s’échapper, dont Omar, l’un des cousins de Mohamed.  
 
 Ce dernier faisait figure de « caïd » dans les quartiers nord de la cité phocéenne. Déjà condamné pour homicide volontaire, il avait aussi été interpelé en possession d’armes, de 87 000 euros en liquide et de 52 Kg de cannabis. 
 
@@ -35,4 +36,3 @@ Dernière en date ? Le procès de 3 hommes accusés d’un triple homicide a dé
 
 ![fiche Mohamed L.png]({{site.baseurl}}/img/fiche Mohamed L.png)
 ![fiche Abdelatif L.png]({{site.baseurl}}/img/fiche Abdelatif L.png)
-
