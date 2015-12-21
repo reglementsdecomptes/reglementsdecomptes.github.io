@@ -3,7 +3,7 @@ layout: post
 published: true
 title: "Marseille : l’approche globale à l'épreuve des faits"
 categorie: articles
-cover_image: Cover_approche_globale.jpg
+cover_image: img/covers/Cover_approche_globale.jpg
 ---
 
 Malgré des interventions policières régulières et la mise en place de nouvelles actions, les règlements de compte ne font pas de pause à Marseille. Des questions émergent autour de l'application de « l’approche globale ».

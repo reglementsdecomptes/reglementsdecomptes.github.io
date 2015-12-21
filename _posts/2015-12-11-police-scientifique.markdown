@@ -3,7 +3,7 @@ layout: post
 published: true
 categorie: articles
 title: "Identifier un corps calciné : la police scientifique en première ligne"
-cover_image: Cover_police_scientifique.jpg
+cover_image: img/covers/Cover_police_scientifique.jpg
 ---
 
 Parmi les modes opératoires prisés dans les règlements de compte marseillais, figure celui de l’incendie. Popularisé sous le terme de « barbecue », il vise à faire disparaître un maximum de traces sur les lieux du crime. Un défi pour la police scientifique en charge de l’identification des victimes calcinées. 

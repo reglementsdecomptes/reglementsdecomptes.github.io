@@ -3,7 +3,7 @@ layout: post
 published: true
 categorie: articles
 title: Sortir des quartiers nord
-cover_image: Cover_Sortir_des_quartiers.jpg
+cover_image: img/covers/Cover_Sortir_des_quartiers.jpg
 ---
 
 Assassiné dans la nuit du 24 au 25 octobre 2015 au pied de l’immeuble des Lauriers, dans le 13e arrondissement de Marseille, Mohamed A., 15 ans, avait pourtant déménagé quatre ans plus tôt à Rennes.

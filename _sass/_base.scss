@@ -336,8 +336,6 @@ blockquote {
             letter-spacing: 0.1em;
             //text-transform: uppercase;
         }
-
-
 }
 
 
@@ -381,8 +379,7 @@ pre {
 .wrapper {
     max-width: -webkit-calc(#{$on-laptop} - (#{$spacing-unit} * 2));
     max-width:         calc(#{$on-laptop} - (#{$spacing-unit} * 2));
-    margin-right: auto;
-    margin-left: auto;
+
     @extend %clearfix;
 }
 
@@ -423,6 +420,64 @@ iframe {
     margin-left: auto !important; 
     margin-right: auto !important;
     margin-bottom: 35px !important;
+}
+
+//* * * * * * * * * LIST ARTICLE * * * * * * * * * * *
+
+
+
+
+
+
+
+
+.post-list{
+
+
+
+    // z-index: 0;
+
+
+    li {
+        //position: relative;
+        text-align: center;
+
+        .post-container {
+            //position: absolute;
+            width: 90%;
+            margin: 0px auto 25px;
+            background-color: $pure-white;
+            color: $black;
+            border-radius: 3px;
+            box-shadow: 0px 0px 3px rgba($black,0.5);
+
+        
+        h2 {
+
+
+        }
+
+        .post-meta {
+            font-family: $sans;
+            font-size: $small-font-size;
+
+            padding: 5% 0px;
+        }
+
+        .post-link {
+            color: $black;
+            padding : 0px 4% 15% 4%;
+
+
+        }    
+    }
+
+
+
+    }
+
+    
+   
 }
 
 

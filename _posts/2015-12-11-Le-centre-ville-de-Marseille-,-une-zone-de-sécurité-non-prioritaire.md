@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Le centre-ville de Marseille, une zone de sécurité non prioritaire
 categorie: articles
-cover_image: Cover_zone_non_prioritaire.jpg
+cover_image: img/covers/Cover_zone_non_prioritaire.jpg
 ---
 
 Le dimanche 13 septembre 2015, une [fusillade](http://www.lemonde.fr/police-justice/article/2015/09/13/une-fusillade-en-plein-c-ur-de-marseille-fait-un-mort-et-six-blesses_4755203_1653578.html) a éclaté à 6h du matin à la suite d’un différend survenu un peu plus tôt dans la nuit devant un bar du centre de Marseille, en face de l'Opéra, faisant un mort et 5 blessés.
