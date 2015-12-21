@@ -293,12 +293,13 @@ blockquote {
     padding: $spacing-unit 0 ; 
     font-family: $serif;
     font-size: small;
+    color:$grey-color-light-4;
     &::before {
         content: "— ";
         margin-left:-12px;
     }
     & a {
-        color:$grey-color-light-4;
+        
         border-left: 1px solid $grey-color-light-3;
         padding-left: 24px;
         margin-left: 24px; 
