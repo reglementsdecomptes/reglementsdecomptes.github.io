@@ -3,6 +3,7 @@ layout: post
 published: true
 title: Marseille's violence hits up Hungary
 categorie: articles
+cover_image: Cover_Hungary.jpg
 ---
 
 In September, Hungary was brought violently into the tumultuous crime scene of France’s southern city Marseille. A Hungarian man, Laszlo T. was shot to death in front of a bar, supposedly by gang members.

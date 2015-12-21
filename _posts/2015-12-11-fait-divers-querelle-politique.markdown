@@ -3,6 +3,7 @@ layout: post
 published: true
 title: Du fait divers à la querelle politique
 categorie: articles
+cover_image: Cover_querelle_politique.jpg
 ---
 
 C’est presque en homme ordinaire que Bernard F. se rend, mardi 19 mai, un peu avant 8h30, au Service des Sports de la ville de Marseille, pour lequel il travaille comme coursier depuis 1987. Arrivant tout juste devant le bâtiment, ses viennoiseries à la main, un homme casqué lui tire plusieurs balles dans la tête et le thorax, avant de rejoindre un complice pour s’enfuir à moto. Selon une source policière, les balles proviendraient d’un revolver de calibre .357 Magnum; digne d’un véritable film noir.

@@ -3,6 +3,7 @@ layout: post
 published: true
 categorie: articles
 title: "Avoir 15 ans à la cité des Lauriers"
+cover_image: Cover_Avoir_15_ans.jpg
 ---
 
 Il est 2h40 quand dans la nuit du 24 au 25 octobre 2015 en pleine vacances de la Toussaint, une rafale d’arme automatique de calibre 9mm abat trois jeunes au pied d’un immeuble de la Cité des Lauriers dans le 13ème arrondissement de la cité phocéenne.
