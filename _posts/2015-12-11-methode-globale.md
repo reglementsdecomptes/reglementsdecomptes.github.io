@@ -5,6 +5,7 @@ title: "Marseille : l’approche globale à l'épreuve des faits"
 categorie: articles
 cover_image: Cover_approche_globale.jpg
 related: ["« Règlement de comptes » en plein quartier Beaumont","Quand le démantèlement des réseaux de trafiquants tue"]
+author: Hadrien Bect
 ---
 
 Malgré des interventions policières régulières et la mise en place de nouvelles actions, les règlements de compte ne font pas de pause à Marseille. Des questions émergent autour de l'application de « l’approche globale ».
@@ -58,5 +59,3 @@ LIRE AUSSI : ["Quand le démantèlement des réseaux de trafiquants tue"](https:
 
 « Quand on fait tomber des réseaux on les affaiblit », explique Laurent Nunez, qui estime que son action peut, à court terme « favoriser les règlements de compte ». En clair, il faudra donc attendre encore un peu avant de pouvoir constater les effets tangibles de la méthode globale.
 
-Hadrien Bect
-{: .auteur}

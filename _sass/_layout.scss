@@ -13,9 +13,32 @@
     & .logo-rdc{
             vertical-align: middle;
     }
-
-    // display: none;
 }
+
+
+//* * * * * * * * * LOGO * * * * * * * * * * *
+
+.baseline {
+    font-family: $sans;
+    font-size: 11px;
+    text-align: center;
+    color : mix($white,$black,60%);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-weight: 600;
+    margin-top: $spacing-unit/5;
+    max-width: 95%;
+    display: none;
+}
+
+.logo {
+    max-width: 140px;
+    display: block;
+    -webkit-filter: none;
+
+} 
+
+//* * * * * * * * * * * * * * * * * * * * * * *
 
 .site-title {
     font-size: 26px;
@@ -248,6 +271,10 @@
 .post-content {
     margin-bottom: $spacing-unit;
 
+    h1 {
+        line-height: 1.2em;
+    }
+
     h2 {
         font-size: 32px;
         line-height: 1.2em;
@@ -363,6 +390,9 @@
 
     }
 
+
+//* * * * * * * * * BREAKPOINTS* * * * * * * * * * * * * *
+
 @include media-query($on-android) {
     .related {
         //background-color: green;
@@ -388,6 +418,11 @@
 
 
 @include media-query($on-palm) {
+    
+    .baseline {
+        display: block;
+    }
+
     .related {
         //background-color: yellow;
         li {

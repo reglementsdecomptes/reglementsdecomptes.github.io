@@ -5,6 +5,9 @@ categorie: articles
 title: "Mourir à 18 ans dans les quartiers Nord de Marseille"
 cover_image: Cover_Mourir_a_18_ans.jpg
 related: ["Avoir 15 ans à la cité des Lauriers","Sortir des quartiers nord"]
+author: Mahauld Granier
+twitter: https://twitter.com/mahauldbecker
+
 ---
 
 Il a 18 ans, il est mort par balle le 12 octobre dernier au bas d’une cité sensible du plan d’Aou, dans le 15ème arrondissement de Marseille. Aussi tragique que la mort d’un jeune puisse paraître, il n’a pas eu droit ni à une marche, ni à un hommage. “Il”, c’est le seul moyen pour désigner ce petit trafiquant, au parcours rendu “anonyme” par les carrières sulfureuses des caïds qui l’entourent. Son identité n’a d’ailleurs pas été dévoilée au grand public et les habitants se refusent à en parler (lien article J.Devambez). Symptomatique d’une génération délaissée par les parcours classiques et prisée par leurs aînés déjà impliqués dans le trafic, cet enfant des quartiers Nord de Marseille porte en lui toute la problématique d’une jeunesse isolée.
@@ -32,7 +35,3 @@ Dans le 15ème arrondissement de Marseille, les collèges publics ne dépassent 
 Passer ses journées à attendre à l’entrée d’une cité pour parfois des sommes modiques (entre 40 et 100 euros pour 8 à 10 heures de travail, [selon Libération](http://www.liberation.fr/france/2015/09/21/trafic-de-drogue-les-guetteurs-auxiliaires-indispensables_1387538)) n’est pas le rêve de tous les adolescents. Mais, Mohamed Marwan, spécialiste des phénomènes de bande et de la ségrégation urbaine explique dans un ouvrage sur la question que [les motivations de ces jeunes sont nombreuses](https://www.cairn.info/revue-cultures-et-conflits-2014-1-page-35.htm) : “attachement au quartier et allégeance à son pôle déviant, proximité avec les acteurs de la délinquance, rejet intense de la police et de l’ordre social qu’elle représente”. 
 
 Deux semaines après le décès de ce jeune, deux autres adolescents, de 15 ans cette fois, ont trouvé la mort au cours d’une fusillade. Les règlements de compte ont fait en 2015 au moins un mort [de plus qu’en 2014](http://www.laprovence.com/actu/faits-divers-en-direct/3662499/reglements-de-comptes-plus-de-tues-quen-2014.html) et la région marseillaise reste celle où le taux d’homicide est le plus fort en France, sur les 20 dernières années. 
-
-
-Mahauld Granier [twitter](https://twitter.com/mahauldbecker)
-{: .auteur}

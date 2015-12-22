@@ -5,6 +5,7 @@ layout: post
 categorie: articles
 cover_image: Cover_Ne_pas_parler_trop_vite.jpg
 related: ["Avoir 15 ans à la cité des Lauriers","Laver son linge en famille"]
+author: Natacha Gorwitz & Juliette Jabkhiro
 ---
 
 Les véhicules de gendarmerie entourent une voiture stationnée près du rond point du Canet, en périphérie de Meyreuil, à une trentaine de kilomètres de Marseille. Dimanche 1er novembre, vers 18h, Jean-Daniel R. a été la cible d’un ou plusieurs coups de feu. L’homme “âgé d’une trentaine d’années” a été retrouvé sur le siège conducteur, le “visage en partie défiguré”, a déclaré à [La Provence](http://www.laprovence.com/article/actualites/3651539/meyreuil-assassine-sur-fond-de-vendetta.html) Dominique Moyal, Procureur d’Aix. 
@@ -38,5 +39,3 @@ LIRE AUSSI : [“Quand le trafic dépasse les frontières de Marseille”](https
 
 La criminalité particulièrement forte de la région, qui ne se limite pas à Marseille et les “quartiers nord”, tisse une toile fond favorable à ce genre d’interprétation hâtive. En 2015, il y a eu 20 règlements de compte dans le département des Bouches-du-Rhône, dont 12 à Marseille, a indiqué la préfecture de police. La Ciotat, Port de Bouc, Aubagne, Gignac-la-Nerthe, etc. sur les 32 cas de règlements de comptes que nous avons répertoriés entre le 1er janvier 2014 et le 30 novembre 2015, huit ont eu lieu dans un périmètre situé au delà d’une vingtaine de kilomètres de la cité phocéenne (Voir Carte).  
 
-Natacha Gorwitz et Juliette Jabkhiro
-{: .auteur}

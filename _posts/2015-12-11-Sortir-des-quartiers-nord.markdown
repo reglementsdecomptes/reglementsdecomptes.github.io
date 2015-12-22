@@ -5,6 +5,7 @@ categorie: articles
 title: Sortir des quartiers nord
 cover_image: Cover_Sortir_des_quartiers.jpg
 related: ["Le centre-ville de Marseille, une zone de sécurité non prioritaire","Mourir à 18 ans dans les quartiers Nord de Marseille"]
+author: Laurine Benjebria
 ---
 
 Assassiné dans la nuit du 24 au 25 octobre 2015 au pied de l’immeuble des Lauriers, dans le 13e arrondissement de Marseille, Mohamed A., 15 ans, avait pourtant déménagé quatre ans plus tôt à Rennes.
@@ -40,6 +41,3 @@ Ils sont nombreux à trouver différents moyens pour ne pas entrer ou pour sorti
 LIRE AUSSI : ["Avoir 15 ans à la Cité des Lauriers », de Delphine Allaire"](https://) 
 {: .relance}
 
-
-Laurine Benjebria
-{: .auteur}

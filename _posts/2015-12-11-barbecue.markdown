@@ -5,6 +5,7 @@ categories: articles
 published: true
 cover_image: Cover_Barbecue.jpg
 related: ["Identifier un corps calciné : la police scientifique en première ligne","Sortir des quartiers nord"]
+author: Constance Daire
 ---
 
 Le 30 novembre dernier, une nuit calme, dans ce petit quartier de la Batarelle, au nord du 13ème arrondissement de Marseille, des riverains donnent l’alerte: une voiture incendiée se consume rue de la Gardiette, juste devant la barrière du chemin d’accès au Pic de l’Etoile. Les marins-pompiers sont dépêchés sur place, et font la macabre découverte d’un corps étranglé, pieds et poings liés. 
@@ -54,6 +55,3 @@ Or, les nouveaux barbecues diffèrent.
 {: .fullwidth}
 
 On comptabilise sept cas dans les années 2000, d’affaires qui correspondent parfaitement à la définition de la police judiciaire d’un « barbecue » et d’un règlement de comptes. Cette définition peine à englober les nouveaux cas, car ces derniers varient davantage. La différence d’âge, surtout, mérite d’être relevée. Pourtant, l’expression « barbecue » semble avoir imprégné le vocabulaire courant; utilisée vulgairement, elle désigne ces affaires qui rythment la vie de la ville phocéenne. Loin des figures des caïds des années 2000, ces jeunes des cités semblent réutiliser les codes de leurs aînés. La technique du « barbecue » semble s’être étendue à d’autres sphères que les traditionnelles guerres de bandes rivales. Les nouveaux cas des dernières décennies ne sont pas la résurgence des années 2000, mais plutôt l’effet d’une vulgarisation de la pratique, employée maintenant par les tout petits délinquants, pas assez « gradés » pour être considérés comme cibles de règlement de compte.
-
-Constance Daire
-{: .auteur}

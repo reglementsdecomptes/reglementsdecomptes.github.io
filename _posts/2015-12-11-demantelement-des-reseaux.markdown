@@ -5,6 +5,7 @@ title: Quand le démantèlement des réseaux de trafiquants tue
 categories: articles
 cover_image: Cover_demantelement_reseaux.jpg
 related: ["Marseille : l’approche globale à l'épreuve des faits","Ne pas parler trop vite des règlements de comptes"]
+author: Megane De Amorim
 ---
 
 
@@ -60,5 +61,3 @@ Face aux conséquences mortelles des démantèlements, la police a une responsab
 LIRE AUSSI : ["Marseille, l'approche globale à l'épreuve des faits"](https://)
 {: .relance}
 
-Megane De Amorim
-{: .auteur}
