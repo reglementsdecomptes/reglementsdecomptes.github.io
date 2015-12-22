@@ -3,6 +3,10 @@ layout: post
 published: true
 title: Le centre-ville de Marseille, une zone de sécurité non prioritaire
 categorie: articles
+cover_image: Cover_zone_non_prioritaire.jpg
+related: ["Vendetta ou appât du gain ?","Avoir 15 ans à la cité des Lauriers"]
+author: Justine Barraud
+twitter: https://twitter.com/JustineBarraud
 ---
 
 Le dimanche 13 septembre 2015, une [fusillade](http://www.lemonde.fr/police-justice/article/2015/09/13/une-fusillade-en-plein-c-ur-de-marseille-fait-un-mort-et-six-blesses_4755203_1653578.html) a éclaté à 6h du matin à la suite d’un différend survenu un peu plus tôt dans la nuit devant un bar du centre de Marseille, en face de l'Opéra, faisant un mort et 5 blessés.
@@ -45,4 +49,3 @@ Dans ce cadre exceptionnel, le préfet de Police des Bouches du Rhône annonce q
 Laurent Nunez, préfet de Police des Bouches-du-Rhône
 {: .credit}
 
-[Justine Barraud](https://twitter.com/JustineBarraud)

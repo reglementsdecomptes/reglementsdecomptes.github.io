@@ -3,6 +3,9 @@ layout: post
 published: true
 categorie: articles
 title: "Identifier un corps calciné : la police scientifique en première ligne"
+cover_image: Cover_police_scientifique.jpg
+related: ["« Barbecue »","Matchs retour en cascade dans les quartiers nords de Marseille"]
+author: Majda Abdellah
 ---
 
 Parmi les modes opératoires prisés dans les règlements de compte marseillais, figure celui de l’incendie. Popularisé sous le terme de « barbecue », il vise à faire disparaître un maximum de traces sur les lieux du crime. Un défi pour la police scientifique en charge de l’identification des victimes calcinées. 
@@ -35,5 +38,3 @@ Le procureur se charge ensuite de saisir le fichier national d’empruntes digit
 Lorsque la personne n’est pas connue des services de police, le laboratoire peut procéder à des comparaisons sur les prélèvements génétiques d’antécédents, des proches potentiels de la victime. « Pour cela, il faut avoir des informations sur l’environnement de la victime, regarder du côté des déclarations de personnes disparues » explique Bruno Sera. 
 
 Dans les cas extrêmes, où le degré de calcination du corps est trop élevé pour réaliser une identification, l’analyse dentaire est mobilisée. Dans les cas de règlements de compte, néanmoins, cette méthode est très rarement utilisée. L’identification est toujours réalisée, bien que retardée. Un retard dont l’impact psychologique sur les victimes et leurs proches profite aux criminels.
-
-**Majda Abdellah**

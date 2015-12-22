@@ -3,6 +3,9 @@ layout: post
 published: true
 categorie: articles
 title: « Règlement de comptes » en plein quartier Beaumont
+cover_image: Cover_quartier_beaumont.jpg
+related: ["Braquages mécaniques et petits santons : plongée dans la vie du gangster Robert B.","Ne pas parler trop vite des règlements de comptes"]
+author: Raphaël Georgy
 ---
 
 L’été dernier, ce qui ressemble fortement à un règlement de comptes s’est produit en plein quartier Beaumont, un quartier d’ordinaire calme du 12ème arrondissement de Marseille. Mais les habitants et les élus locaux semblent résignés quant à leur propre sécurité
@@ -50,4 +53,3 @@ Les habitants ne semblent pas craindre que les règlements de compte ne s’expo
 
 Nombreux sont les habitants qui ont questionné M. Coulet sur la sécurité dans le quartier. Néanmoins celui-ci avoue ne pas pouvoir faire de miracles : _« Il peut toujours y avoir des dommages collatéraux, et ça m’interpelle. Mais on est impuissants par rapport à cela »_.
 
-**Raphaël Georgy**

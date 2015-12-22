@@ -3,7 +3,9 @@ published: true
 layout: post
 title: Quand le démantèlement des réseaux de trafiquants tue
 categories: articles
-cover_image: "Cite-des-Bleuets.png"
+cover_image: Cover_demantelement_reseaux.jpg
+related: ["Marseille : l’approche globale à l'épreuve des faits","Ne pas parler trop vite des règlements de comptes"]
+author: Megane De Amorim
 ---
 
 
@@ -56,7 +58,6 @@ Si cette chronologie n’est pas exhaustive, elle permet de mettre en évidence 
 Face aux conséquences mortelles des démantèlements, la police a une responsabilité selon Stéphane Quéré. “Le problème c’est qu’en France la police est réactive. Elle commence une enquête sur les faits, après un flingage.” Pour le spécialiste, ce qu’il faudrait, c’est une police pro-active, c’est-à-dire capable d’identifier les acteurs avant qu’il n’y ait de règlements de compte. 
 “Mais ça commence à changer.” 
 
-Lire aussi: Marseille, l'approche globale à l'épreuve des faits.
+LIRE AUSSI : ["Marseille, l'approche globale à l'épreuve des faits"](https://)
 {: .relance}
 
-**Megane De Amorim**

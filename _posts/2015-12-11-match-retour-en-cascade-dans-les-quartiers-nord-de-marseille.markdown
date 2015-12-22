@@ -3,6 +3,9 @@ layout: post
 published: true
 title: Matchs retour en cascade dans les quartiers nords de Marseille
 categorie: articles
+cover_image: Cover_Matchs_retour.jpg
+related: ["Mourir à 18 ans dans les quartiers Nord de Marseille","Marseille : l’approche globale à l'épreuve des faits"]
+author: Laure-Hélène de Vriendt
 ---
 
 Il est 16 heures le 14 avril 2014 lorsque Mehdi B. se rend chez son avocat. Le jeune homme de 27 ans est au volant de sa voiture de location quand des hommes cagoulés arrivent à sa hauteur sur l’autoroute A7, à quelques mètres de la sortie Plombières. Ils tirent depuis leur voiture sur le véhicule de la victime qui est alors obligée de s’arrêter en pleine voie. Il sort de sa voiture, tente de s’enfuir à pied mais est tué de plusieurs balles de kalachnikov. Il faisait partie d’un réseau de drogues basé dans la cité des Flamants dans le 14ème arrondissement de Marseille. 
@@ -68,4 +71,3 @@ Dans le “match retour” dont a été victime Zackary R. le nombre de douilles
 
 Les “match retour” sont donc avant tout un jeu de force permanent entre clans rivaux, qui leur permet d’imposer leur autorité et d’impressionner les autres réseaux par la force. Si le mobile premier est la vengeance de la mort d’un des leurs les bandes rivales cherchent avant tout à imposer leur puissance de feu par le nombre de règlements de compte auxquels ils répondent et le mode opératoire qu’ils choisissent.
 
-**Laure-Hélène de Vriendt**

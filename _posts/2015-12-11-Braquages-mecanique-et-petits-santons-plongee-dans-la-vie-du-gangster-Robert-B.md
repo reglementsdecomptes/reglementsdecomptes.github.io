@@ -3,6 +3,9 @@ layout: post
 title: "Braquages mécaniques et petits santons : plongée dans la vie du gangster Robert B."
 categories: articles
 published: true
+cover_image: Cover_Braquages_mecaniques.jpg
+related: ["Laver son linge en famille","Matchs retour en cascade dans les quartiers nords de Marseille"]
+author: Chloé Fiancette
 ---
 
 
@@ -52,5 +55,3 @@ Lors du procès en appel, l’avocat général a plaidé en sa faveur. Pour lui 
 Le gang a été déstabilisé et retardé dans ses projets par la mort de Robert B : «  On ne peut absolument pas vous dire si il a été assassiné par des membres de cette équipe ou des concurrents, c'est trop tôt... Ca a surtout stoppé dans l'élan notre équipe qui s'est un peu égayée dans la nature », [a déclaré Brice Robin en conférence de presse](http://www.lamarseillaise.fr/marseille/faits-divers-justice/41401-marseille-un-gang-de-neuf-braqueurs-marseillais-demantele). Les obsèques du bandit auraient donné lieu à une occasion pour la police d’identifier Jean-Philippe B, selon Le Parisien. 
 
 La mort de Robert B est-elle liée à cette nouvelle activité ? Mystère. Lorsqu’il a été assassiné le 6 août 2015, Robert B résidait dans le centre-ville de Marseille Il était en liberté depuis trois ans. Selon un des proches de l’enquête qui s’est exprimé auprès de La Provence,  “Les tueurs connaissaient son emploi du temps. Et le fait qu'il n'ait pas enlevé son casque peut laisser penser qu'il n'était pas tranquille ». Le truand fan de moto a quitté ce monde un casque vissé sur la tête.
-
-**Chloé Fiancette**

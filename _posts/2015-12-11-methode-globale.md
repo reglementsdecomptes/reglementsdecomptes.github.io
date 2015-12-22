@@ -3,6 +3,9 @@ layout: post
 published: true
 title: "Marseille : l’approche globale à l'épreuve des faits"
 categorie: articles
+cover_image: Cover_approche_globale.jpg
+related: ["« Règlement de comptes » en plein quartier Beaumont","Quand le démantèlement des réseaux de trafiquants tue"]
+author: Hadrien Bect
 ---
 
 Malgré des interventions policières régulières et la mise en place de nouvelles actions, les règlements de compte ne font pas de pause à Marseille. Des questions émergent autour de l'application de « l’approche globale ».
@@ -18,8 +21,11 @@ L'objectif de cette nouvelle approche est ambitieux. Il s'agit, pour Camille All
 
  
 
-A lire : Sortir des quartiers Nord de Marseille, une nécessité bien difficile : le cas de Mohamed A. 
+LIRE AUSSI : ["Sortir des quartiers Nord de Marseille, une nécessité bien difficile : le cas de Mohamed A."](https://)
 {: .relance}
+
+
+
 
 L'infographie ci-dessous, décrit les différentes phases de présence des CRS dans la cité de La Sauvagère entre mars 2013 et septembre 2014.
 
@@ -40,14 +46,16 @@ Enfin, la dernière phase, à partir de juillet 2014, a donné lieu à une absen
 
 La préfecture de police indique que cette présence s'accompagne d'interpellations régulières, réalisée tant durant des opérations qu'à l'occasion de contrôles.
 
-(Source : Allaria C., Raquet E., Weiss P.O., Evaluation de la "méthode globale" (Zones de sécurité prioritaires), Les Rapports de Recherche de l'ORDCS, n°6.)
+Source : Allaria C., Raquet E., Weiss P.O., Evaluation de la "méthode globale" (Zones de sécurité prioritaires), Les Rapports de Recherche de l'ORDCS, n°6.
+{: .credit}
 
 # Un trafic enraciné
 
 « Il y a une opération policière par jour dans les 13e et 14e arrondissement » constate un élu responsable de la sécurité dans les quartiers Nord pour qui « les opérations de police sont efficaces ». Et de poursuivre : « Quand une opération est menée dans une cité, au bout d'une demi-heure, les dealers sont ailleurs. Ils ont des plans B, voire C ». Le déplacement des trafics, c'est précisément ce contre quoi le Préfet de police essaie de lutter. « Les CRS essaient de rayonner sur plusieurs cités ». Mais cela n'empêche pas les bandes rivales de se livrer à des règlements de compte, sur fond de guerre entre les territoires. Pour l'année 2015, la Préfecture de police des Bouches-du-Rhône en dénombre 12. Paradoxalement, ce n'est pas forcément le signe que l’approche globale ne fonctionne pas. 
 
-**A lire :** Quand le démantèlement des réseaux de trafiquants tue
+
+LIRE AUSSI : ["Quand le démantèlement des réseaux de trafiquants tue"](https://)
+{: .relance}
 
 « Quand on fait tomber des réseaux on les affaiblit », explique Laurent Nunez, qui estime que son action peut, à court terme « favoriser les règlements de compte ». En clair, il faudra donc attendre encore un peu avant de pouvoir constater les effets tangibles de la méthode globale.
 
-**Hadrien Bect**

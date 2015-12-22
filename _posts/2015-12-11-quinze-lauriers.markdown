@@ -3,6 +3,9 @@ layout: post
 published: true
 categorie: articles
 title: "Avoir 15 ans à la cité des Lauriers"
+cover_image: Cover_Avoir_15_ans.jpg
+related: ["Le silence des quartiers nord","Marseille's violence hits up Hungary"]
+author: Delphine Allaire
 ---
 
 Il est 2h40 quand dans la nuit du 24 au 25 octobre 2015 en pleine vacances de la Toussaint, une rafale d’arme automatique de calibre 9mm abat trois jeunes au pied d’un immeuble de la Cité des Lauriers dans le 13ème arrondissement de la cité phocéenne.
@@ -38,11 +41,9 @@ Kamal Z. venait d’ailleurs souvent aux entraînements depuis son inscription e
  
 C’est justement pour amortir le choc émotionnel et prévenir de futurs cas chez ces jeunes que les mots employés autour du rôle des mineurs dans les règlements de compte sont à employer avec précaution. “Ce n’est pas parce qu’ils ne sont pas enfants de chœur qu’on doit en parler avec tant de violence verbale » explique un journaliste qui a longtemps travaillé sur le sujet, insistant sur le fait que ces jeunes du 13ème arrondissement entendant ça et là résonner les mots ludiques de « matchs retours » ou « barbecue » peuvent minimiser la portée de ces actes criminels.
 
-A lire: Mourir à 18 ans dans les quartiers Nord de Marseille
+LIRE AUSSI : ["Mourir à 18 ans dans les quartiers Nord de Marseille"](https://)
 {: .relance}
 
 VISUEL sur le rappel homicides – de 15 ans (datagouv)
  
 Depuis 1996, 37 jeunes de moins de 15 ans ont été victimes d’homicides dans le département des Bouches-du-Rhône avec une variabilité de 0 à 2, selon les années. Avec l’affaire des Lauriers le 25 octobre dernier, l’année 2015 en comptera deux. Deux de trop.
-
-**Delphine Allaire**
