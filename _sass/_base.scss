@@ -7,12 +7,7 @@
 
   font-style:   normal;
   font-weight:  200;
-  text-rendering: optimizeLegibility;
 }
-
-
-
-
 
 /**
  * Reset some basic elements
@@ -63,6 +58,8 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+    text-rendering: geometricPrecision;
+
 }
 
 strong {
@@ -118,12 +115,14 @@ blockquote+[class],.image+[class] {
     padding-left: 15%;
     padding-top: 1rem;
     padding-bottom: 2.5rem;
+
 }
 
 blockquote+.credit {
     padding-top: 2.5rem;
     text-align: right;
     background: $black;
+        @include font-feature("dlig");
 }
 blockquote+.note,,.image+.note {
     padding-top: $spacing-unit;
@@ -378,7 +377,7 @@ pre {
 .wrapper {
     max-width: -webkit-calc(#{$on-laptop} - (#{$spacing-unit} * 2));
     max-width:         calc(#{$on-laptop} - (#{$spacing-unit} * 2));
-
+    margin: 0 auto;
     @extend %clearfix;
 }
 

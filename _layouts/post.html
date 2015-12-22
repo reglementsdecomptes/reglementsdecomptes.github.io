@@ -10,22 +10,3 @@ layout: default
         {{ content }}
     </article>
 </div>
-<div class="related">
-	<h4>Lire aussi</h4>
-    <ul class="">
-        {% for related in site.posts %}
-            {% if page.related contains related.title %}
-            	<li>
-    		        <div class="post-container">
-    		          <img src="/img/Covers/{{ related.cover_image }}" />
-                        <div class="meta-container">
-    		              <div class="post-meta">{{ related.date | date: "%b %-d, %Y" }}</div>  
-    		              <a class="post-link" href="{{ related.url | prepend: site.baseurl }}">{{ related.title }}</a>
-                        </div>
-    		        </div>
-    		      </li>
-            {% endif %}
-        {% endfor %}
-    </ul>
-    <div style="clear:both;"></div>
-</div>
