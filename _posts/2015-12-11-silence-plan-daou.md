@@ -3,7 +3,8 @@ layout: post
 published: true
 categorie: articles
 title: Le silence des quartiers nord
-cover_image: img/covers/Cover_Le_silence.jpg
+cover_image: Cover_Le_silence.jpg
+related: ["« Barbecue »","Quand le démantèlement des réseaux de trafiquants tue"]
 ---
 
 Prolixes sur les problèmes généraux: la drogue, le chômage, la déscolarisation des jeunes, dans les quartiers nord de Marseille, où les trafiquants de drogue exercent une forte emprise, les habitants taisent des meurtres qui ont tout de règlements de compte. Au plan d’Aou, à quelques kilomètres de la Castellane, un [jeune homme de dix-huit ans](http://reglementsdecomptes.github.io/2015/12/11/PLANDAOU.html) est tué par balle au pied d’un immeuble, en fin de matinée le 12 octobre dernier. L’enquête policière se heurte au mutisme de certains voisins. 

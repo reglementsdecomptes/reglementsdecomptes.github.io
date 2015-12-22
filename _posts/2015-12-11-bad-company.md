@@ -3,7 +3,8 @@ layout: post
 title: On Keeping Bad (Criminal) Company
 categories: articles
 published: true
-cover_image: img/covers/Cover_On_Keeping_Bad.jpg
+cover_image: Cover_On_Keeping_Bad.jpg
+related: ["Marseille's violence hits up Hungary","Le centre-ville de Marseille, une zone de sécurité non prioritaire"]
 ---
 
 It’s almost summer in Marseille. A courier from the town hall’s sport offices arrives at work near the Velodrome, the renowned soccer stadium in a city famous for its team as well as its passionate supporters—but also for its high-rate of homicides and a century-long history of organized crime. It’s around 8.30 a.m., on May 20th of 2015 and Bernard F., the town employee, who turned 50 one week ago, arrives carrying a bag full of fresh pastries. Just as he goes to open the door, a man wearing a motorcycle helmet opens fire on him with a .357 Magnum revolver. The man walks back toward his accomplice and they flee on a motorcycle, leaving Bernard F. bleeding on the ground. Nearby parents walking their children to school in this relatively quiet, well-off neighborhood, hear the shots ring out. 

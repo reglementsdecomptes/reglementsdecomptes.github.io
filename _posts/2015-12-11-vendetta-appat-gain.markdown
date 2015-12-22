@@ -3,7 +3,8 @@ layout: post
 published: true
 categorie: articles
 title: Vendetta ou appât du gain ?
-cover_image: img/covers/Cover_Vendetta.jpg
+cover_image: Cover_Vendetta.jpg
+related: ["Le silence des quartiers nord","Sortir des quartiers nord"]
 ---
 
 Nasseri M. et Jimmy I., 27 et 29 ans, morts sous les balles à bord de leur voiture à Saint Jérôme en 2012. Mohamed A., Kamal Z., et Adelmalik A., 15 et 23 ans, tués au pistolet automatique devant leur domicile, la cité des Lauriers en octobre 2015. Mohamed M. et Anthony C., exécutés lors d’une embuscade dans le tunnel du Prado-Carénage en novembre 2015.

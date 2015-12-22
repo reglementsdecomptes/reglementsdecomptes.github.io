@@ -3,7 +3,8 @@ layout: post
 published: true
 title: "Marseille : l’approche globale à l'épreuve des faits"
 categorie: articles
-cover_image: img/covers/Cover_approche_globale.jpg
+cover_image: Cover_approche_globale.jpg
+related: ["« Règlement de comptes » en plein quartier Beaumont","Quand le démantèlement des réseaux de trafiquants tue"]
 ---
 
 Malgré des interventions policières régulières et la mise en place de nouvelles actions, les règlements de compte ne font pas de pause à Marseille. Des questions émergent autour de l'application de « l’approche globale ».

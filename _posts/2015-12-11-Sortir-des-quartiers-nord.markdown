@@ -3,7 +3,8 @@ layout: post
 published: true
 categorie: articles
 title: Sortir des quartiers nord
-cover_image: img/covers/Cover_Sortir_des_quartiers.jpg
+cover_image: Cover_Sortir_des_quartiers.jpg
+related: ["Le centre-ville de Marseille, une zone de sécurité non prioritaire","Mourir à 18 ans dans les quartiers Nord de Marseille"]
 ---
 
 Assassiné dans la nuit du 24 au 25 octobre 2015 au pied de l’immeuble des Lauriers, dans le 13e arrondissement de Marseille, Mohamed A., 15 ans, avait pourtant déménagé quatre ans plus tôt à Rennes.
@@ -15,7 +16,7 @@ C’est à 2h40 que Mohamed A. est retrouvé mort, dans le hall d’entrée D du
 Répartition des logements sociaux du 13e arrondissement 
 {: .credit}
  
-A lire : « En première ligne : mourir à 18 ans dans les quartiers nord de Marseille, de Mahauld Grenier »
+LIRE AUSSI : ["En première ligne : mourir à 18 ans dans les quartiers nord de Marseille, de Mahauld Grenier"](https://)  
 {: .relance}
  
 # Pour éviter l’engrenage des trafics, quitter les quartiers nord
@@ -35,8 +36,8 @@ Antoine Maggio est adjoint délégué à l’Urbanisme et au Logement dans les 1
 # Quand sortir des Cités n’est pas possible, trouver d’autres moyens de vivre dans la Cité
 
 Ils sont nombreux à trouver différents moyens pour ne pas entrer ou pour sortir de cet environnement difficile et sensible. C’était le cas de Kamal Z. qui faisait partie du club de foot Loisir Malpassé (FCM) depuis 2014. Selon Othman Sahki, dirigeant du club, _« le foot véhicule les valeurs de dépassement de soi et l’esprit de solidarité »_, et c’est par le foot que les jeunes enfants de Malpassé (quartier dans lequel se trouve la cité des Lauriers) réussissent à ne pas mettre un pied dans le trafic de drogue. 
- 
-A lire : « Avoir 15 ans à la Cité des Lauriers », de Delphine Allaire
+
+LIRE AUSSI : ["Avoir 15 ans à la Cité des Lauriers », de Delphine Allaire"](https://) 
 {: .relance}
 
 

@@ -3,7 +3,8 @@ layout: post
 title: "Braquages mécaniques et petits santons : plongée dans la vie du gangster Robert B."
 categories: articles
 published: true
-cover_image: img/covers/Cover_Braquages_mecaniques.jpg
+cover_image: Cover_Braquages_mecaniques.jpg
+related: ["Laver son linge en famille","Matchs retour en cascade dans les quartiers nords de Marseille"]
 ---
 
 

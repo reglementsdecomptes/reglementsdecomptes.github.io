@@ -3,7 +3,8 @@ layout: post
 title: Laver son linge en famille
 categories: articles
 published: true
-cover_image: img/covers/Cover_linge_en_famille.jpg
+cover_image: Cover_linge_en_famille.jpg
+related: ["Braquages mécaniques et petits santons : plongée dans la vie du gangster Robert B.","Le silence des quartiers nord"]
 ---
 
 Le tunnel du Prado est un point de passage obligatoire pour de nombreux Marseillais dans leurs déplacements quotidiens. Dans la nuit du lundi 9 au mardi 10 novembre, l’endroit accueille une scène de guerre d’une rare violence, immortalisée par les caméras de surveillance.

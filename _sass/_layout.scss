@@ -193,7 +193,7 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding: $spacing-unit 0 0;
 }
 
 .page-heading {
@@ -278,27 +278,153 @@
         
         font-family: $sans;
         font-weight: 900;
-
         font-size: 14px;
-
-        
         background-color: $pure-white;
         color: $black;
         border-radius: 3px;
         box-shadow: 0px 0px 3px rgba($black,0.5);
-
-
         padding :15px;
 
-        a{
+        a {
             color: $black;
             font-weight: 300;
-
-
-
         }
 
     }
-
-
 }
+.related {
+
+        background-color: mix($white,$black, 95%);
+        border-top: 1px solid mix($white,$black, 90%);
+        font-size: 13px;
+        padding-bottom: $spacing-unit*2;
+
+        h4 {
+            text-align: center;
+            font-size: 16px;
+            font-family: $sans;
+            text-transform: uppercase;
+            color: mix($white,$black, 60%);
+            padding-top: $spacing-unit;
+        }
+
+        ul {
+                list-style-type: none;
+                margin-left: $spacing-unit/2;
+                margin-right: $spacing-unit/2;
+        }
+
+        li {
+            width: 100%;
+            float: left;
+
+
+            .post-container{
+
+            width: 100%;
+            background-color: $pure-white;
+            color: $black;
+            border-radius: 3px;
+            box-shadow: 0px 0px 3px rgba($black,0.5);
+            margin-bottom: $spacing-unit/2;
+
+            }
+
+            img {
+                width : 30% ;
+                vertical-align: top;
+
+            }
+            .meta-container{
+
+                display: inline-block;
+                width:58%;
+                vertical-align: top;
+                margin: 4%;
+                box-sizing: border-box;
+                padding: 0px;
+
+
+                .post-link{
+                    font-size: 12px;
+                    color: $black;
+                    line-height: 1.2em;
+                }
+
+                .post-meta {
+                    display: none;
+
+                }
+            }
+
+        }
+
+
+
+    }
+
+@include media-query($on-android) {
+    .related {
+        //background-color: green;
+        li {
+            
+            .meta-container{
+                //margin: 3% 3%;
+                .post-link{
+                    font-size: 13px;
+                }
+                .post-meta {
+                    padding-bottom: 1%;
+                    font-size: 11px;
+                    display: block;
+
+                }
+
+            }
+
+        }
+    }
+}
+
+
+@include media-query($on-palm) {
+    .related {
+        //background-color: yellow;
+        li {
+            width: 50%;
+            float: left;
+
+            .post-container {
+                 width:90%;
+                 text-align: center;
+                 margin : auto;
+                }
+
+            img {
+                width : 100% ;
+                vertical-align: top;
+
+            }
+
+            .meta-container{
+
+                width:90%;
+                margin: 5%;
+
+                .post-link{
+                    font-size: 22px;
+                    line-height: 1.2em;
+                    margin: 2% 4% 7%;
+                }
+
+                .post-meta {
+                    //display: none;
+
+                }
+            }
+
+
+            }
+            
+        }
+    }
