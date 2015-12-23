@@ -7,8 +7,9 @@ cover_image: Cover_Vendetta.jpg
 related: 
   - Le silence des quartiers nord
   - Sortir des quartiers nord
-author: X.X
+author: "Louis Baudoin-Laarman"
 ---
+
 
 
 
@@ -46,5 +47,3 @@ Rhoff - Le code de l'horreur (2008)
 {: .credit}
 
 Le code de l’honneur est il donc lié à l’importance de la famille, une valeur romanesque voire romantique dans l’imaginaire collectif, ou simplement au besoin des trafiquants de s’afficher en caïd endurcis suivant un code bien précis afin de mieux contrôler leur territoire ? Chez les rappeurs, qui ont largement contribué à définir et diffuser cette idée du code de l’honneur, l’honneur peut rester un idéal basé sur des valeurs. Dans l’univers du trafic de stupéfiants à Marseille en revanche, c’est la quête plus prosaïque du gain matériel qui est le réel moteur du code de l’honneur.
-
-Louis Baudoin-Laarman
