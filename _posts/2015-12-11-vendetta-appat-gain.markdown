@@ -2,15 +2,18 @@
 layout: post
 published: true
 categorie: articles
-title: Vendetta ou appât du gain ?
+title: "Vendetta ou appât du gain ?"
 cover_image: Cover_Vendetta.jpg
-related: ["Le silence des quartiers nord","Sortir des quartiers nord"]
+related: 
+  - Le silence des quartiers nord
+  - Sortir des quartiers nord
 author: X.X
 ---
 
+
 Nasseri M. et Jimmy I., 27 et 29 ans, morts sous les balles à bord de leur voiture à Saint Jérôme en 2012. Mohamed A., Kamal Z., et Adelmalik A., 15 et 23 ans, tués au pistolet automatique devant leur domicile, la cité des Lauriers en octobre 2015. Mohamed M. et Anthony C., exécutés lors d’une embuscade dans le tunnel du Prado-Carénage en novembre 2015.
 
-Trois cas officiellement isolés les uns des autres, et pourtant les lieux, les acteurs et les véhicules utilisés sont liés. Les victimes se connaissaient toutes, et dans le cas de Nasseri et Mohamed M., venaient de la même famille. Or selon une source policière, « Des éléments rapproche [Mohamed] M. à la cité des Lauriers. » Il donc possible, voire même probable, que la fusillade des Lauriers ait été perpétrée par Mohamed Moumadi pour venger la mort de son frère, et que la fusillade du tunnel du Prado était elle-même exécutée en représailles à la tuerie de la cité des Lauriers.
+Trois cas officiellement isolés les uns des autres, et XX pourtant les lieux, les acteurs et les véhicules utilisés sont liés. Les victimes se connaissaient toutes, et dans le cas de Nasseri et Mohamed M., venaient de la même famille. Or selon une source policière, « Des éléments rapproche [Mohamed] M. à la cité des Lauriers. » Il donc possible, voire même probable, que la fusillade des Lauriers ait été perpétrée par Mohamed Moumadi pour venger la mort de son frère, et que la fusillade du tunnel du Prado était elle-même exécutée en représailles à la tuerie de la cité des Lauriers.
 
 Si le premier facteur de ces morts est l’appartenance aux réseaux de trafic de drogues dans le nord de Marseille, le code de l’honneur, élément intrinsèque de la micro-société à laquelle appartenaient la famille M., est un élément non négligeable pour comprendre les règlements de compte qui secouent la cité phocéenne depuis des années. « Il y a une double dimension business et sang. Les deux se percutent quand il s’agit de venger l’honneur de la famille. », résume Stéphane Quéré, criminologue. 
 
@@ -42,6 +45,3 @@ Rhoff - Le code de l'horreur (2008)
 {: .credit}
 
 Le code de l’honneur est il donc lié à l’importance de la famille, une valeur romanesque voire romantique dans l’imaginaire collectif, ou simplement au besoin des trafiquants de s’afficher en caïd endurcis suivant un code bien précis afin de mieux contrôler leur territoire ? Chez les rappeurs, qui ont largement contribué à définir et diffuser cette idée du code de l’honneur, l’honneur peut rester un idéal basé sur des valeurs. Dans l’univers du trafic de stupéfiants à Marseille en revanche, c’est la quête plus prosaïque du gain matériel qui est le réel moteur du code de l’honneur.
-
-
-
