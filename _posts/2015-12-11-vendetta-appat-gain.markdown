@@ -16,11 +16,13 @@ author: "Louis Baudoin-Laarman"
 
 Nasseri M. et Jimmy I., 27 et 29 ans, morts par balles à bord de leur voiture à Saint Jérôme (13 ardt) en 2012. Mohamed A., Kamal Z. et Adelmalik A., 15 et 23 ans [AGE DU TROISIEME INDIVIDU], tués au pistolet automatique devant leur domicile, dans la cité voisine des Lauriers (13 ardt), en octobre 2015. Mohamed M. et Anthony C. [AGES], abattus dans une embuscade sous le tunnel du Prado-Carénage, en novembre 2015.
 
-Trois cas officiellement isolés les uns des autres. Et pourtant liés par les lieux, les acteurs et les véhicules utilisés. Les victimes se connaissaient. Et dans le cas de Nasseri et Mohamed M., elles étaient membres d'une même même famille. Selon une source policière, « des éléments rapprochent [Mohamed] M. à la cité des Lauriers. » Il donc possible qu'au centre de ses deux fait-divres figurent la vengeance d'un homme pour la mort de son frère.
+Trois cas officiellement isolés les uns des autres. Ils sont pourtant liés par les lieux, les acteurs et les véhicules utilisés. Les victimes se connaissaient également. Et dans le cas de Nasseri et Mohamed M., elles étaient membres d'une même même famille. 
 
-Si le mobile de ce type de crimes est d'abord l'appartenance à un réseau de trafic de drogues, et les luttes d'influence qu'il génère dans les quartiers nord de Marseille, le code de l’honneur et les liens familiaux, expliquent aussi parfois les  règlements de comptes qui secouent la cité phocéenne. "Il y a une double dimension business et sang", résume Stéphane Quéré, criminologue : "les deux se percutent quand il s’agit de venger l’honneur de la famille".
+Selon une source policière, « des éléments rapprochent [Mohamed] M. à la cité des Lauriers. » Il donc possible qu'au centre de ses deux fait-divres figurent la vengeance d'un homme pour la mort de son frère.
 
-Dans un environnement ou les affaires se règlent souvent en famille, le code de l'honneur, moins intéressé, moin srationnel, guide les relations interpersonnelles. 	
+Si les règlements de comptes ont d'abord pour mobile l'appartenance à un réseau de trafic de drogues, et les luttes d'influence qu'il génère dans les quartiers nord de Marseille, le code de l’honneur et les liens familiaux, sont également déterminants. "Il y a une double dimension business et sang", résume Stéphane Quéré, criminologue : "les deux se percutent quand il s’agit de venger l’honneur de la famille".
+
+Dans un environnement ou les affaires se règlent souvent en famille, le code de l'honneur, complexifie les relations interpesonnelles, en y ajoutant une dimension moins matérialiste, moins rationnelle aussi. 	
 
 # Le rap comme vecteur de la notion d’honneur
 
