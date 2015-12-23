@@ -20,10 +20,7 @@ Trois cas officiellement isolés les uns des autres. Et pourtant liés par les l
 
 Si le mobile de ce type de crimes est d'abord l'appartenance à un réseau de trafic de drogues, et les luttes d'influence qu'il génère dans les quartiers nord de Marseille, le code de l’honneur et les liens familiaux, expliquent aussi parfois les  règlements de comptes qui secouent la cité phocéenne. "Il y a une double dimension business et sang", résume Stéphane Quéré, criminologue : "les deux se percutent quand il s’agit de venger l’honneur de la famille".
 
-xx
-
-Les rivalités entre clans pour le contrôle de territoires, la compétition sur marché de la vente de stupéfiants sont bel et bien à l’origine de la violence que vivent les quartiers nord de Marseille. Mais derrière les rivalités entre réseaux existe un autre facteur pour ces règlements, moins intéressé, moins rationnel, celui de l’honneur. Dans un environnement ou les affaires se règlent souvent en famille, la place de cette dernière au sein du code de l’honneur qui guide les relations interpersonnelles dans les quartiers Nord de Marseille. 	
-
+Dans un environnement ou les affaires se règlent souvent en famille, le code de l'honneur, moins intéressé, moin srationnel, guide les relations interpersonnelles. 	
 
 # Le rap comme vecteur de la notion d’honneur
 
