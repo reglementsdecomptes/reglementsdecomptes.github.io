@@ -14,7 +14,7 @@ author: "Louis Baudoin-Laarman"
 
 
 
-Nasseri M. et Jimmy I., 27 et 29 ans, morts par balles à bord de leur voiture à Saint Jérôme (13 ardt) en 2012. Mohamed A., Kamal Z. et Adelmalik A., 15 et 23 ans [AGE DU TROISIEME INDIVIDU], tués au pistolet automatique devant leur domicile, dans la cité voisine des Lauriers (13 ardt) en octobre 2015. Mohamed M. et Anthony C. [AGES], abattu dans une embuscade sous le tunnel du Prado-Carénage, en novembre 2015.
+Nasseri M. et Jimmy I., 27 et 29 ans, morts par balles à bord de leur voiture à Saint Jérôme (13 ardt) en 2012. Mohamed A., Kamal Z. et Adelmalik A., 15 et 23 ans [AGE DU TROISIEME INDIVIDU], tués au pistolet automatique devant leur domicile, dans la cité voisine des Lauriers (13 ardt) en octobre 2015. Mohamed M. et Anthony C. [AGES], abattus dans une embuscade sous le tunnel du Prado-Carénage, en novembre 2015.
 
 Trois cas officiellement isolés les uns des autres, et pourtant les lieux, les acteurs et les véhicules utilisés sont liés. Les victimes se connaissaient toutes, et dans le cas de Nasseri et Mohamed M., venaient de la même famille. Or selon une source policière, « Des éléments rapproche [Mohamed] M. à la cité des Lauriers. » Il donc possible, voire même probable, que la fusillade des Lauriers ait été perpétrée par Mohamed Moumadi pour venger la mort de son frère, et que la fusillade du tunnel du Prado était elle-même exécutée en représailles à la tuerie de la cité des Lauriers.
 
