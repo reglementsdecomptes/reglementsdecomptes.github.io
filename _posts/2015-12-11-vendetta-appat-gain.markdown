@@ -18,7 +18,7 @@ Nasseri M. et Jimmy I., 27 et 29 ans, morts par balles à bord de leur voiture �
 
 Trois cas officiellement isolés les uns des autres. Et pourtant liés par les lieux, les acteurs et les véhicules utilisés. Les victimes se connaissaient. Et dans le cas de Nasseri et Mohamed M., elles étaient membres d'une même même famille. Selon une source policière, « des éléments rapprochent [Mohamed] M. à la cité des Lauriers. » Il donc possible qu'au centre de ses deux fait-divres figurent la vengeance d'un homme pour la mort de son frère.
 
-Si le mobile de ce type de crimes est d'abord l'appartenance à un réseau de trafic de drogues, et les luttes d'influence qu'il génère dans les quartiers nord de Marseille, le code de l’honneur et le liens familiaux, expliquent aussi parfois les  règlements de comptes qui secouent la cité phocéenne. « Il y a une double dimension business et sang", résume Stéphane Quéré, criminologue : "les deux se percutent quand il s’agit de venger l’honneur de la famille".
+Si le mobile de ce type de crimes est d'abord l'appartenance à un réseau de trafic de drogues, et les luttes d'influence qu'il génère dans les quartiers nord de Marseille, le code de l’honneur et les liens familiaux, expliquent aussi parfois les  règlements de comptes qui secouent la cité phocéenne. "Il y a une double dimension business et sang", résume Stéphane Quéré, criminologue : "les deux se percutent quand il s’agit de venger l’honneur de la famille".
 
 xx
 
