@@ -24,26 +24,26 @@ Selon une source policière, « des éléments rapprochent [Mohamed] M. à la ci
 
 Si les règlements de comptes ont d'abord pour mobile l'appartenance à un réseau de trafic de drogues -- et les luttes d'influence qu'il génère dans les quartiers nord de Marseille -- les liens familiaux et le code de l’honneur qui en découle, sont également déterminants. "Il y a une double dimension business et sang", résume Stéphane Quéré, criminologue : "les deux se percutent quand il s’agit de venger l’honneur de la famille".
 
-Dans un environnement où les affaires se règlent souvent en famille, le code de l'honneur complexifie les relations interpersonnelles en ajoutant aux aspects financiers une dimension affective, irrationnelle. 	
+Dans un environnement où les affaires se règlent souvent en famille, le code de l'honneur complexifie les relations interpersonnelles en superposant aux questions financières une dimension affective, plus irrationnelle. 	
 
 # Le rap comme vecteur de la notion d’honneur
 
-Dans la culture populaire, cette idée que la famille prime sur tout, qu'il faut protéger les siens et les venger, fait écho aux paroles des chanteurs de rap et notamment de Lacrim, basé à Marseille: “Hein mon gros, mon gros, mais pourquoi tu fais du biff [de l’argent]? Pour ta famille ou pour tes salopes?”
+Dans la culture populaire, cette idée que la famille prime sur tout, qu'il faut protéger les siens et les venger, fait écho aux paroles des chanteurs de rap et notamment Lacrim, un artiste basé à Marseille: “Hein mon gros, mon gros, mais pourquoi tu fais du biff [de l’argent]? Pour ta famille ou pour tes salopes?”
 
 ![LACRIM1.jpg]({{site.baseurl}}/img/LACRIM1.jpg)
 {: .fullwidth}
 
 
-Dans les quartiers Nord, la famille peut aussi s’entendre au sens large et désigner, par extension, les partenaires de réseaux. Un code de l'honneur similaire s'applique alors. “On est dans des équipes constituées avec des liens forts créés à l'occasion des trafics, des séjours en prison. Quand vous avez un membre de l'équipe qui se fait tuer, on a envie de le venger.” explique une source policière.
+Dans les quartiers Nord, la famille peut aussi s’entendre au sens large et désigner, par extension, les partenaires de réseaux. Un code de l'honneur similaire s'applique alors. “On est dans des équipes constituées avec des liens forts créés à l'occasion des trafics, des séjours en prison. Quand vous avez un membre de l'équipe qui se fait tuer, on a envie de le venger” explique une source policière.
 
-Selon cette même source cependant, les règlements de comptes au sein des réseaux de trafic de drogues ne peuvent pas être considérés comme portées par un véritable sens de l’honneur: “Oui il y a un code de l'honneur qui peut dans le banditisme qui peut exister, c'est assez noble. Mais dans les narco-trafic, les types n'ont aucune noblesse. Il y a un degré de violence et une disproportion entre les choses reprochées et ce qui arrive aux victimes qui n'a rien d'un code de l'honneur.”
+Selon cette même source cependant, il ne faut pas avoir une conception trop chevaleresque de ces règles du jeu : “Oui il y a un code de l'honneur qui peut dans le banditisme qui peut exister, c'est assez noble. Mais dans les narco-trafic, les types n'ont aucune noblesse. Il y a un degré de violence et une disproportion entre les choses reprochées et ce qui arrive aux victimes qui n'a rien d'un code de l'honneur.”
 
 ![MOSDEF.jpg]({{site.baseurl}}/img/MOSDEF.jpg)
 {: .fullwidth .image}
 Mos Def - Black on Both Sides (1999)
 {: .credit}
 
-À l’honneur de la famille s’ajoute l’honneur indispensable pour garder la crédibilité requise dans une économie ou les preuves de faiblesses incitent à la violence des adversaires désireux de se tailler une plus grande part dans le juteux trafic des stupéfiants. Cette légitimité requise, le sociologue Thomas Sauvadet l’appelle le capital guerrier, tandis ce que les Anglo-Saxons parlent de street credibility. La culture hip-hop anglo-saxonne regorgent elle aussi de références à ce code de l’honneur à eux. L’album Black on Both Sides de Mos Def (1999), n’est qu’un exemple parmi tant d’autres. “Je suis le code de l’honneur comme le ferait n’importe quel vrai homme. Je ne manque jamais de respect aux femme car j’aime ma mère.”, rappe l’Américain de Boston dans la chanson “Know That”. Le français Rhoff avait lui aussi largement traité le thème de l’honneur dans son album Le code de l’horreur (2008). Plus pessimiste, lui regrette l’absence d’honneur de certains en région parisienne: “Où sont le shommes d’honneur, à la Jack Mess? Plus de parole, ni loyauté, les balances tiennent le business“
+À l’honneur de la famille s’ajoute l’honneur personnel, indispensable dans une économie où chaque preuve de faiblesses pousse à la violence des adversaires toujours avide d'une grande part du gâteau. Cette perpétuelle quête de légitimité, et d'autorité, le sociologue Thomas Sauvadet l’appelle le capital guerrier, tandis ce que les anglo-Saxons parlent de street credibility. La culture hip-hop anglo-saxonne regorge elle aussi de références à ce code de l’honneur. L’album Black on Both Sides de Mos Def (1999), en est un exemple. “Je suis le code de l’honneur comme le ferait n’importe quel vrai homme. Je ne manque jamais de respect aux femme car j’aime ma mère.”, rappe l’Américain de Boston dans la chanson “Know That”. Le français Rhoff avait lui aussi largement traité le thème de l’honneur dans son album Le code de l’horreur (2008). Plus pessimiste, il regrette l’absence d’honneur de certains caïds de la région parisienne: “Où sont le shommes d’honneur, à la Jack Mess? Plus de parole, ni loyauté, les balances tiennent le business“
 
 ![RHOFF1.jpg]({{site.baseurl}}/img/RHOFF1.jpg)
 {: .fullwidth .image}
