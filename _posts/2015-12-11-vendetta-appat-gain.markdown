@@ -24,7 +24,7 @@ Selon une source policière, « des éléments rapprochent [Mohamed] M. à la ci
 
 Si les règlements de comptes ont d'abord pour mobile l'appartenance à un réseau de trafic de drogues -- et les luttes d'influence qu'il génère dans les quartiers nord de Marseille -- les liens familiaux et le code de l’honneur qui en découle, sont également déterminants. "Il y a une double dimension business et sang", résume Stéphane Quéré, criminologue : "les deux se percutent quand il s’agit de venger l’honneur de la famille".
 
-Dans un environnement ou les affaires se règlent souvent en famille, le code de l'honneur complexifie les relations interpesonnelles en y ajoutant une dimension moins matérialiste, plus irrationnelle aussi. 	
+Dans un environnement où les affaires se règlent souvent en famille, le code de l'honneur complexifie les relations interpersonnelles en ajoutant aux aspects financiers une dimension affective, irrationnelle. 	
 
 # Le rap comme vecteur de la notion d’honneur
 
