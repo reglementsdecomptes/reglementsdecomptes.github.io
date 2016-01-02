@@ -22,13 +22,13 @@ Trois cas  officiellement isolés les uns des autres. Et pourtant, liés par les
 
 Selon une source policière, « des éléments rapprochent [Mohamed] M. à la cité des Lauriers. » Il donc possible qu'au centre de ses deux fait-divers figurent la vengeance d'un homme de la mort de son frère [LE LIEN LOGIQUE ENTRE CES DEUX PHRASES N'EST PAS CLAIR : EXPLICITER].
 
-Si les règlements de comptes ont d'abord pour mobile l'appartenance à un réseau de trafic de drogues -- et les luttes d'influence qu'il génère dans les quartiers nord de Marseille -- les liens familiaux et le code de l’honneur qui s'y applique, sont également déterminants. "Il y a une double dimension business et sang", résume Stéphane Quéré, criminologue : "les deux se percutent quand il s’agit de venger l’honneur de la famille".
+Si les règlements de comptes ont d'abord pour mobile l'appartenance à un réseau de trafic de drogues -- et les luttes d'influence qu'il génère dans les quartiers Nord de Marseille -- les liens familiaux et le code de l’honneur qui s'y applique, sont également déterminants. "Il y a une double dimension business et sang", résume Stéphane Quéré, criminologue : "les deux se percutent quand il s’agit de venger l’honneur de la famille".
 
 Dans un environnement où les affaires se règlent souvent en famille, le code de l'honneur complexifie les relations interpersonnelles en superposant aux questions strictement financières une dimension affective, plus irrationnelle. 	
 
 # Le rap comme vecteur de la notion d’honneur
 
-Dans la culture populaire, cette idée que la famille prime sur tout, qu'il faut protéger les siens et les venger, fait écho aux paroles des chanteurs de rap et notamment Lacrim, un artiste basé à Marseille: “Hein mon gros, mon gros, mais pourquoi tu fais du biff [de l’argent]? Pour ta famille ou pour tes salopes?”
+Dans la culture populaire, cette idée que la famille prime sur tout, qu'il faut protéger les siens et les venger, résonne avec les paroles des chanteurs de rap et notamment Lacrim, un artiste basé à Marseille: “Hein mon gros, mon gros, mais pourquoi tu fais du biff [de l’argent]? Pour ta famille ou pour tes salopes?”
 
 ![LACRIM1.jpg]({{site.baseurl}}/img/LACRIM1.jpg)
 {: .fullwidth}
