@@ -34,9 +34,9 @@ Dans la culture populaire, cette idée que la famille prime sur tout, qu'il faut
 {: .fullwidth}
 
 
-Dans les quartiers Nord, la famille peut aussi s’entendre au sens large et désigner, par extension, les partenaires de réseaux. Un code de l'honneur similaire s'applique alors. “On est dans des équipes constituées avec des liens forts créés à l'occasion des trafics, des séjours en prison. Quand vous avez un membre de l'équipe qui se fait tuer, on a envie de le venger” explique une source policière.
+Dans les quartiers Nord, la famille peut aussi s’entendre au sens large et désigner, par extension, les partenaires de réseaux. Un code de l'honneur similaire s'applique alors. “On est dans des équipes constituées avec des liens forts créés à l'occasion des trafics, des séjours en prison. Quand vous avez un membre de l'équipe qui se fait tuer, on a envie de le venger”, explique une source policière.
 
-Selon cette même source cependant, il ne faut pas avoir une conception trop chevaleresque de ces règles du jeu : “Oui il y a un code de l'honneur qui peut dans le banditisme qui peut exister, c'est assez noble. Mais dans les narco-trafic, les types n'ont aucune noblesse. Il y a un degré de violence et une disproportion entre les choses reprochées et ce qui arrive aux victimes qui n'a rien d'un code de l'honneur.”
+Selon cette même source cependant, il ne faut pas avoir une conception trop chevaleresque de ces règles de fonctionnement : “Oui il y a un code de l'honneur qui peut dans le banditisme qui peut exister, c'est assez noble. Mais dans les narco-trafic, les types n'ont aucune noblesse. Il y a un degré de violence et une disproportion entre les choses reprochées et ce qui arrive aux victimes qui n'a rien d'un code de l'honneur.”
 
 ![MOSDEF.jpg]({{site.baseurl}}/img/MOSDEF.jpg)
 {: .fullwidth .image}
