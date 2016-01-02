@@ -43,7 +43,11 @@ Selon cette même source cependant, il ne faut pas avoir une conception trop che
 Mos Def - Black on Both Sides (1999)
 {: .credit}
 
-À l’honneur de la famille s’ajoute l’honneur personnel, indispensable dans une économie où chaque preuve de faiblesses pousse à la violence des adversaires toujours avide d'une grande part du gâteau. Cette perpétuelle quête de légitimité, et d'autorité, le sociologue Thomas Sauvadet l’appelle le capital guerrier, tandis ce que les anglo-Saxons parlent de street credibility. La culture hip-hop anglo-saxonne regorge elle aussi de références à ce code de l’honneur. L’album Black on Both Sides de Mos Def (1999), en est un exemple. “Je suis le code de l’honneur comme le ferait n’importe quel vrai homme. Je ne manque jamais de respect aux femme car j’aime ma mère.”, rappe l’Américain de Boston dans la chanson “Know That”. Le français Rhoff avait lui aussi largement traité le thème de l’honneur dans son album Le code de l’horreur (2008). Plus pessimiste, il regrette l’absence d’honneur de certains caïds de la région parisienne: “Où sont le shommes d’honneur, à la Jack Mess? Plus de parole, ni loyauté, les balances tiennent le business“
+À l’honneur de la famille s’ajoute l’honneur personnel, indispensable dans une économie où chaque preuve de faiblesses pousse à la violence des adversaires toujours avides d'une grande part du juteux trafic. Cette perpétuelle quête de légitimité, et d'autorité, le sociologue Thomas Sauvadet l’appelle le capital guerrier, tandis ce que les anglo-Saxons parlent de "street credibility". 
+
+La culture hip-hop anglo-saxonne regorge elle aussi de références à ce code de l’honneur. L’album Black on Both Sides de Mos Def (1999), en est un exemple. “Je suis le code de l’honneur comme le ferait n’importe quel vrai homme. Je ne manque jamais de respect aux femme car j’aime ma mère”, rappe l’Américain de Boston dans la chanson “Know That”. 
+
+Le français Rhoff avait lui aussi largement traité le thème de l’honneur dans son album Le code de l’horreur (2008). Plus pessimiste, il regrette l’absence d’honneur de certains caïds de la région parisienne: “où sont les hommes d’honneur, à la Jack Mess? Plus de parole, ni loyauté, les balances tiennent le business“
 
 ![RHOFF1.jpg]({{site.baseurl}}/img/RHOFF1.jpg)
 {: .fullwidth .image}
