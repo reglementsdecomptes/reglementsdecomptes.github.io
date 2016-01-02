@@ -34,7 +34,7 @@ Dans la culture populaire, cette idée que la famille prime sur tout, qu'il faut
 {: .fullwidth}
 
 
-Dans les quartiers Nord de Marseille, la famille peut aussi s’entendre au sens large du terme, et inclure les partenaires de réseaux. Dès lors, le même code de l’honneur s’applique lorsqu’il s’agit de protéger ou venger les membres de la famille. “On est dans des équipes constituées avec des liens forts créés à l'occasion des trafics, des séjours en prison. Quand vous avez un membre de l'équipe qui se fait tuer, on a envie de le venger.” explique une source policière.
+Dans les quartiers Nord, la famille peut aussi s’entendre, par extension,  aux partenaires de réseaux. Dès lors, le même code de l’honneur s’applique lorsqu’il s’agit de protéger ou venger les membres de la famille. “On est dans des équipes constituées avec des liens forts créés à l'occasion des trafics, des séjours en prison. Quand vous avez un membre de l'équipe qui se fait tuer, on a envie de le venger.” explique une source policière.
 
 Selon cette même source cependant, les règlements de comptes au sein des réseaux de trafic de drogues ne peuvent pas être considérés comme portées par un véritable sens de l’honneur: “Oui il y a un code de l'honneur qui peut dans le banditisme qui peut exister, c'est assez noble. Mais dans les narco-trafic, les types n'ont aucune noblesse. Il y a un degré de violence et une disproportion entre les choses reprochées et ce qui arrive aux victimes qui n'a rien d'un code de l'honneur.”
 
