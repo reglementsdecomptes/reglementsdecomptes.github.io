@@ -28,7 +28,7 @@ Dans un environnement où les affaires se règlent souvent en famille, le code d
 
 # Le rap comme vecteur de la notion d’honneur
 
-Dans la culture populaire, l’idée de la famille qui prime sur tout, qu’il faut protéger les siens fait largement écho à cette conception de l’honneur. C’est cela qu’expriment les paroles rappeur basé à Marseille Lacrim: “Hein mon gros, mon gros, mais pourquoi tu fais du biff [de l’argent]? Pour ta famille ou pour tes salopes?”
+Dans la culture populaire, cette idée que la famille prime sur tout, qu'il faut protéger les siens et les venger, fait écho aux paroles des chanteurs de rap et notamment de Lacrim, basé à Marseille: “Hein mon gros, mon gros, mais pourquoi tu fais du biff [de l’argent]? Pour ta famille ou pour tes salopes?”
 
 ![LACRIM1.jpg]({{site.baseurl}}/img/LACRIM1.jpg)
 {: .fullwidth}
