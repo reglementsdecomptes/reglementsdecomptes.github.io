@@ -1,15 +1,18 @@
 ---
 published: true
 layout: post
-title: Quand le démantèlement des réseaux de trafiquants tue
+title: Victime collatérale du démantèlement des trafics
 categories: articles
 cover_image: Cover_demantelement_reseaux.jpg
-related: ["Marseille : l’approche globale à l'épreuve des faits","Ne pas parler trop vite des règlements de comptes"]
+related: 
+  - "Marseille : l’approche globale à l'épreuve des faits"
+  - Ne pas parler trop vite des règlements de comptes
 author: Megane De Amorim
 ---
 
 
-Abdallah A. a été assassiné le 19 juin 2015, un mois après le démantèlement d’un réseau de trafic de stupéfiants dans une cité voisine. Une source policière n’exclut pas qu’Abdallah soit une nouvelle victime des guerres de territoires déclenchées par le démantèlement des réseaux à Marseille.
+
+Abdallah A. a été assassiné le 19 juin, au pied d'un immeuble de la cité des Bleuets (xx ardt). Sa mort intervient un mois après le démantèlement d'un trafic de stupéfiants dans une cité voisine qui a entraîné une guerre de territoires dont il a pu être la victime, selon une source policière.
 
 ![Cite-des-Bleuets.png]({{site.baseurl}}/img/Cite-des-Bleuets.png)
 {: .fullwidth .image}
@@ -60,4 +63,3 @@ Face aux conséquences mortelles des démantèlements, la police a une responsab
 
 LIRE AUSSI : ["Marseille, l'approche globale à l'épreuve des faits"](https://)
 {: .relance}
-
