@@ -19,7 +19,7 @@ Prolixes lorsqu'il est question de drogue, de chômage ou de déscolarisation de
 Suite aux opérations policières dans la cité de la Castellane, les trafics se déplacent dans les grands ensembles de la Bricarde mais également dans le quartier résidentiel du Plan d’Aou. - **Google Maps 10/12/2015**
 {: .credit}
 
-Aux alentours de onze heures, en fin de matinée, le 12 octobre dernier, la rue Jorgi Reboul de la cité du plan d’Aou [PRECISER ARRONDISSEMENT], au Nord de Marseille, est calme. Un  [jeune homme de dix-huit ans](http://reglementsdecomptes.github.io/2015/12/11/PLANDAOU.html) y meurt apparemment sans témoin. 
+Aux alentours de onze heures, le 12 octobre, le calme règne dans la rue Jorgi Reboul, dans la cité du plan d’Aou [PRECISER ARRONDISSEMENT], au Nord de Marseille. Un  [jeune homme de dix-huit ans](http://reglementsdecomptes.github.io/2015/12/11/PLANDAOU.html) y meurt apparemment sans témoin. 
 
 Seules les balles résonnent, l’une vient se loger dans sa nuque et l’autre dans son bras, puis le silence revient, plus personne ne s’exprime. Pour tout hommage, le mutisme des voisins et la discrétion. Dans les quartiers nord de Marseille, règne une omertà inquiète et solidaire, qui obstrue le travail d’enquête policière et tait les meurtres les plus insensés, expliquent élus et sociologues.
 
