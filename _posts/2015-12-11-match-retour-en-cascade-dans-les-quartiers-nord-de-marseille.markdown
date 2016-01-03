@@ -11,7 +11,7 @@ author: "Laure-Hélène de Vriendt"
 ---
 
 
-Il est 16 heures le 14 avril 2014 lorsque Mehdi B. se rend chez son avocat. Le jeune homme de 27 ans roule au volant d'une voiture de location quand des hommes cagoulés arrivent à sa hauteur, sur l’autoroute A7, quelques mètres avant la sortie Plombières. Ils tirent depuis leur voiture sur le véhicule de la victime qui est alors obligée de s’arrêter en pleine voie. Mehdi B. -- membre d'un réseau de trafic de drogues basé dans la cité des Flammants (14e ardt) -- tente de s’enfuir à pied mais est tué de plusieurs balles de kalachnikov. 
+Il est 16 heures le 14 avril 2014 lorsque Mehdi B. se rend chez son avocat. Le jeune homme de 27 ans conduit une voiture de location quand des hommes cagoulés arrivent à sa hauteur, sur l’autoroute A7, quelques mètres avant la sortie Plombières. Ils tirent sur le véhicule de la victime qui s'arrête en pleine voie. Mehdi B. -- membre d'un réseau de trafic de drogues basé dans la cité des Flammants (14e ardt) -- tente de s’enfuir à pied mais il est tué de plusieurs balles de kalachnikov. 
 
 Le 18 juillet 2014, alors qu’il circule sur son scooter aux abords du rond-point de Sainte Marthe (14e ardt), Zakary R. est renversé par une voiture. Il tombe de son véhicule, tente de prendre la fuite à pied mais n’a pas le temps d’aller btrès loin. Le jeune homme de 24 ans -- membre d'un réseau de trafic de drogues basé dans la cité Font-Vert (14e ardt, également) -- est tué par une quarantaine de balles de Kalachnikov. 
 
