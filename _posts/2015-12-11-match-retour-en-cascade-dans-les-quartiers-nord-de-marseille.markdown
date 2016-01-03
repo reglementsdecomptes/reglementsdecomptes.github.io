@@ -21,18 +21,18 @@ Autre cas. Le 13 mars 2013, Hichem A. et Rochdi G., deux jeunes de 18 et 25 ans,
 
 # Un guet-apens planifié
 
-L’expression de “match retour” qualifie des homicides qui prennent la forme de vengeance pour répondre, plus ou moins directement, à un meurtre ayant eu lieu précédemment. Dans le cas de Zakary R. le “match retour” a eu lieu trois mois après les faits mais il s’écoule parfois plus de temps avant que la vengeance ne se manifeste. Romain Capdepon, reporter Police et Justice à La Provence rappelle que certains règlements de comptes et les “match retour” qui les suivent s’échelonnent parfois sur plusieurs années. 
+L’expression de “match retour” qualifie des homicides qui prennent la forme d'une vengeance destinée à répondre, plus ou moins directement, à un meurtre ayant eu lieu précédemment. Dans le cas de Zakary R. le “match retour” a eu lieu trois mois après les faits. Mais il s’écoule parfois plus de temps avant que la vengeance ne se manifeste. Romain Capdepon [OFF/ON?], reporter Police et Justice au quotidien La Provence rappelle que certains règlements de comptes et les “match retour” qui les suivent s’échelonnent parfois sur plusieurs années. 
 
 ![]({{site.baseurl}}/img/Infographie%201%20(4).jpeg)
 {: .fullwidth}
 
-Un “match retour” est donc la réponse directe, immédiate ou non, à un autre meurtre par des proches de la victime d’un règlement de compte précédent, mais le mode opératoire n’est pas toujours le même. Luc Leroux, journaliste au Monde et à l’AFP, spécialiste des règlements de compte à Marseille, explique que le mode opératoire des “matchs retour” peut être un simple coup de couteau dans une rue mais il peut aussi être beaucoup plus élaboré et spectaculaire. 
+Si un “match retour” est une réponse à un règlement de comptes antérieurs, le mode opératoire n’est pas toujours le même. Un autre journaliste marseillais, bon connaisseur de ces dossier, explique qu'il varie du simple coup de couteau dans la rue à des formes beaucoup plus élaborées et spectaculaires. 
 
-Les “match retour” ont un seul point commun : ce sont des guet-apens préparés. Un règlement de compte n’est jamais le fruit du hasard et la victime est toujours mise dans une situation dont elle ne peut pas s’échapper. C’est le cas du “match retour” de Zackary R. qui, sur son scooter puis à pied, n’a aucun moyen d’échapper aux tirs de ses agresseurs. Abadallah A. n’a également aucune chance d’éviter les balles le 20 juin car il est sous un porche puis s'échappe à pied, sans aucun moyen de locomotion.
+Une seule caractéristique point les relie : ce sont des guet-apens préparés. Un règlement de compte n’est jamais le fruit du hasard et la victime est toujours placée dans une situation dont elle ne peut pas s’échapper. Sur son scooter puis à pied, Zackary R. n’a aucun moyen d’échapper aux tirs de ses agresseurs. De même Abadallah A., ciblé sous un porche, sans aucun moyen de locomotion.
 
-Les modes opératoires des différents “match retour” varient souvent d’une affaire à l’autre et les armes utilisées ne sont pas forcément les mêmes. Ce sont souvent des kalachnikovs car elles sont des armes faciles à manier et demandent très peu d’entretien mais les agresseurs peuvent aussi utiliser des armes de poing, comme un calibre 9mm dans le cas de l’homicide d’Abdallah A. 
+Les armes utilisées ne sont pas forcément les mêmes. Ce sont souvent des kalachnikovs car elles sont des armes faciles à manier et demandent très peu d’entretien mais les agresseurs peuvent aussi utiliser des armes de poing, comme un calibre 9mm dans le cas de l’homicide d’Abdallah A. 
 
-Stéphane Quéré, expert en criminologie et que nous avons joint par téléphone explique que ces “match retour” sont souvent délicats à mettre en lien avec des affaires précédentes, notamment au vu de la diversité des modes opératoire :
+Stéphane Quéré, expert en criminologie explique, dans un entretien téléphonique, que ces “match retour” sont souvent délicats à relier à des affaires précédentes, notamment à cause de la diversité des modes opératoire :
 
 > Tout est bon dans le “match retour”. Il peut adopter une autre forme que l’on appelle le “drive by shooting”: on tire sur un groupe de personnes alors que le véhicule est en déplacement.
  
