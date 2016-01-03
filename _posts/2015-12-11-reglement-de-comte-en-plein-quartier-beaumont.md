@@ -11,7 +11,7 @@ author: Raphaël Georgy
 ---
 
 
-Au beau milieu de l'été, un crime aux allures de règlement de comptes a été commis à Beaumont, un quartier calme du 12ème arrondissement de Marseille, dont les habitants, pourtant loins des cités Nord, se disent résignés en matière de sécurité
+Au beau milieu de l'été, un crime aux allures de règlement de comptes a été commis à Beaumont, un quartier calme du 12ème arrondissement de Marseille, dont les habitants sont partagés entre confiance et résignation.
 
 Les clients font la queue à la boulangerie, la petite terrasse aux murs jaunis du « Rotonde Bar » est à moitié remplie et le soleil est déjà haut dans le ciel sans nuages de Marseille, raconte Sylvie, qui a assisté à la scène et accepté de la raconter, sous couvert de l'anonymat, par téléphone. 
 
@@ -33,14 +33,14 @@ Il est également soupçonné d’avoir fait partie du commando qui a fait évad
 
 Entre 9 h 35 et 9 h 40, celui-ci ressort du bar et se dirige vers la petite boulangerie située juste en face. À peine commence-t-il à traverser, son casque noir vissé sur la tête, que l’homme à la perruque sort un calibre 9 mm. Les habitants croient à un gros pétard. L’homme vient d’abattre à bout portant Robert B. d’une balle dans le dos. Calmement, il s’approche de la victime qui vient de s’effondrer sur la route. 
 
-Nathalie, gérante d’un magasin voisin, raconte à l’AFP : “D'un coup, j'ai réalisé que la personne était en train de se faire tuer”. L’homme à la perruque a tiré huit balles, dont cinq dans la tête. Il s'enfuit ensuite avec son complice à moto. Selon une source policière, on ignore encore l’identité des suspects. Mais face à ce meurtre en plein jour, comment les policiers et habitants réagissent-ils ?
+Nathalie, gérante d’un magasin voisin, raconte à l’AFP : _“D'un coup, j'ai réalisé que la personne était en train de se faire tuer”_. L’homme à la perruque a tiré huit balles, dont cinq dans la tête. Il s'enfuit ensuite avec son complice à moto. Selon une source policière, on ignore encore l’identité des suspects. Mais face à ce meurtre en plein jour, comment les policiers et habitants réagissent-ils ?
 
 >D'un coup, j'ai réalisé que la personne était en train de se faire tuer.
 
 **Nathalie** - responsable d’un magasin voisin
 {: .credit}
 
-Si une cellule psychologique a été mise en place immédiatement après le meurtre pour les témoins de la scène, les riverains que nous avons contactés ne semblent pas s’inquiéter pour leur sécurité. « C’est un quartier très calme, il n’y a que deux morts par ans », explique Valérie, une habitante de l’avenue adjacente de la Figone.
+Une cellule psychologique a été mise en place immédiatement après le meurtre pour venir en aide aux témoins de la scène. Mais les riverains que nous avons contactés ne semblent pas inquiets pour leur sécurité. _« C’est un quartier très calme, il n’y a que deux morts par ans »_, explique Valérie, une habitante de l’avenue adjacente de la Figone.
 
 ![Capture2 teinte.jpg]({{site.baseurl}}/img/Capture2 teinte.jpg)
 {: .fullwidth .image}
@@ -54,6 +54,6 @@ Didier, résident d’un immeuble tout proche du lieu du meurtre, paraît résig
 **Valérie** - habitante à côté du lieu du crime
 {: .credit}
 
-Les habitants ne semblent pas craindre que les règlements de compte ne s’exportent vers des quartiers qui sont rarement concernés par ce genre d’affaires. La délinquance à Marseille est en baisse, comme le souligne le directeur départemental de la sécurité publique, Pierre-Marie Bourniquel. Contacté par téléphone, il fait savoir que les moyens de surveillance sont revus régulièrement en proportion de la criminalité constatée.
+Les habitants ne semblent pas craindre que les règlements de compte ne s’exportent des quartiers Nord vers des zones rarement concernés par ce genre d’affaires. La délinquance à Marseille est en baisse, comme le souligne le directeur départemental de la sécurité publique, Pierre-Marie Bourniquel. Contacté par téléphone, il fait savoir que les moyens de surveillance sont revus régulièrement en proportion de la criminalité constatée.
 
-Nombreux sont les habitants qui ont questionné M. Coulet sur la sécurité dans le quartier. Néanmoins celui-ci avoue ne pas pouvoir faire de miracles : _« Il peut toujours y avoir des dommages collatéraux, et ça m’interpelle. Mais on est impuissants par rapport à cela »_.
+Nombreux sont les habitants qui ont questionné M. Coulet sur la sécurité dans le quartier, dit-il. Néanmoins celui-ci avoue ne pas pouvoir faire de miracles : _« Il peut toujours y avoir des dommages collatéraux, et ça m’interpelle. Mais on est impuissants par rapport à cela »_.
