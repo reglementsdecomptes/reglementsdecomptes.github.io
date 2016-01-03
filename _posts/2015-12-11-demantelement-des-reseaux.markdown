@@ -12,16 +12,20 @@ author: Megane De Amorim
 
 
 
-Abdallah A. a été assassiné le 19 juin, au pied d'un immeuble de la cité des Bleuets (xx ardt). Sa mort intervient un mois après le démantèlement d'un trafic de stupéfiants dans une cité voisine qui a entraîné une guerre de territoires dont il a pu être la victime, selon une source policière.
+Abdallah A. a été assassiné le 19 juin, au pied d'un immeuble des quartiers Nord. Sa mort intervient un mois après le démantèlement d'un trafic de stupéfiants dans une cité voisine qui a entraîné une guerre de territoires dont il a pu être la victime, selon une source policière.
 
 ![Cite-des-Bleuets.png]({{site.baseurl}}/img/Cite-des-Bleuets.png)
 {: .fullwidth .image}
 Avenue Saint-Paul, Cité des Bleuets, Marseille (Google)
 {: .credit}
 
-Sous le porche d’un immeuble de la cité des Bleuets, dans les quartiers Nord de Marseille, Abdallah A. reçoit une première balle. Il est environ 23h, mais en ce 19 juin 2015, deuxième jour de ramadan, des enfants jouent encore dans le petit square, au bas des tours. D’après La Provence, le tireur est seul et cagoulé. Abdallah, blessé, reçoit deux autres balles avant d’atteindre la porte d’un appartement. Il se réfugie chez un voisin, qui l'emmène à l’hôpital militaire Alphonse Laveran. Mais Abdallah ne survit pas à ses blessures. Il y meurt à 1h du matin.
+Sous un porche de la cité des Bleuets (xx ardt), Abdallah A. reçoit une première balle. Il est environ 23H00. Mais en ce 19 juin, deuxième jour de ramadan, des enfants jouent encore dans le petit square, au bas des tours. 
 
-A 28 ans, Abdallah était connu des services de police pour des affaires de stupéfiants, sans être un “gros profil” d’après l’AFP. La source policière contactée directement par téléphone indique simplement qu’actuellement “l’enquête est en cours”. Mais une autre source policière citée à l’époque par le Le Figaro, affirmait qu’“il y a de fortes probabilités mais pas de certitude sur le mobile. Un gros réseau de trafic de stupéfiants avait été démantelé dans ce secteur il y a un mois”. Le 18 mai 2015, en effet, près de 300 policiers ont mené un vaste coup de filet permettant d’interpeller plus d'une vingtaine de personnes dans la cité des Lauriers, à 900m de la cité des Bleuets. 
+D’après _La Provence_, le tireur est seul et cagoulé. Abdallah, blessé, reçoit deux autres balles avant d’atteindre la porte d’un appartement. Il se réfugie chez un voisin, qui l'emmène à l’hôpital militaire Alphonse Laveran. Mais il ne survit pas à ses blessures. Il meurt à 1H00 du matin.
+
+A 28 ans, Abdallah était connu des services de police pour des affaires de stupéfiants, sans être un _“gros profil”_ d’après l’AFP. "L'enquête est en cours", indique simplement une source policière contactée par téléphone. Une autre source policière, citée par _Le Figaro_ avance une hypothèse : _“il y a de fortes probabilités mais pas de certitude sur le mobile. Un gros réseau de trafic de stupéfiants avait été démantelé dans ce secteur il y a un mois”._ 
+
+Le 18 mai, en effet, près de 300 policiers avait opéré un vaste coup de filet permettant d’interpeller plus d'une vingtaine de personnes dans la cité des Lauriers, située à 900 mètres de la cité des Bleuets. 
 
 ![Carte Bleuets Lauriers final.jpg]({{site.baseurl}}/img/Carte Bleuets Lauriers final.jpg)
 {: .fullwidth}
