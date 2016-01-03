@@ -42,20 +42,20 @@ Nathalie, gérante d’un magasin voisin, raconte à l’AFP : _“D'un coup, j'
 **Nathalie** - responsable d’un magasin voisin
 {: .credit}
 
-Une cellule psychologique a été mise en place immédiatement après le meurtre pour venir en aide aux témoins de la scène. Mais les riverains que nous avons contactés ne semblent pas inquiets pour leur sécurité. _« C’est un quartier très calme, il n’y a que deux morts par ans »_, explique Valérie, une habitante de l’avenue adjacente de la Figone.
+Une cellule psychologique a été mise en place après le meurtre pour venir en aide aux témoins de la scène. Mais les riverains que nous avons contactés ne semblent pas inquiets pour leur sécurité. _« C’est un quartier très calme, il n’y a que deux morts par ans »_, explique Valérie, une habitante de l’avenue adjacente de la Figone.
 
 ![Capture2 teinte.jpg]({{site.baseurl}}/img/Capture2 teinte.jpg)
 {: .fullwidth .image}
 Au premier plan le « Rotonde Bar » et la boulangerie à l’arrière plan. / Google Street View
 {: .credit}
 
-Didier, résident d’un immeuble tout proche du lieu du meurtre, paraît résigné : _« Ce sont des actes isolés. Vous savez, depuis que je suis en âge de raison, il y a toujours eu une vingtaine de morts par arme à feu dans la région »_. Pour René Coulet, adjoint délégué au 12ème arrondissement et chargé de la sécurité, il n’y pas de mesure particulière à prendre après de tels événements : _« Je ne vois pas pourquoi on demanderait un périmètre de sécurité quand des voyous se tuent entre eux »_. 
+Didier, qui habite un immeuble tout proche de la scène du crime, paraît résigné : _« Ce sont des actes isolés. Vous savez, depuis que je suis en âge de raison, il y a toujours eu une vingtaine de morts par arme à feu dans la région »_. Pour René Coulet, adjoint délégué au 12ème arrondissement et chargé de la sécurité, il n’y pas de mesure particulière à prendre après de tels événements : _« Je ne vois pas pourquoi on demanderait un périmètre de sécurité quand des voyous se tuent entre eux »_. 
 
 >C’est un quartier très calme, il n’y a que deux morts par an.
 
 **Valérie** - habitante à côté du lieu du crime
 {: .credit}
 
-Les habitants ne semblent pas craindre que les règlements de compte ne s’exportent des quartiers Nord vers des zones rarement concernés par ce genre d’affaires. La délinquance à Marseille est en baisse, comme le souligne le directeur départemental de la sécurité publique, Pierre-Marie Bourniquel. Contacté par téléphone, il fait savoir que les moyens de surveillance sont revus régulièrement en proportion de la criminalité constatée.
+Les riverains ne semblent pas craindre que les règlements de compte s’exportent des quartiers Nord vers des zones rarement concernés par ce genre d’affaires. La délinquance à Marseille est en baisse, comme le souligne le directeur départemental de la sécurité publique, Pierre-Marie Bourniquel. Contacté par téléphone, il fait savoir que les moyens de surveillance sont revus régulièrement en proportion de la criminalité constatée.
 
-Nombreux sont les habitants qui ont questionné M. Coulet sur la sécurité dans le quartier, dit-il. Néanmoins celui-ci avoue ne pas pouvoir faire de miracles : _« Il peut toujours y avoir des dommages collatéraux, et ça m’interpelle. Mais on est impuissants par rapport à cela »_.
+M. Coulet confie que de nombreux habitants l'ont questionné sur la sécurité dans le quartier, dit-il. Impossible de faire des miracle,s leur a-t-il répondu : _« Il peut toujours y avoir des dommages collatéraux, et ça m’interpelle. Mais on est impuissants par rapport à cela »_.
