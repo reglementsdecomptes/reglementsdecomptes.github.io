@@ -33,13 +33,14 @@ Le maire de Marseille a ajouté que la ville [EST-CE BIEN CELA ?] avait même en
 **Jean-Paul Gaudin** - Maire de la ville de Marseille (Conseil Municipal du 14 septembre 2015)
 {: .credit}
  
-Pourtant, les élus municipaux de droite se privent pas non plus d’en venir à la politique. Au Conseil municipal de septembre, Jean-Claude Gaudin répond aux insinuations de ses opposants par un «Je n’étais pas maire de Marseille à l’époque». Le recrutement de Bernard F. au Service des Sports date de mai 1987, à l’époque où le parti socialiste était aux commandes de la ville.
+Les élus municipaux de droite se privent pas non plus d'alimenter la polémique. [IL FAUT CITER UN EXEMPLE] 
+
+Au Conseil municipal de septembre, Jean-Claude Gaudin a répondu aux critiques de ses opposants en disant :  «Je n’étais pas maire de Marseille à l’époque». Le recrutement de Bernard F. au Service des Sports date il est vrai de mai 1987, époque à laquelle le parti socialiste était aux commandes de la ville. _«Il y a 11500 employés municipaux, il se peut qu’il y ait toujours quelqu’un qui ne se comporte pas bien»_, a ajouté M. Gaudin.
  
-A l’origine de la question fâcheuse au Conseil municipal, Maître Georges Maury considère aujourd’hui que le maire a «botté en touche» et moque qu’il soit «compliqué de mettre en mouvement une action disciplinaire contre un fonctionnaire». Invoquant le statut de fonctionnaire public qui oblige un casier judiciaire quasi vide (la plupart des condamnations pour crimes et délits sont interdites), il prend appui non pas sur l’affaire “Calisson” en cours mais sur les condamnations précédentes rendues définitives. Rien que sa tentative d’encaisser un chèque volé d’un montant de plus de 1,3 millions d’euros en 2003 aurait dû l’empêcher de travailler au sein du Service des Sports de la ville de Marseille.
+Maître Georges Maury, l'élu [DE QUEL PARTI ?] qui a questionné [QUAND] le maire en conseil municipal, considère aujourd’hui que ce dernier a _«botté en touche»_ et raille qu'il soit _«compliqué de mettre en mouvement une action disciplinaire contre un fonctionnaire»._ Invoquant le statut de fonctionnaire public, qui impose un casier judiciaire quasi vide (la plupart des condamnations pour crimes et délits sont interdites), il estime que les condamnations antérieures à l'affaire “Calisson”, toujours en cours, suffisaient à justifier sa révocation. Selon lui, le seul fait que l'intéressé ait tenté d’encaisser un chèque volé d’un montant de plus de 1,3 millions d’euros en 2003 aurait dû l’empêcher de travailler au service des Sports.
 
 > Je constate qu'il est compliqué de mettre en mouvement une action disciplinaire contre un fonctionnaire
 
 **Me Georges Maury** - Président du groupe FN de la ville de Marseille (Interview 10 décembre 2015)
 {: .credit}
 
- «Je ne me veux pas médisant. D’ailleurs je n’ai pas mentionné le nom de l’élu qui accompagnait Monsieur F. en Andorre» explique le président du groupe Front National de la ville, qui pourtant interroge directement le maire socialiste quant à une «éventuelle complaisance à l’égard d’un employé municipal membre du grand banditisme». Dans ce contexte d’entre deux tours des élections régionales, cette dispute politique ne semble pas prête de s’achever de sitôt. «Il y a 11500 employés municipaux, il se peut qu’il y ait toujours quelqu’un qui ne se comporte pas bien» semble déplorer innocemment en septembre dernier, le maire de la ville de Marseille.
