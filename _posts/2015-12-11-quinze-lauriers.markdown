@@ -2,11 +2,14 @@
 layout: post
 published: true
 categorie: articles
-title: "Avoir 15 ans à la cité des Lauriers"
+title: "Avoir 15 ans, cité des Lauriers"
 cover_image: Cover_Avoir_15_ans.jpg
-related: ["Le silence des quartiers nord","Marseille's violence hits up Hungary"]
+related: 
+  - Le silence des quartiers nord
+  - "Marseille's violence hits up Hungary"
 author: Delphine Allaire
 ---
+
 
 Il est 2h40 quand dans la nuit du 24 au 25 octobre 2015 en pleine vacances de la Toussaint, une rafale d’arme automatique de calibre 9mm abat trois jeunes au pied d’un immeuble de la Cité des Lauriers dans le 13ème arrondissement de la cité phocéenne.
 Parmi les trois victimes, deux sont âgées de 15 ans et déjà connues des services de police pour des faits de petite délinquance. Avant de les assassiner, les auteurs présumés ont d’abord questionné les victimes sur l’identité d’un individu. L’hypothèse d’un règlement de comptes vraisemblablement connecté au trafic de stupéfiants est envisagée par une source policière, sachant que le hall D du bâtiment de la Cité serait selon cette même source un point de revente.
