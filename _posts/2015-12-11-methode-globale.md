@@ -4,11 +4,14 @@ published: true
 title: "Marseille : l’approche globale à l'épreuve des faits"
 categorie: articles
 cover_image: Cover_approche_globale.jpg
-related: ["« Règlement de comptes » en plein quartier Beaumont","Quand le démantèlement des réseaux de trafiquants tue"]
+related: 
+  - « Règlement de comptes » en plein quartier Beaumont
+  - Quand le démantèlement des réseaux de trafiquants tue
 author: Hadrien Bect
 ---
 
-Malgré des interventions policières régulières et la mise en place de nouvelles actions, les règlements de compte ne font pas de pause à Marseille. Des questions émergent autour de l'application de « l’approche globale ».
+
+Malgré des interventions policières régulières et la mise en place de nouvelles actions, les règlements de compte ne connaissent pas de trève à Marseille. Aussi des questions émergent-elles sur « l’approche globale » mise en oeuvre par la police pour lutter contre le néo-banditisme de cité.
 
 Plus de vingt interpellations, 30 kilos de résine de cannabis et des centaines de milliers d'euros saisis. Le 18 mai dernier, près de 300 policiers, notamment des hommes du Raid et des CRS, investissaient la cité des Lauriers, dans le 13e arrondissement de Marseille. Préparée depuis « près d'un an » selon le ministre de l'Intérieur, Bernard Cazeneuve, cette vaste opération s'inscrit dans une logique plus large : faire revenir les forces de l'ordre dans les cités marseillaises pour lutter contre les trafics qui s'y déroulent. Pourtant, quelques mois après, un nouveau règlement de compte sanglant, vraisemblablement sur fond de trafic de drogue, met une nouvelle fois les Lauriers à la une de l'actualité. Trois jeunes, dont deux mineurs sont abattus le 25 octobre dernier. La nouvelle approche prônée par le ministère de l'Intérieur, baptisée « approche globale » semble battue en brèche.
 
@@ -58,4 +61,3 @@ LIRE AUSSI : ["Quand le démantèlement des réseaux de trafiquants tue"](https:
 {: .relance}
 
 « Quand on fait tomber des réseaux on les affaiblit », explique Laurent Nunez, qui estime que son action peut, à court terme « favoriser les règlements de compte ». En clair, il faudra donc attendre encore un peu avant de pouvoir constater les effets tangibles de la méthode globale.
-
