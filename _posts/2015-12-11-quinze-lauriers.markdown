@@ -40,14 +40,19 @@ Mohamed A., l’autre victime âgée de 15 ans, était scolarisé dans un collè
 ![dessin scol.png]({{site.baseurl}}/img/dessin scol.png)
 {: .fullwidth}
  
-Ces taux réalisés par l’Insee en 2012, pas si éloignés de la moyenne nationale (98.7%), s’inscrivent dans une dynamique à la baisse du décrochage scolaire, qui  concerne 110 000 élèves en 2015 au lieu de 136 000 en 2014. “Les résultats sont encourageants, même si la communauté éducative doit maintenir ses efforts sur les plus jeunes, deux tiers des élèves décrochant à 15 ans, dès la fin du collège”, avertit la ministre de l’Éducation Nationale, le 1er décembre 2015.
+Les taux de scolarisation calculés, par tranche d'âge, dans le 13ème arrondissement ne sont pas si éloignés de la moyenne nationale (98.7%). Ils s’inscrivent dans une baisse générale du décrochage scolaire qui concernait 110. 000 élèves [OU?] en 2015, contre 136.000 en 2014. 
 
-Cette tendance à la baisse montre que le chemin vers l’implication dans les réseaux se construit sur le temps libre, passé en bas des immeubles ou au club de foot. Othman Sahki, dirigeant du Club de Foot Loisir Malpassé, le quartier de la Cité des Lauriers, le souligne, « parmi nos 40 jeunes licenciés des cités avoisinantes, le football constitue une passion et un vecteur d’échange. En bref, un moyen de changer d’environnement. »
-Kamal Z. venait d’ailleurs souvent aux entraînements depuis son inscription en 2014. « Il avait des relations saines et amicales avec ses camarades ». Après sa mort dans la nuit du 25 octobre dernier, il a fallu beaucoup discuter au sein du club, pour réconforter ses camarades, indique le dirigeant du club.
+_“Les résultats sont encourageants, même si la communauté éducative doit maintenir ses efforts sur les plus jeunes, deux tiers des élèves décrochant à 15 ans, dès la fin du collège”_, a prévenu la ministre de l’Éducation Nationale, [NOM], le 1er décembre 2015 [DANS QUEL CADRE, A QUELLE OCCASION].
+
+Puisque le décorchage recule, c'est sur leur temps libre que les mineurs rejoignent les réseaux de trafic. Aussi est-il crucial d'empêcher les jeunes de tuer le temps au pied des immeubles, explique Othman Sahki, dirigeant du club de football Loisir Malpassé, que fréquentait l'une des victimes.
+
+_ « Parmi nos 40 jeunes licenciés des cités avoisinantes, le football constitue une passion et un vecteur d’échange. En bref, un moyen de changer d’environnement"_, poursuit-il.
+
+Depuis son inscription en 2014, Kamal Z. venait d’ailleurs souvent aux entraînements._ « Il avait des relations saines et amicales avec ses camarades ». _Après sa mort, il a fallu beaucoup discuter au sein du club, pour réconforter ses camarades, conclut M. Sahki.
  
 # Rester prudent sur les mots
  
-C’est justement pour amortir le choc émotionnel et prévenir de futurs cas chez ces jeunes que les mots employés autour du rôle des mineurs dans les règlements de compte sont à employer avec précaution. “Ce n’est pas parce qu’ils ne sont pas enfants de chœur qu’on doit en parler avec tant de violence verbale » explique un journaliste qui a longtemps travaillé sur le sujet, insistant sur le fait que ces jeunes du 13ème arrondissement entendant ça et là résonner les mots ludiques de « matchs retours » ou « barbecue » peuvent minimiser la portée de ces actes criminels.
+Pour empêcher que les drames se répètent, il faut également choisir ses mots avec précaution, explique un journaliste marseillais, qui a préféré conserver l'anonymat. _“Ce n’est pas parce qu’ils ne sont pas enfants de chœur qu’on doit en parler avec tant de violence verbale »_ explique-t-il : à force d'entendre résonner à leurs oreilles les mots appremment ludiques de « matchs retours » ou « barbecue », certains peuvent minimiser la portée des crimes qu'ils recouvrent.
 
 LIRE AUSSI : ["Mourir à 18 ans dans les quartiers Nord de Marseille"](https://)
 {: .relance}
