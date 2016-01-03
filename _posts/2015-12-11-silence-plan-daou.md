@@ -2,11 +2,14 @@
 layout: post
 published: true
 categorie: articles
-title: Le silence des quartiers nord
+title: La loi du silence
 cover_image: Cover_Le_silence.jpg
-related: ["« Barbecue »","Quand le démantèlement des réseaux de trafiquants tue"]
+related: 
+  - « Barbecue »
+  - Quand le démantèlement des réseaux de trafiquants tue
 author: Joséphine Devambez
 ---
+
 
 Prolixes sur les problèmes généraux: la drogue, le chômage, la déscolarisation des jeunes, dans les quartiers nord de Marseille, où les trafiquants de drogue exercent une forte emprise, les habitants taisent des meurtres qui ont tout de règlements de compte. Au plan d’Aou, à quelques kilomètres de la Castellane, un [jeune homme de dix-huit ans](http://reglementsdecomptes.github.io/2015/12/11/PLANDAOU.html) est tué par balle au pied d’un immeuble, en fin de matinée le 12 octobre dernier. L’enquête policière se heurte au mutisme de certains voisins. 
 
@@ -36,4 +39,4 @@ Mais pour Marwan Mohammed, chercheur en sociologie au CNRS, ces preneurs d’ota
 
 Mais la clé de compréhension du silence est également à chercher dans la structure socio-économique du quartier. Les analyses sociologiques de la pauvreté pointent l’importance des résistances des populations dominées vis-à-vis des forces de police représentant l’ordre social établi. Cette réaction hostile se structure de fait autour des délinquants locaux et est encouragée par l’insécurité sociale, c’est-à-dire “l’absence de revenus suffisants à la maîtrise de sa propre existence” pour Marwan Mohammed. 
 
-Dans ce contexte, se taire est pour la plupart des habitants une façon de se distancier de la rue déviante, tout en adhérant tacitement à un nouveau cadre de référence: celui de l’ordre narcotique qui structure la vie quotidienne des quartiers en occupant les espaces publics: cages d’escalier, rez-de-chaussée des immeubles. Pour Laurent Muchielli, l’emprise des trafiquants est en réalité bien acceptée par les habitants: ils rendent service, rémunèrent et protègent parfois. La rupture avec les institutions politiques et médiatiques, elle, est certaine. Dans le climat de défiance vis-à-vis des institutions centrales, des forces de l’ordre, de la justice pénale et des médias, auprès de qui s’insurger? Aux yeux de qui manifester l’injustice et l’immoralité? Dans l’intimidation générale et la rupture avec l’ordre social national, les morts sont silencieuses. 
+Dans ce contexte, se taire est pour la plupart des habitants une façon de se distancier de la rue déviante, tout en adhérant tacitement à un nouveau cadre de référence: celui de l’ordre narcotique qui structure la vie quotidienne des quartiers en occupant les espaces publics: cages d’escalier, rez-de-chaussée des immeubles. Pour Laurent Muchielli, l’emprise des trafiquants est en réalité bien acceptée par les habitants: ils rendent service, rémunèrent et protègent parfois. La rupture avec les institutions politiques et médiatiques, elle, est certaine. Dans le climat de défiance vis-à-vis des institutions centrales, des forces de l’ordre, de la justice pénale et des médias, auprès de qui s’insurger? Aux yeux de qui manifester l’injustice et l’immoralité? Dans l’intimidation générale et la rupture avec l’ordre social national, les morts sont silencieuses.
