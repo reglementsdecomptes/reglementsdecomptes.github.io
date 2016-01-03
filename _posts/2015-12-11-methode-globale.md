@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Plus de police ≠ moins de crime
+title: Plus de police ≠ moins de crimes
 categorie: articles
 cover_image: Cover_approche_globale.jpg
 related: 
