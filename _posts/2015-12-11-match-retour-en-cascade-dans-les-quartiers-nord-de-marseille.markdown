@@ -39,36 +39,34 @@ Stéphane Quéré, expert en criminologie explique, dans un entretien téléphon
 **Stéphane Quéré** - expert en criminologie 
 {: .credit}
  
-Dans le cas du “drive by shooting” le lien est encore plus difficile à établir car les personnes ne sont pas visées en tant qu’individus mais parce qu’elles représentent le clan rival ou parce qu’elles sont sur le territoire de ce clan, sans qu’elles aient pour autant un lien avec le clan lui même.
+Dans le cas du “drive by shooting” [DONNER UNE DEFINITION] le lien est encore plus difficile à établir car les personnes ne sont pas visées en tant qu’individus mais parce qu’elles représentent le clan rival ou parce qu’elles sont sur le territoire de ce clan, sans lien obligatoire avec le clan lui même.
  
 # Un long travail de recherche pour la police
  
-Lorsqu’il y a un homicide dans le milieu criminel marseillais les policiers essaient de définir rapidement quelles sont les forces en présence et quels liens elles ont entre elles, afin d’anticiper de qui viendra le coup d’en face et quelle personne ou quel clan celui-ci visera. Mais les rivalités s’entremêlent et faire le lien entre l’homicide et son auteur est souvent compliqué, d’autant plus qu’il peut également y avoir des rivalités internes au sein du clan. Pour Stéphane Quéré c’est sur ces liens que reposent les principales difficultés pour les policiers : 
+Lorsqu’un homicide est commis dans le milieu  marseillais les policiers essaient de définir rapidement quelles sont les forces en présence et quels liens elles ont entre elles, afin d’anticiper de qui viendra le coup d’après [SOURCE, QUI DIT CA ?]. Mais les rivalités s’entremêlent, ce qui complique le travail des enquêteurs.
  
-“C’est un vrai travail de renseignement criminel qui est parfois méprisé. Parfois les équipes des clans changent, parfois des hypothèses sont tirées un peu rapidement car on ne connaît pas les spécificités actuelles du clan.”
+“C’est un vrai travail de renseignement criminel qui est parfois méprisé. Parfois les équipes des clans changent, parfois des hypothèses sont tirées un peu rapidement car on ne connaît pas les spécificités actuelles du clan”, explique Stéphane Quéré.
  
-Depuis 2012 la police fait en sorte d’éviter les “match retour” avec à la mise en place d’une méthode pro-active. Les enquêteurs essaient de placer en détention certaines personnes dont ils savent, grâce à leurs indics ou aux écoutes téléphoniques, qu’ils vont commettre un assassinat ou qu’ils pourraient en être très prochainement victime.
+Pour éviter les "matchs retour", la police emploie depuis 2012 une méthode pro-active : les enquêteurs essaient de placer en détention certaines personnes dont ils savent, grâce à leurs indics ou aux écoutes téléphoniques, qu’ils vont commettre un assassinat ou qu’ils pourraient en être très prochainement victime.
 
 > On cible tous les futurs auteurs ou victimes de règlements de compte, on ouvre des enquêtes tous azimuts sur eux, sur tous les sujets
 
 **Source policière**
 {: .credit}
 
-Ces agresseurs et victimes potentiels finissant par sortir de prison, l’échéance du règlement de compte n’en est que repoussée car comme le rappelle Romain Capdepon, “dans ce milieu on a de la mémoire”
+Mais ces agresseurs ou victimes potentiels finissant un jour par sortir de prison, l’échéance du règlement de compte n’en est que repoussée car comme le rappelle Romain Capdepon : “dans ce milieu on a de la mémoire”
 
 # La portée symbolique des “match retour”
  
-Plus que la philosophie du “tuer pour tuer” il y a une véritable portée symbolique derrière ces “match retour” car ils tiennent de la vendetta. Pour Stéphane Quéré le rôle utilitariste de la réponse est important à prendre en compte. C’est essentiel pour un clan de réagir quand un de ses membres est visé car l’absence de réponse à une attaque subie signifierait un acte de faiblesse.
+Plus que la philosophie du “tuer pour tuer” il y a une véritable portée symbolique derrière ces “match retour” qui tiennent de la vendetta. Il est essentiel essentiel pour un clan de réagir lorsqu'un de ses membres est visé car l’absence de réponse serait perçu comme un acte de faiblesse, explique Stéphane Quéré.
  
 > L'absence de réponse peut attiser la convoitise d’autres réseaux qui diraient alors qu’ils “n’ont pas les couilles de réagir”.
 
 **Stéphane Quéré** - expert en criminologie 
 {: .credit}
 
-La portée symbolique se voit aussi dans les modes opératoires de ces match retour. Le “drive by shooting” est une forme de “match retour” purement symbolique car elle cherche avant tout à fragiliser le clan, par le nombre de victime, mais aussi dans les mentalités en l’attaquant sur son propre territoire. 
+La portée symbolique tient aussi aux modes opératoires. Le “drive by shooting” vise avant tout à fragiliser le clan par le nombre de victimes, mais il a également pour objectif de marquer les esprits par une attaque perpétrée sur son propre territoire.
 
-La technique du “barbecue” est un moyen symbolique fort car en brûlant le corps de la victime les auteurs de l’homicide retardent l’identification mais surtout retardent le processus de deuil de la famille, ce qui est une forme d’humiliation pour les membres du clan. Cette technique a encore plus de poids lorsque certains membres du clan visé ont des liens de sang. D’après une source policière c’est “la technique d’intimidation la plus efficace car elle permet à ses auteurs de dire ‘attention ne jouez pas avec nous sinon vous verrez ce qui va vous arriver’.”
+La technique du “barbecue” a également une forte portée symbolique car en brûlant le corps de la victime les auteurs retardent à la fois l’identification  et le deuil de la famille, ce qui humilie le clan, particulièrement lorsque celui-ci repose sur les liens de sang. D’après une source policière, c’est “la technique d’intimidation la plus efficace car elle permet à ses auteurs de dire ‘attention ne jouez pas avec nous sinon vous verrez ce qui va vous arriver’.”
 
-Dans le “match retour” dont a été victime Zackary R. le nombre de douilles de kalachnikov est évidemment un symbole important car il témoigne de la violence avec laquelle les membres du réseau de la cité des Flamands se sont acharnés sur le corps de la victime. 
-
-Les “match retour” sont donc avant tout un jeu de force permanent entre clans rivaux, qui leur permet d’imposer leur autorité et d’impressionner les autres réseaux par la force. Si le mobile premier est la vengeance de la mort d’un des leurs les bandes rivales cherchent avant tout à imposer leur puissance de feu par le nombre de règlements de compte auxquels ils répondent et le mode opératoire qu’ils choisissent.
+Les “matchs retour” constituent donc un rapport force permanent entre clans rivaux, qui leur permet d’imposer leur autorité et d’impressionner. Si le mobile premier est la vengeance, les bandes rivales cherchent avant tout à imposer leur puissance de feu par le nombre de crimes auxquels ils sont en mesure de répondre et le mode opératoire qu’ils choisissent.
