@@ -11,10 +11,11 @@ author: Delphine Allaire
 ---
 
 
-Il est 2h40 quand dans la nuit du 24 au 25 octobre 2015 en pleine vacances de la Toussaint, une rafale d’arme automatique de calibre 9mm abat trois jeunes au pied d’un immeuble de la Cité des Lauriers dans le 13ème arrondissement de la cité phocéenne.
-Parmi les trois victimes, deux sont âgées de 15 ans et déjà connues des services de police pour des faits de petite délinquance. Avant de les assassiner, les auteurs présumés ont d’abord questionné les victimes sur l’identité d’un individu. L’hypothèse d’un règlement de comptes vraisemblablement connecté au trafic de stupéfiants est envisagée par une source policière, sachant que le hall D du bâtiment de la Cité serait selon cette même source un point de revente.
- 
-Victimes innocentes ou victimes impliquées... Comment se fait-il que des jeunes de 15 ans se trouvent mêlés à de tels drames ? Décryptage d’une jeunesse aux Lauriers et dans le 13ème arrondissement de Marseille, où un cinquième de la population est âgé de moins de 15 ans (Insee, 2012).
+Il est 2h40, dans la nuit du 24 au 25 octobre, lorsque une arme automatique de calibre 9mm, rafale, en pleine vacances de la Toussaint, trois adolescents au pied d’un immeuble de la Cité des Lauriers (13e ardt).
+
+Parmi les victimes, deux sont âgées de 15 ans et déjà connues des services de police pour des faits de petite délinquance. Avant de tirer, les auteurs présumés ont questionné les victimes sur un individu, relié au trafic de drogue, incitant les enquêteurs à envisager l'hypothèse d’un règlement de comptes. Le hall D de ce bâtiment est connu pour être un point de vente, précise une source policière. 
+
+Victimes innocentes ou victimes impliquées : comment des mineurs peuvent-il être mêlés à un tel drame dans une cité où un cinquième de la population est âgé de moins de 15 ans, selon l'Insee (2012).
  
 # Au mauvais moment, au mauvais endroit
  
