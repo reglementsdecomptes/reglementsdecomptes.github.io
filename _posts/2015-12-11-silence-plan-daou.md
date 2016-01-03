@@ -23,7 +23,9 @@ Aux alentours de onze heures, le 12 octobre, le calme règne dans la rue Jorgi R
 
 L'un des projectiles vient se loger dans la nuque. L'autre dans le bras. Puis le silence revient. Nul témoin. Nul hommage. Dans les quartiers Nord de Marseille, règne une omertà inquiète et solidaire, qui obstrue le travail d’enquête policière et tait les meurtres les plus insensés, expliquent élus et sociologues.
 
-Sur la chaussée, des traces de sang témoignent pourtant d’un dernier appel au secours. Agonisant, le jeune homme a péniblement atteint la porte la plus proche, celle de l’immeuble au crépit orange, à quelques mètres de là. Un homme a ouvert et a appelé les secours. En vain, marins pompiers et Samu tentent de le réanimer mais l’adolescent succombe de ses blessures sur le trajet vers l’hôpital Nord de Marseille. Son cri de détresse, comme l’écho des balles, s’est tu dans les mémoires. “Je n’étais pas là quand c’est arrivé” élude une mère de famille habitant l’immeuble. Prolixes sur les problèmes généraux: la drogue, le chômage, la déscolarisation des jeunes, les voisins se taisent sur les cas personnels: “Tout le monde se connaît dans le quartier. Lui, le mort, non jamais entendu parler” explique un voisin. 
+Sur la chaussée, des traces de sang témoignent pourtant d’un dernier appel au secours. Agonisant, le jeune homme a péniblement atteint la porte la plus proche, celle de l’immeuble au crépi orange, à quelques mètres de là. Un homme a ouvert et a appelé les secours. En vain : marins-pompiers et médecins du Samu ont tenté de ranimer le jeune majeur mais il a succombé à ses blessures sur le trajet vers l’hôpital Nord de Marseille. 
+
+Son cri de détresse, comme le rentissement des balles, s’est perdu dans les mémoires. “Je n’étais pas là quand c’est arrivé”, élude une mère de famille qui habite le même immeuble. "Tout le monde se connaît dans le quartier", ajoute un voicin. Mais "lui, le mort, non jamais entendu parler”. 
  
 ![Infographie 2.png]({{site.baseurl}}/img/Infographie 2.png)
 {: .fullwidth .image}
