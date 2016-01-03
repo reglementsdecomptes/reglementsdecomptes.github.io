@@ -11,9 +11,9 @@ author: Joséphine Devambez
 ---
 
 
-Prolixes sur la drogue, le chômage ou la déscolarisation des jeunes, les habitants des quartiers Nord de Marseille, où les trafiquants de drogue exercent une forte emprise, les habitants taisent en revanche les meurtres qui s'apparentent à des règlements de compte. 
+Prolixes sur la drogue, le chômage ou la déscolarisation des jeunes, les habitants des quartiers Nord de Marseille, où les trafiquants de drogue exercent une forte emprise, taisent en revanche les meurtres qui s'apparentent à des règlements de compte. 
 
-Le 12 octobre, au plan d’Aou [PRECISER ARRONDISSEMENT], à quelques kilomètres de la cité de la Castellane, un [jeune homme de dix-huit ans](http://reglementsdecomptes.github.io/2015/12/11/PLANDAOU.html) est tué par balle au pied d’un immeuble, en fin de matinée le 12 octobre dernier. L’enquête policière se heurte au mutisme de certains voisins. 
+Le 12 octobre, au plan d’Aou [PRECISER ARRONDISSEMENT], à quelques kilomètres de la cité de la Castellane, un [jeune homme de dix-huit ans](http://reglementsdecomptes.github.io/2015/12/11/PLANDAOU.html) a été tué par balle au pied d’un immeuble. Depuis l’enquête policière se heurte au mutisme des voisins. 
 
 ![infographie 1.png]({{site.baseurl}}/img/infographie 1.png)
 {: .fullwidth .image}
