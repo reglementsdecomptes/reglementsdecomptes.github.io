@@ -11,7 +11,7 @@ author: "Laure-Hélène de Vriendt"
 ---
 
 
-Il est 16 heures le 14 avril 2014 lorsque Mehdi B. se rend chez son avocat. Le jeune homme de 27 ans est au volant de sa voiture de location quand des hommes cagoulés arrivent à sa hauteur sur l’autoroute A7, à quelques mètres de la sortie Plombières. Ils tirent depuis leur voiture sur le véhicule de la victime qui est alors obligée de s’arrêter en pleine voie. Il sort de sa voiture, tente de s’enfuir à pied mais est tué de plusieurs balles de kalachnikov. Il faisait partie d’un réseau de drogues basé dans la cité des Flamants dans le 14ème arrondissement de Marseille. 
+Il est 16 heures le 14 avril 2014 lorsque Mehdi B. se rend chez son avocat. Le jeune homme de 27 ans roule au volant d'une voiture de location quand des hommes cagoulés arrivent à sa hauteur, sur l’autoroute A7, quelques mètres avant la sortie Plombières. Ils tirent depuis leur voiture sur le véhicule de la victime qui est alors obligée de s’arrêter en pleine voie. Mehdi B. -- membre d'un réseau de trafic de drogues basé dans la cité des Flammants (14e ardt) -- tente de s’enfuir à pied mais est tué de plusieurs balles de kalachnikov. 
 
 Le 18 juillet 2014, alors qu’il circule sur son scooter aux abords du rond-point de Sainte Marthe dans le 14ème arrondissement de Marseille, Zakary R. est renversé par une voiture avec deux personnes à son bord. Il tombe de son véhicule, tente de prendre la fuite à pied mais n’aura pas le temps d’aller bien loin. Le jeune homme de 24 ans est tué par balles d’une arme automatique. Une quarantaine de douilles de Kalachnikov ont été trouvées sur les lieux de l’homicide. Il faisait partie d’un réseau de stupéfiants de la cité Font-Vert, située également dans le 14ème arrondissement de la cité phocéenne. 
 
