@@ -4,13 +4,16 @@ published: true
 title: Du fait divers à la querelle politique
 categorie: articles
 cover_image: Cover_querelle_politique.jpg
-related: ["On Keeping Bad (Criminal) Company","Vendetta ou appât du gain ?"]
+related: 
+  - On Keeping Bad (Criminal) Company
+  - "Vendetta ou appât du gain ?"
 author: Marine Giraud
 ---
 
-C’est presque en homme ordinaire que Bernard F. se rend, mardi 19 mai, un peu avant 8h30, au Service des Sports de la ville de Marseille, pour lequel il travaille comme coursier depuis 1987. Arrivant tout juste devant le bâtiment, ses viennoiseries à la main, un homme casqué lui tire plusieurs balles dans la tête et le thorax, avant de rejoindre un complice pour s’enfuir à moto. Selon une source policière, les balles proviendraient d’un revolver de calibre .357 Magnum; digne d’un véritable film noir.
 
-Cette affaire aurait pu être classée à la rubrique “Faits divers” et passer relativement inaperçue. Mais l’opposition ne manque pas de faire remarquer la situation professionnelle douteuse de Bernard F., à la fois employé de la fonction publique et proche du grand banditisme. En seulement quelques heures, les premières réactions créent une véritable controverse, qui n’a cessé d’être alimenté depuis mai par des invectives de parts et d’autres de la classe politique marseillaise.  
+C’est presque en homme ordinaire que Bernard F. se rend, mardi 19 mai, un peu avant 8h30, au Service des Sports de la ville de Marseille. Il y travaille comme coursier depuis 1987. Arrivé devant le bâtiment, ses viennoiseries à la main, un homme casqué lui tire plusieurs balles dans la tête et le thorax, avant de s'enfuir à moto avec un complice. Les balles proviennent d’un revolver de calibre .357 Magnum, précise une source policière.
+
+Cette affaire aurait pu s'en tenir à la rubrique “Faits divers”. Mais rapidement  les élus d'opposition au conseil municipal de Marseille pointent la situation professionnelle ambivalente de Bernard F., à la fois employé de la fonction publique et proche du grand banditisme. En quelques heures, les critiques virent à la controverse, alimentée par plusieurs voix de la classe politique marseillaise.  
 
 <iframe src='//cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Mr7AF3dgapAmR4p1IXXCQAnSB1xJeaQqcRBQak5Oabo&font=OpenSans-GentiumBook&lang=fr&timenav_position=top&initial_zoom=2&height=500' width='100%' height='500' frameborder='0'></iframe>
 
@@ -40,5 +43,3 @@ A l’origine de la question fâcheuse au Conseil municipal, Maître Georges Mau
 {: .credit}
 
  «Je ne me veux pas médisant. D’ailleurs je n’ai pas mentionné le nom de l’élu qui accompagnait Monsieur F. en Andorre» explique le président du groupe Front National de la ville, qui pourtant interroge directement le maire socialiste quant à une «éventuelle complaisance à l’égard d’un employé municipal membre du grand banditisme». Dans ce contexte d’entre deux tours des élections régionales, cette dispute politique ne semble pas prête de s’achever de sitôt. «Il y a 11500 employés municipaux, il se peut qu’il y ait toujours quelqu’un qui ne se comporte pas bien» semble déplorer innocemment en septembre dernier, le maire de la ville de Marseille.
-
- 
