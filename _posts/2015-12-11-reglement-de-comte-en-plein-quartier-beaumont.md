@@ -2,15 +2,20 @@
 layout: post
 published: true
 categorie: articles
-title: « Règlement de comptes » en plein quartier Beaumont
+title: "En plein jour, en pleine ville"
 cover_image: Cover_quartier_beaumont.jpg
-related: ["Braquages mécaniques et petits santons : plongée dans la vie du gangster Robert B.","Ne pas parler trop vite des règlements de comptes"]
+related: 
+  - "Braquages mécaniques et petits santons : plongée dans la vie du gangster Robert B."
+  - Ne pas parler trop vite des règlements de comptes
 author: Raphaël Georgy
 ---
 
-L’été dernier, ce qui ressemble fortement à un règlement de comptes s’est produit en plein quartier Beaumont, un quartier d’ordinaire calme du 12ème arrondissement de Marseille. Mais les habitants et les élus locaux semblent résignés quant à leur propre sécurité
 
-Les clients font la queue à la boulangerie, la petite terrasse aux murs jaunis du « Rotonde Bar » est à moitié remplie et le soleil est déjà haut dans le ciel sans nuages de Marseille, raconte Sylvie, jointe par téléphone. Ce devait être une journée splendide. Ce jeudi 6 août 2015 vers 9 heures, deux hommes à moto s’arrêtent près du bar, avenue du 24 avril 1915, dans un quartier pavillonnaire dans l’Est de Marseille. L’un reste en attente sur sa moto, l’autre descend. Il porte une perruque et fait des allers et retours entre le bar et la terrasse.
+Au beau milieu de l'été, un crime aux allures de règlement de comptes a été commis à Beaumont, un quartier calme du 12ème arrondissement de Marseille, dont les habitants, pourtant loins des cités Nord, se disent résignés en matière de sécurité
+
+Les clients font la queue à la boulangerie, la petite terrasse aux murs jaunis du « Rotonde Bar » est à moitié remplie et le soleil est déjà haut dans le ciel sans nuages de Marseille, raconte Sylvie, qui a assisté à la scène et accepté de la raconter, sous couvert de l'anonymat, par téléphone. 
+
+Ce devait être une journée splendide. Vers 9 heures, ce jeudi 6 août 2015, deux hommes à moto s’arrêtent près du bar, avenue du 24 avril 1915, dans un quartier pavillonnaire dans l’Est de Marseille. L’un reste en attente sur sa moto, l’autre descend. Il porte une perruque et fait des allers et retours entre le bar et la terrasse.
 
 ![carte.png]({{site.baseurl}}/img/carte.png)
 {: .fullwidth .image}
@@ -52,4 +57,3 @@ Didier, résident d’un immeuble tout proche du lieu du meurtre, paraît résig
 Les habitants ne semblent pas craindre que les règlements de compte ne s’exportent vers des quartiers qui sont rarement concernés par ce genre d’affaires. La délinquance à Marseille est en baisse, comme le souligne le directeur départemental de la sécurité publique, Pierre-Marie Bourniquel. Contacté par téléphone, il fait savoir que les moyens de surveillance sont revus régulièrement en proportion de la criminalité constatée.
 
 Nombreux sont les habitants qui ont questionné M. Coulet sur la sécurité dans le quartier. Néanmoins celui-ci avoue ne pas pouvoir faire de miracles : _« Il peut toujours y avoir des dommages collatéraux, et ça m’interpelle. Mais on est impuissants par rapport à cela »_.
-
