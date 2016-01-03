@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Effet pervers du démantèlement des trafics
+title: Un effet pervers du démantèlement des trafics
 categories: articles
 cover_image: Cover_demantelement_reseaux.jpg
 related: 
