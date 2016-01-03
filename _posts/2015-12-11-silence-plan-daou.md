@@ -13,15 +13,15 @@ author: Joséphine Devambez
 
 Prolixes lorsqu'il est question de drogue, de chômage ou de déscolarisation des jeunes, les habitants des quartiers Nord de Marseille -- où l'emprise des trafiquants de drogue est forte -- , restent en revanche muets lorsqu'on les interroge sur des meurtres qui s'apparentent à des règlements de compte. 
 
-Le 12 octobre, au plan d’Aou [PRECISER ARRONDISSEMENT], à quelques kilomètres de la cité de la Castellane, un [jeune homme de dix-huit ans](http://reglementsdecomptes.github.io/2015/12/11/PLANDAOU.html) a été tué par balle au pied d’un immeuble. Depuis l’enquête policière se heurte au mutisme des voisins. 
-
 ![infographie 1.png]({{site.baseurl}}/img/infographie 1.png)
 {: .fullwidth .image}
 
 Suite aux opérations policières dans la cité de la Castellane, les trafics se déplacent dans les grands ensembles de la Bricarde mais également dans le quartier résidentiel du Plan d’Aou. - **Google Maps 10/12/2015**
 {: .credit}
 
-Aux alentours de onze heures, en fin de matinée, le 12 octobre dernier, la rue Jorgi Reboul de la cité du plan d’Aou, au Nord de Marseille, est calme. Un jeune homme de dix-huit ans y meurt apparemment sans témoins. Seules les balles résonnent, l’une vient se loger dans sa nuque et l’autre dans son bras, puis le silence revient, plus personne ne s’exprime. Pour tout hommage, le mutisme des voisins et la discrétion. Dans les quartiers nord de Marseille, règne une omertà inquiète et solidaire, qui obstrue le travail d’enquête policière et tait les meurtres les plus insensés, expliquent élus et sociologues.
+Aux alentours de onze heures, en fin de matinée, le 12 octobre dernier, la rue Jorgi Reboul de la cité du plan d’Aou [PRECISER ARRONDISSEMENT], au Nord de Marseille, est calme. Un  [jeune homme de dix-huit ans](http://reglementsdecomptes.github.io/2015/12/11/PLANDAOU.html) y meurt apparemment sans témoin. 
+
+Seules les balles résonnent, l’une vient se loger dans sa nuque et l’autre dans son bras, puis le silence revient, plus personne ne s’exprime. Pour tout hommage, le mutisme des voisins et la discrétion. Dans les quartiers nord de Marseille, règne une omertà inquiète et solidaire, qui obstrue le travail d’enquête policière et tait les meurtres les plus insensés, expliquent élus et sociologues.
 
 Sur la chaussée, des traces de sang témoignent pourtant d’un dernier appel au secours. Agonisant, le jeune homme a péniblement atteint la porte la plus proche, celle de l’immeuble au crépit orange, à quelques mètres de là. Un homme a ouvert et a appelé les secours. En vain, marins pompiers et Samu tentent de le réanimer mais l’adolescent succombe de ses blessures sur le trajet vers l’hôpital Nord de Marseille. Son cri de détresse, comme l’écho des balles, s’est tu dans les mémoires. “Je n’étais pas là quand c’est arrivé” élude une mère de famille habitant l’immeuble. Prolixes sur les problèmes généraux: la drogue, le chômage, la déscolarisation des jeunes, les voisins se taisent sur les cas personnels: “Tout le monde se connaît dans le quartier. Lui, le mort, non jamais entendu parler” explique un voisin. 
  
