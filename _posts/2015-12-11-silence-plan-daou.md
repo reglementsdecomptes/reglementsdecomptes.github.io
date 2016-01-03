@@ -23,7 +23,7 @@ Aux alentours de onze heures, le 12 octobre, le calme règne dans la rue Jorgi R
 
 L'un des projectiles vient se loger dans la nuque. L'autre dans le bras. Puis le silence revient. Nul témoin. Nul hommage. Dans les quartiers Nord de Marseille, règne une omertà inquiète et solidaire qui obstrue le travail d’enquête policière et tait les meurtres, expliquent élus et sociologues.
 
-Sur la chaussée, des traces de sang témoignent pourtant d’un dernier appel au secours. Agonisant, le jeune homme a péniblement atteint la porte la plus proche, celle de l’immeuble au crépi orange, à quelques mètres de là. Un homme a ouvert et a appelé les secours. En vain : marins-pompiers et médecins du Samu ont tenté de ranimer le jeune majeur mais il a succombé à ses blessures sur le trajet vers l’hôpital Nord de Marseille. 
+Sur la chaussée, des traces de sang témoignent pourtant d’un dernier appel au secours. Agonisant, le jeune homme a péniblement atteint la porte la plus proche, celle de l’immeuble au crépi orange, à quelques mètres de là. Un homme a ouvert et appelé les secours. En vain : marins-pompiers et médecins du Samu ont tenté de ranimer le jeune majeur mais il a succombé à ses blessures en route vers l’hôpital Nord de Marseille. 
 
 Son cri de détresse, comme le rentissement des balles, s’est perdu dans les mémoires. “Je n’étais pas là quand c’est arrivé”, élude une mère de famille qui habite le même immeuble. "Tout le monde se connaît dans le quartier", ajoute un voicin. Mais "lui, le mort, non jamais entendu parler”. 
  
@@ -33,7 +33,7 @@ Son cri de détresse, comme le rentissement des balles, s’est perdu dans les m
 Le 12 octobre, un jeune homme de 18 ans reçoit une ou deux balles dans la rue Jorgi Reboul et trouve refuge dans l’immeuble voisin. **(Google Maps 10/12/2015)**
 {: .credit}
 
-Pour la police, l’affaire est pourtant très localisée et a toutes les caractéristiques d’un règlement de comptes. Le jeune homme né en 1996 avait déjà un casier judiciaire fourni : vols avec effraction, violences volontaires et affaires de stupéfiants. Un profil devenu tristement banal dans un quartier quasiment administré par les trafiquants de narcotiques. La police judiciaire de Marseille tait son identité, deux complices présumés ont déjà été interpellés dans le dossier et les enquêteurs s’apprêterait à localiser et interpeller l’auteur de l’assassinat, selon une source policière. 
+Pour la police, l’affaire -- très localisée -- a toutes les caractéristiques d’un règlement de comptes. Le jeune homme né en 1996 avait déjà un casier judiciaire conséquent : vols avec effraction, violences volontaires et affaires de stupéfiants. Un profil tristement banal dans un quartier où les traficants de drogue ont la haute main. Selon une source policière, les enquêteraient seraient sur le point d'apréhender l'auteur du crime dont deux complices présumés ont déjà été interpellés. 
 
 Depuis la maison des jeunes, à quelques mètre de là, on dit également n’avoir rien entendu. “Ce n’était pas moi qui assurait la permanence” explique un animateur, d’un ton expéditif “d’ailleurs, à partir de 17-18 ans, les jeunes ne viennent plus au centre, ils ont pris leur indépendance”. Un silence qui émeut Samia Ghali sénatrice et maire des 15e et 16e arrondissements de Marseille. "C'est quand même la mort violente d'un enfant de 18 ans, mais aucun sentiment ne transparaît. Ces jeunes ne sont même pas rentrés chez eux pour se faire oublier.  Normalement, il y a de l'émotion ! Mais là, rien.” s’indigne-t-elle au micro de France Bleu Provence. 
 
