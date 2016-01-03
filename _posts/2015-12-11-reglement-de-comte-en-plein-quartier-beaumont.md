@@ -15,14 +15,14 @@ Au beau milieu de l'été, un crime aux allures de règlement de comptes a été
 
 Les clients font la queue à la boulangerie, la petite terrasse aux murs jaunis du « Rotonde Bar » est à moitié remplie et le soleil est déjà haut dans le ciel sans nuages de Marseille, raconte Sylvie, qui a assisté à la scène et accepté de la raconter, sous couvert de l'anonymat, par téléphone. 
 
-Ce devait être une journée splendide. Vers 9 heures, ce jeudi 6 août 2015, deux hommes à moto s’arrêtent près du bar, avenue du 24 avril 1915, dans un quartier pavillonnaire dans l’Est de Marseille. L’un reste en attente sur sa moto, l’autre descend. Il porte une perruque et fait des allers et retours entre le bar et la terrasse.
+Ce devait être une journée splendide. Vers 9 heures, jeudi 6 août 2015, deux hommes à moto s’arrêtent près du bar, avenue du 24 avril 1915, une zone pavillonnaire de l'est marseillais. L’un attend reste sur sa moto, l’autre descend. Il porte une perruque et fait des allers et retours entre le bar et la terrasse.
 
 ![carte.png]({{site.baseurl}}/img/carte.png)
 {: .fullwidth .image}
 Google
 {: .credit}
 
-Un jeune homme qui le voit passer à cinq reprises le salue deux fois. Aucune réponse, rapporte la [Provence](http://www.laprovence.com/article/actualites/3525845/marseille-un-homme-abattu-en-pleinerue-dans-un-guet-apens.html). Entre-temps, un homme d’une cinquantaine d’années portant une chemise bleu-gris et un jean clair selon des photos AFP de la scène de crime, arrive aussi en moto. Il rentre dans le bar sans même retirer son casque noir. C’est Robert B., fiché au grand banditisme. Il est connu depuis 30 ans pour des vols de voiture, un vol aggravé et pour avoir participé au fameux [braquage d’un fourgon blindé Brink’s à Gentilly](http://www.leparisien.fr/faits-divers/deux-fourgons-de-la-brink-s-attaques-a-l-explosif-27-12-2000-2001852979.php) le 26 décembre 2000 avec une dizaine de malfaiteurs. 
+Un jeune homme qui le voit passer à cinq reprises le salue deux fois. Aucune réponse, rapporte la [Provence](http://www.laprovence.com/article/actualites/3525845/marseille-un-homme-abattu-en-pleinerue-dans-un-guet-apens.html). Entre-temps, un homme d’une cinquantaine d’années portant une chemise bleu-gris et un jean clair, selon des photos de la scène de crime, arrive lui aussi en moto. Il entre dans le bar sans même retirer son casque noir. C’est Robert B., fiché au grand banditisme. Il est connu depuis 30 ans pour des vols de voiture, un vol aggravé et pour avoir participé au fameux [braquage d’un fourgon blindé Brink’s à Gentilly](http://www.leparisien.fr/faits-divers/deux-fourgons-de-la-brink-s-attaques-a-l-explosif-27-12-2000-2001852979.php) le 26 décembre 2000 avec une dizaine de malfaiteurs. 
 
 ![Capture3 teinte.jpg]({{site.baseurl}}/img/Capture3 teinte.jpg)
 {: .fullwidth .image}
@@ -31,16 +31,16 @@ Le  « Rotonde Bar », avenue du 24 avril 1915 à Marseille. Google Street View
 
 Il est également soupçonné d’avoir fait partie du commando qui a fait évader Antonio Ferrara de la prison de Fresnes en 2003, une figure du grand banditisme condamné pour braquage et meurtre, suspecté de trafic de drogue. Robert B. est en liberté depuis 2012.
 
-Entre 9 h 35 et 9 h 40, celui-ci ressort du bar et se dirige vers la petite boulangerie située juste en face. À peine commence-t-il à traverser, son casque noir vissé sur la tête, que l’homme à la perruque sort un calibre 9 mm. Les habitants croient à un gros pétard. L’homme vient de l’abattre d’une balle dans le dos, à bout portant. Calmement, il s’approche de la victime qui vient de s’effondrer sur la route. 
+Entre 9 h 35 et 9 h 40, celui-ci ressort du bar et se dirige vers la petite boulangerie située juste en face. À peine commence-t-il à traverser, son casque noir vissé sur la tête, que l’homme à la perruque sort un calibre 9 mm. Les habitants croient à un gros pétard. L’homme vient d’abattre à bout portant Robert B. d’une balle dans le dos. Calmement, il s’approche de la victime qui vient de s’effondrer sur la route. 
 
-Nathalie, gérante d’un magasin voisin, raconte à l’AFP : _“D'un coup, j'ai réalisé que la personne était en train de se faire tuer”_. L’homme à la perruque lui tire huit balles, dont cinq dans la tête. Puis s’enfuit avec son complice à moto. Selon une source policière, on ignore encore l’identité des suspects. Mais face à ce meurtre en plein jour, comment les policiers et habitants réagissent-ils ?
+Nathalie, gérante d’un magasin voisin, raconte à l’AFP : “D'un coup, j'ai réalisé que la personne était en train de se faire tuer”. L’homme à la perruque a tiré huit balles, dont cinq dans la tête. Il s'enfuit ensuite avec son complice à moto. Selon une source policière, on ignore encore l’identité des suspects. Mais face à ce meurtre en plein jour, comment les policiers et habitants réagissent-ils ?
 
 >D'un coup, j'ai réalisé que la personne était en train de se faire tuer.
 
 **Nathalie** - responsable d’un magasin voisin
 {: .credit}
 
-Si une cellule psychologique a été mise en place immédiatement après le meurtre pour les témoins de la scène, les riverains que nous avons contactés ne semblent pas s’inquiéter pour leur sécurité. _« C’est un quartier très calme, il n’y a que deux morts par ans »_, explique Valérie, une habitante de l’avenue adjacente de la Figone.
+Si une cellule psychologique a été mise en place immédiatement après le meurtre pour les témoins de la scène, les riverains que nous avons contactés ne semblent pas s’inquiéter pour leur sécurité. « C’est un quartier très calme, il n’y a que deux morts par ans », explique Valérie, une habitante de l’avenue adjacente de la Figone.
 
 ![Capture2 teinte.jpg]({{site.baseurl}}/img/Capture2 teinte.jpg)
 {: .fullwidth .image}
