@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cas d'école"
+title: Vieille école
 categories: articles
 published: true
 cover_image: Cover_Braquages_mecaniques.jpg
@@ -19,7 +19,9 @@ Le 6 août 2015, Robert B est tué par balles [FAIRE lien vers article Raphaël]
 
 Ses amis le surnommaient le “Petit Robert”. Il n’a pourtant rien d’un enfant de coeur. Fiché pour grand banditisme et surveillé par la police, il faisait partie des grands noms d’un réseau de braqueurs « à l’ancienne », fort d’une carrière de 30 ans dans la délinquance. Un parcours qui s’est achevé un matin du mois d’août dans une artère commerçante du quartier de Beaumont, quand deux individus ont tiré sur lui à huit reprises au calibre 9mm. 
 
-Le meurtre a tout d’un règlement de compte. Robert B évoluait en effet dans le « Milieu » marseillais, parmi ces truands qui sont les héritiers de l’âge d’or du banditisme de la French Connexion. Cette ancienne génération de bandits [se distingue des jeunes trafiquants de drogue des cités du Nord](https://reglementsdecomptes.wordpress.com/2015/05/12/deux-generations-de-trafiquants-dos-a-dos/) de la ville, comme l’explique le criminologue Stéphane Querré, contacté par téléphone : « Les bandits à l’ancienne avaient plus de temps, une meilleure formation criminelle. Ils étaient moins pressés et moins désireux de gagner du fric rapidement. (…) La société change donc le milieu change aussi. » Si les règlements de compte existent aussi chez ces vieux truands, ils sont souvent plus discrets : « Avant, on flinguait moins spectaculairement car aujourd’hui on utilise plus la kalachnikov que le 9mm, on arrosait pas comme on peut faire avec la kalach. » ajoute le spécialiste. A Marseille, ce sont surtout les jeunes qui sont les principales victimes des règlements de compte (voir infographie). Le cas de Robert B est donc singulier. 
+Le meurtre a tout d’un règlement de compte. Robert B évoluait en effet dans le « Milieu » marseillais, parmi ces truands qui sont les héritiers de l’âge d’or du banditisme de la French Connexion. Cette ancienne génération de bandits [se distingue des jeunes trafiquants de drogue des cités du Nord](https://reglementsdecomptes.wordpress.com/2015/05/12/deux-generations-de-trafiquants-dos-a-dos/) de la ville, comme l’explique le criminologue Stéphane Querré, contacté par téléphone : _« Les bandits à l’ancienne avaient plus de temps, une meilleure formation criminelle. Ils étaient moins pressés et moins désireux de gagner du fric rapidement. (…) La société change donc le milieu change aussi. »_ 
+
+Si les règlements de compte existent aussi chez ces vieux truands, ils sont souvent plus discrets :_« Avant, on flinguait moins spectaculairement car aujourd’hui on utilise plus la kalachnikov que le 9mm, on arrosait pas comme on peut faire avec la kalach »,_ ajoute le spécialiste. A Marseille, ce sont surtout les jeunes qui sont les principales victimes des règlements de compte (voir infographie). Le cas de Robert B est donc singulier. 
 
 ![Graphique morts age.png]({{site.baseurl}}/img/Graphique morts age.png)
 {: .fullwidth}
