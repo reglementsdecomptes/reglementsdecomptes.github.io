@@ -5,10 +5,11 @@ title: Plus de police ≠ moins de crimes
 categorie: articles
 cover_image: Cover_approche_globale.jpg
 related: 
-  - « Règlement de comptes » en plein quartier Beaumont
-  - Quand le démantèlement des réseaux de trafiquants tue
+  - "En plein jour, en pleine ville"
+  - Un effet pervers du démantèlement des trafics
 author: Hadrien Bect
 ---
+
 
 
 Malgré des interventions policières régulières et la mise en place de nouvelles actions, les règlements de compte ne connaissent pas de trève à Marseille. Aussi des questions émergent-elles sur _«l’approche globale»_ mise en oeuvre par la police pour lutter contre le néo-banditisme de cité.
