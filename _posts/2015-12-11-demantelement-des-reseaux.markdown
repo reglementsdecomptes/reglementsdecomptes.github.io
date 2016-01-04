@@ -10,8 +10,6 @@ related:
 author: Megane De Amorim
 ---
 
-
-
 Abdallah A. a été assassiné le 19 juin, au pied d'un immeuble des quartiers Nord. Sa mort intervient un mois après le démantèlement d'un trafic de stupéfiants dans une cité voisine qui a entraîné une guerre de territoires dont il a pu être la victime, selon une source policière.
 
 ![Cite-des-Bleuets.png]({{site.baseurl}}/img/Cite-des-Bleuets.png)
