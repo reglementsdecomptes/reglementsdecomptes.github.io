@@ -5,10 +5,11 @@ title: Du fait divers à la querelle politique
 categorie: articles
 cover_image: Cover_querelle_politique.jpg
 related: 
-  - On Keeping Bad (Criminal) Company
-  - "Vendetta ou appât du gain ?"
+  - Bad (Criminal) Company
+  - "L'argent ou l'honneur ?"
 author: Marine Giraud
 ---
+
 
 
 C’est presque en homme ordinaire que Bernard F. se rend, mardi 19 mai, un peu avant 8h30, au service des Sports de la ville de Marseille. Il y travaille comme coursier depuis près de trente ans. 
