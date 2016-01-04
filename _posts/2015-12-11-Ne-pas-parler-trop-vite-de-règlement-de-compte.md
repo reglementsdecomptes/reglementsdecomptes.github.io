@@ -5,10 +5,11 @@ layout: post
 categorie: articles
 cover_image: Cover_Ne_pas_parler_trop_vite.jpg
 related: 
-  - Avoir 15 ans à la cité des Lauriers
-  - Laver son linge en famille
+  - "Avoir 15 ans, cité des Lauriers"
+  - En famille
 author: "Natacha Gorwitz & Juliette Jabkhiro"
 ---
+
 
 
 
