@@ -39,9 +39,10 @@ Un avis partagé Stéphane Querré, criminologue. Selon lui, les associés de ce
 
 Les implications familiales pourraient ainsi expliquer en partie les engrenages de violence qui secouent la ville depuis des années, à l’image de « Babouin », tué pour avoir vengé son frère. Les rivalités entre bandes deviennent claniques. Dès lors qu'un ennemi est identifié, son entourage, sa famille deviennent une cible.
 
-La famille peut-elle devenir un outil pour lutter contre la criminalité ? Ou mieux la comprendre. Scott Decker, criminologue américain de l’université Arizona State, s’est penché sur les logiques d’incitation familiale. Il en ressort que 80% des jeunes délinquants étudiés n’ont jamais eu de parent dans les gangs. En revanche, près de la moitié d’entre eux ont un grand frère déjà impliqué dans la criminalité. L’influence de ces « guides informels » est réelle, elle doit être mieux comprise, sinon les fratries continueront de peupler, coude-à-coude, les bancs des tribunaux pour de macabres affaires. 
+La famille peut-elle devenir un outil pour lutter contre la criminalité ? Ou mieux la comprendre. Scott Decker, criminologue américain de l’université Arizona State, s’est penché sur les logiques d’incitation familiale. Il en ressort que 80% des jeunes délinquants étudiés n’ont jamais eu de parent dans les gangs. En revanche, près de la moitié d’entre eux ont un grand frère déjà impliqué dans la criminalité. 
 
-Dernière en date ? Le procès de 3 hommes accusés d’un triple homicide a débuté mercredi 9 décembre, et durera 9 jours. Parmi eux, deux frères : Abdelatif et Mohamed. 
+L’influence de ces « guides informels » [SOURCE ?] est réelle et doit être mieux comprise, sinon les fratries continueront de peupler, coude-à-coude, les bancs des tribunaux comme Adbelatif et Mohamed, deux frères accusés avec un troisième homme d'un triple homicide [DATE].
+ 
 
 ![fiche Mohamed L.png]({{site.baseurl}}/img/fiche Mohamed L.png)
 ![fiche Abdelatif L.png]({{site.baseurl}}/img/fiche Abdelatif L.png)
