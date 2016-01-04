@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Marseille's violence hits up Hungary"
+title: A Hungarian man in Marseille
 categorie: articles
 cover_image: Cover_Hungary.jpg
 related: 
