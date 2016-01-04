@@ -5,10 +5,11 @@ categorie: articles
 title: "L'argent ou l'honneur ?"
 cover_image: Cover_Vendetta.jpg
 related: 
-  - Le silence des quartiers nord
-  - Sortir des quartiers nord
+  - La loi du silence
+  - Quitter les quartiers Nord
 author: "Louis Baudoin-Laarman"
 ---
+
 
 Nasseri M., 27 ans, Jimmy I., 29 ans, morts par balles à bord de leur voiture à Saint Jérôme (13 ardt) en 2012. Mohamed A., 15 ans, Kamal Z., 23 ans, et Adelmalik A., [AGE DU TROISIEME INDIVIDU], tués au pistolet automatique devant leur domicile, dans la cité voisine des Lauriers (13 ardt), en octobre 2015. Mohamed M. [AGES] et Anthony C. [AGES], abattus dans une embuscade sous le tunnel du Prado-Carénage, en novembre 2015.
 
