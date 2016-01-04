@@ -46,7 +46,7 @@ Les taux de scolarisation calculés, par tranche d'âge, dans le 13ème arrondis
 
 _“Les résultats sont encourageants, même si la communauté éducative doit maintenir ses efforts sur les plus jeunes, deux tiers des élèves décrochant à 15 ans, dès la fin du collège”_, a prévenu la ministre de l’Éducation Nationale, [NOM], le 1er décembre 2015 [DANS QUEL CADRE, A QUELLE OCCASION].
 
-Puisque le décorchage recule, c'est sur leur temps libre que les mineurs rejoignent les réseaux de trafic. Aussi est-il crucial d'empêcher les jeunes de tuer le temps au pied des immeubles, explique Othman Sahki, dirigeant du club de football Loisir Malpassé, que fréquentait l'une des victimes.
+Puisque le décrochage recule, c'est sur leur temps libre que les mineurs rejoignent les réseaux de trafic. Aussi est-il crucial d'empêcher les jeunes de tuer le temps au pied des immeubles, explique Othman Sahki, dirigeant du club de football Loisir Malpassé, que fréquentait l'une des victimes.
 
 _ « Parmi nos 40 jeunes licenciés des cités avoisinantes, le football constitue une passion et un vecteur d’échange. En bref, un moyen de changer d’environnement"_, poursuit-il.
 
