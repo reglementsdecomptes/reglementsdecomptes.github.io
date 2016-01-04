@@ -48,9 +48,9 @@ _“Les résultats sont encourageants, même si la communauté éducative doit m
 
 Puisque le décrochage recule, c'est sur leur temps libre que les mineurs rejoignent les réseaux de trafic. Aussi est-il crucial d'empêcher les jeunes de tuer le temps au pied des immeubles, explique Othman Sahki, dirigeant du club de football Loisir Malpassé, que fréquentait l'une des victimes.
 
-_ « Parmi nos 40 jeunes licenciés des cités avoisinantes, le football constitue une passion et un vecteur d’échange. En bref, un moyen de changer d’environnement"_, poursuit-il.
+_« Parmi nos 40 jeunes licenciés des cités avoisinantes, le football constitue une passion et un vecteur d’échange. En bref, un moyen de changer d’environnement"_, poursuit-il.
 
-Depuis son inscription en 2014, Kamal Z. venait d’ailleurs souvent aux entraînements._ « Il avait des relations saines et amicales avec ses camarades ». _Après sa mort, il a fallu beaucoup discuter au sein du club, pour réconforter ses camarades, conclut M. Sahki.
+Depuis son inscription en 2014, Kamal Z. venait d’ailleurs souvent aux entraînements. _« Il avait des relations saines et amicales avec ses camarades »._ Après sa mort, il a fallu beaucoup discuter au sein du club, pour réconforter ses camarades, conclut M. Sahki.
  
 # Rester prudent sur les mots
  
