@@ -26,9 +26,9 @@ Selon l'AFP, ce n’est pas un cas isolé dans ce quartier situé à deux pas du
 Guy Nicolaï, adjoint délégué à la sécurité de la mairie du 1er arrondissement de Marseille
 {: .credit}
 
-Depuis cette [PREMIERE/DERNIERE ?] fusillade, _“un sentiment d’insécurité, de tristesse et de peur s’est installé parmi les commerçants",_ témoigne NOM, adjoint délégué à la sécurité : _"on essaie de les tranquilliser avec les mesures prises pour sécuriser le secteur. Le nombre de policiers n’a cependant pas été augmenté. Il y a beaucoup de patrouilles à pied, des brigades VTT, mais finalement comme ailleurs.”_
+Depuis cette [PREMIERE/DERNIERE ?] fusillade, _"un sentiment d’insécurité, de tristesse et de peur s’est installé parmi les commerçants",_ témoigne NOM, adjoint délégué à la sécurité : _"on essaie de les tranquilliser avec les mesures prises pour sécuriser le secteur. Le nombre de policiers n’a cependant pas été augmenté. Il y a beaucoup de patrouilles à pied, des brigades VTT, mais finalement comme ailleurs."_
 
-Même son de cloche pour le président du Comité inter-quartier (CIQ) des habitants de l’Opéra, François Borgia : _“Le quartier de l’Opéra, c’est le jour et la nuit. La journée, l’Opéra vit tranquillement autour de ses restaurants et brasseries. Avec les boites de nuit, ce sont souvent des bandes d’autres quartiers qui viennent faire la fête”,_ explique-t-il. Entre les débordements dû à l’alcool et les cas plus extrême, comme la fusillade du 13 septembre, le CIQ Bourse/Opéra a demandé l’augmentation des patrouilles de nuit. 
+Même son de cloche pour le président du Comité inter-quartier (CIQ) des habitants de l’Opéra, François Borgia : _"Le quartier de l’Opéra, c’est le jour et la nuit. La journée, l’Opéra vit tranquillement autour de ses restaurants et brasseries. Avec les boites de nuit, ce sont souvent des bandes d’autres quartiers qui viennent faire la fête",_ explique-t-il. Entre les débordements dû à l’alcool et les cas plus extrême, comme la fusillade du 13 septembre, le CIQ Bourse/Opéra a demandé l’augmentation des patrouilles de nuit. 
 
 ## La division Centre: un secteur restreint
 
