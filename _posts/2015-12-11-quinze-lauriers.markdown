@@ -5,10 +5,11 @@ categorie: articles
 title: "Avoir 15 ans, cité des Lauriers"
 cover_image: Cover_Avoir_15_ans.jpg
 related: 
-  - Le silence des quartiers nord
-  - "Marseille's violence hits up Hungary"
+  - La loi du silence
+  - A Hungarian man in Marseille
 author: Delphine Allaire
 ---
+
 
 
 Il est 2h40, dans la nuit du 24 au 25 octobre, lorsque une arme automatique de calibre 9mm, rafale, en pleine vacances de la Toussaint, trois adolescents au pied d’un immeuble de la Cité des Lauriers (13e ardt).
