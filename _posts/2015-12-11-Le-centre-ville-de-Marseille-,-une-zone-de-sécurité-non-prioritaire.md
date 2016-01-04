@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Le centre-ville, une zone de sécurité non prioritaire ?"
+title: "Le centre-ville, zone de sécurité non prioritaire ?"
 categorie: articles
 cover_image: Cover_zone_non_prioritaire.jpg
 related: 
@@ -10,6 +10,7 @@ related:
 author: Justine Barraud
 twitter: "https://twitter.com/JustineBarraud"
 ---
+
 
 
 Dimanche 13 septembre, une [fusillade](http://www.lemonde.fr/police-justice/article/2015/09/13/une-fusillade-en-plein-c-ur-de-marseille-fait-un-mort-et-six-blesses_4755203_1653578.html) a éclaté à 6H00 du matin, suite à un différend survenu un peu plus tôt dans la nuit devant un bar du centre de Marseille, en face de l'Opéra. Un homme est mort et cinq autres ont été blessés.
