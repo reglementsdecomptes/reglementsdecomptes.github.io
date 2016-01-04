@@ -54,7 +54,7 @@ Depuis son inscription en 2014, Kamal Z. venait d’ailleurs souvent aux entraî
  
 # Rester prudent sur les mots
  
-Pour empêcher que les drames se répètent, il faut également choisir ses mots avec précaution, explique un journaliste marseillais, qui a préféré conserver l'anonymat. _“Ce n’est pas parce qu’ils ne sont pas enfants de chœur qu’on doit en parler avec tant de violence verbale »_ explique-t-il : à force d'entendre résonner à leurs oreilles les mots appremment ludiques de « matchs retours » ou « barbecue », certains peuvent minimiser la portée des crimes qu'ils recouvrent.
+Pour empêcher que les drames se répètent, il faut également choisir ses mots avec précaution, explique un journaliste marseillais, qui a préféré conserver l'anonymat. _“Ce n’est pas parce qu’ils ne sont pas enfants de chœur qu’on doit en parler avec tant de violence verbale »_ explique-t-il : à force d'entendre résonner à leurs oreilles les mots apparemment ludiques de « matchs retours » ou « barbecue », certains peuvent minimiser la portée des crimes qu'ils recouvrent.
 
 LIRE AUSSI : ["Mourir à 18 ans dans les quartiers Nord de Marseille"](https://)
 {: .relance}
