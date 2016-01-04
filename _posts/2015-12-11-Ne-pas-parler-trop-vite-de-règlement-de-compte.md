@@ -11,6 +11,7 @@ author: "Natacha Gorwitz & Juliette Jabkhiro"
 ---
 
 
+
 Les véhicules de gendarmerie entourent une voiture stationnée près du rond point du Canet, en périphérie de Meyreuil, à une trentaine de kilomètres de Marseille. Dimanche 1er novembre, vers 18h, Jean-Daniel R. a été la cible d’un ou plusieurs coups de feu. L’homme “âgé d’une trentaine d’années” a été retrouvé sur le siège conducteur, le “visage en partie défiguré”, a déclaré à [La Provence](http://www.laprovence.com/article/actualites/3651539/meyreuil-assassine-sur-fond-de-vendetta.html) Dominique Moyal, Procureur d’Aix. 
 
 > “On est à côté de Gardane, on est pas loin de Marseille, des cadavres dans des voitures on en a trouvé...C’est tombé là comme ça aurait pu tomber ailleurs ” 
