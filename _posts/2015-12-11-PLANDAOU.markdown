@@ -5,11 +5,12 @@ categorie: articles
 title: "Mourir à 18 ans "
 cover_image: Cover_Mourir_a_18_ans.jpg
 related: 
-  - Avoir 15 ans à la cité des Lauriers
-  - Sortir des quartiers nord
+  - "Avoir 15 ans, cité des Lauriers"
+  - Quitter les quartiers Nord
 author: Mahauld Granier
 twitter: "https://twitter.com/mahauldbecker"
 ---
+
 
 
 Il avait 18 ans. Il est mort par balle le 12 octobre dernier au bas d’une cité sensible du plan d’Aou, dans le 15ème arrondissement de Marseille. 
