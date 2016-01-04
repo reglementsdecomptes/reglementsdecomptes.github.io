@@ -5,10 +5,11 @@ categories: articles
 published: true
 cover_image: Cover_Barbecue.jpg
 related: 
-  - "Identifier un corps calciné : la police scientifique en première ligne"
-  - Sortir des quartiers nord
+  - Identifier des cendres
+  - Quitter les quartiers Nord
 author: Constance Daire
 ---
+
 
 
 Le 30 novembre, une nuit calme, dans ce petit quartier de la Batarelle, au nord du 13ème arrondissement de Marseille, des riverains donnent l’alerte: une voiture incendiée se consume rue de la Gardiette, juste devant la barrière du chemin d’accès au Pic de l’Etoile. Les marins-pompiers sont dépêchés sur place et font la macabre découverte d’un corps étranglé, pieds et poings liés. 
