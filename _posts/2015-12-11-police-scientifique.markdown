@@ -6,7 +6,6 @@ title: Identifier des cendres
 cover_image: Cover_police_scientifique.jpg
 related: 
   - « Barbecue »
-  - Matchs retour en cascade dans les quartiers nords de Marseille
 author: Majda Abdellah
 ---
 
