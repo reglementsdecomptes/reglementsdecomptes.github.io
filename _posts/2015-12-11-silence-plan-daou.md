@@ -6,9 +6,10 @@ title: La loi du silence
 cover_image: Cover_Le_silence.jpg
 related: 
   - « Barbecue »
-  - Quand le démantèlement des réseaux de trafiquants tue
+  - Un effet pervers du démantèlement des trafics
 author: Joséphine Devambez
 ---
+
 
 
 Prolixes lorsqu'il est question de drogue, de chômage ou de déscolarisation des jeunes, les habitants des quartiers Nord de Marseille -- où l'emprise des trafiquants de drogue est forte -- , restent silencieux lorsqu'on les interroge sur des meurtres qui s'apparentent à des règlements de compte. 
