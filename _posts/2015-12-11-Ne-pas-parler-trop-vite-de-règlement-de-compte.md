@@ -1,6 +1,6 @@
 ---
 published: true
-title: Ne pas parler trop vite des règlements de comptes
+title: Le choix des mots
 layout: post
 categorie: articles
 cover_image: Cover_Ne_pas_parler_trop_vite.jpg
