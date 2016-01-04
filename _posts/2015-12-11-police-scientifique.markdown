@@ -11,6 +11,7 @@ author: Majda Abdellah
 ---
 
 
+
 Parmi les modes opératoires prisés dans les règlements de compte marseillais, figure celui de l’incendie. Popularisé sous le terme de « barbecue », il vise à faire disparaître un maximum de traces sur les lieux du crime. Un défi pour la police scientifique en charge de l’identification des victimes calcinées. 
 
 _« C’est toujours pareil, un véhicule incendié est abandonné en rase campagne pour que l’incendie s’éteigne de lui-même et que les cadavres soient complètement dégradés»_, explique Bruno Sera, directeur adjoint du laboratoire de police scientifique de Marseille. Mode opératoire classique à Marseille, utilisé dans plusieurs crimes, à commencer par les règlements de compte. Plus le corps est carbonisé, plus l’identification de la victime s’annonce compliquée. 
