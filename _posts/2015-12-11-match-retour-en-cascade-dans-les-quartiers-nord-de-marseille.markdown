@@ -5,10 +5,11 @@ title: "\"Matchs retour\" en cascade"
 categorie: articles
 cover_image: Cover_Matchs_retour.jpg
 related: 
-  - Mourir à 18 ans dans les quartiers Nord de Marseille
-  - "Marseille : l’approche globale à l'épreuve des faits"
+  - Mourir à 18 ans
+  - Plus de police ≠ moins de crimes
 author: "Laure-Hélène de Vriendt"
 ---
+
 
 
 Il est 16 heures le 14 avril 2014 lorsque Mehdi B. se rend chez son avocat. Le jeune homme de 27 ans conduit une voiture de location quand des hommes cagoulés arrivent à sa hauteur, sur l’autoroute A7, quelques mètres avant la sortie Plombières. Ils tirent sur le véhicule de la victime qui s'arrête en pleine voie. Mehdi B. -- membre d'un réseau de trafic de drogues basé dans la cité des Flammants (14e ardt) -- tente de s’enfuir à pied mais il est tué de plusieurs balles de kalachnikov. 
