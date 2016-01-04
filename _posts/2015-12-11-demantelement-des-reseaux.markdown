@@ -5,8 +5,8 @@ title: Un effet pervers du démantèlement des trafics
 categories: articles
 cover_image: Cover_demantelement_reseaux.jpg
 related: 
-  - "Marseille : l’approche globale à l'épreuve des faits"
-  - Ne pas parler trop vite des règlements de comptes
+  - Plus de police ≠ moins de crimes
+  - Le choix des mots
 author: Megane De Amorim
 ---
 
