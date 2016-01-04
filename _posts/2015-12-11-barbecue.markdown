@@ -4,15 +4,18 @@ title: « Barbecue »
 categories: articles
 published: true
 cover_image: Cover_Barbecue.jpg
-related: ["Identifier un corps calciné : la police scientifique en première ligne","Sortir des quartiers nord"]
+related: 
+  - "Identifier un corps calciné : la police scientifique en première ligne"
+  - Sortir des quartiers nord
 author: Constance Daire
 ---
 
-Le 30 novembre dernier, une nuit calme, dans ce petit quartier de la Batarelle, au nord du 13ème arrondissement de Marseille, des riverains donnent l’alerte: une voiture incendiée se consume rue de la Gardiette, juste devant la barrière du chemin d’accès au Pic de l’Etoile. Les marins-pompiers sont dépêchés sur place, et font la macabre découverte d’un corps étranglé, pieds et poings liés. 
 
-Très vite, on suppose un règlement de compte, avec cette technique caractéristique dite du « barbecue ». Pour la police, cette méthode implique le trafic de stupéfiants; la victime, tuée par balle, est ensuite brûlée dans l’incendie d’un véhicule.  Mais l’enquête en cours n’entérine pas encore cette théorie: « il n’a pas été tué par balle mais étranglé », précise une source de la police judiciaire.
+Le 30 novembre, une nuit calme, dans ce petit quartier de la Batarelle, au nord du 13ème arrondissement de Marseille, des riverains donnent l’alerte: une voiture incendiée se consume rue de la Gardiette, juste devant la barrière du chemin d’accès au Pic de l’Etoile. Les marins-pompiers sont dépêchés sur place et font la macabre découverte d’un corps étranglé, pieds et poings liés. 
 
-Ce cas, le dernier recensé dans la ville n’est pas anecdotique. Depuis le début de la décennie, la police observe une recrudescence de ce genre d’homicides qui ne sont pas sans rappeler la série des années 2000. Est-ce à dire qu’une deuxième vague est lancée, qui nous fera découvrir un nouveau rôtisseur?
+Très vite, on suppose un règlement de compte, à cause de l'emploi de cette technique caractéristique du « barbecue ». Pour la police, elle est synonyme de trafic de stupéfiants : la victime, tuée par balle, est ensuite brûlée dans l’incendie d’un véhicule.  Mais l’enquête en cours n’entérine pas encore cette théorie: « il n’a pas été tué par balle mais étranglé », précise-t-on à la police judiciaire.
+
+Depuis le début de la décennie, la police observe une recrudescence de ce type d’homicides qui font écho une autre série survenue dans les années 2000, dans le sillage d'un criminel baptisé "le rotisseur". A-t-il un successeur ? Une deuxième vague de meurtres est-elle lancée ? 
 
 ![graph2b.jpg]({{site.baseurl}}/img/graph2b.jpg)
 {: .fullwidth .image}
