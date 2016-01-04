@@ -5,10 +5,11 @@ categorie: articles
 title: Quitter les quartiers Nord
 cover_image: Cover_Sortir_des_quartiers.jpg
 related: 
-  - "Le centre-ville de Marseille, une zone de sécurité non prioritaire"
-  - Mourir à 18 ans dans les quartiers Nord de Marseille
+  - "Le centre-ville, zone de sécurité non prioritaire ?"
+  - Mourir à 18 ans
 author: Laurine Benjebria
 ---
+
 
 
 Assassiné dans la nuit du 24 au 25 octobre 2015 au pied d'un immeuble de la cité des Lauriers (13e ardt), Mohamed A., 15 ans, avait pourtant déménagé quatre ans plus tôt à Rennes pour échapper à la violence des quartiers Nord.
