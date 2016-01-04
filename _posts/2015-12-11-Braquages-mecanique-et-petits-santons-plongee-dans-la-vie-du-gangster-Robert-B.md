@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Braquages mécaniques et petits santons : plongée dans la vie du gangster Robert B."
+title: "Cas d'école"
 categories: articles
 published: true
 cover_image: Cover_Braquages_mecaniques.jpg
-related: ["Laver son linge en famille","Matchs retour en cascade dans les quartiers nords de Marseille"]
+related: 
+  - Laver son linge en famille
+  - Matchs retour en cascade dans les quartiers nords de Marseille
 author: Chloé Fiancette
 ---
 
 
-Le 6 août 2015, Robert B est tué par balles (lien vers article Raphaël) dans une avenue commerçante du 12e arrondissement de Marseille. Ce quinquagénaire n’était pas un inconnu des forces de police. Braqueur notoire, il était sorti de prison en 2012 et semblait préparer son prochain coup. Portrait d’une forte tête de la pègre marseillaise.
+
+Le 6 août 2015, Robert B est tué par balles [FAIRE lien vers article Raphaël] dans une avenue commerçante du 12e arrondissement de Marseille. Ce quinquagénaire n’était pas un inconnu des forces de police. Braqueur notoire, il était sorti de prison en 2012 et semblait préparer son prochain coup. Portrait d’une forte tête de la pègre marseillaise.
 
 ![648x415_robert-berengier-croque-pendant-procese-braquage-gentilly-2006.jpg]({{site.baseurl}}/img/648x415_robert-berengier-croque-pendant-procese-braquage-gentilly-2006.jpg)
 {: .fullwidth}
