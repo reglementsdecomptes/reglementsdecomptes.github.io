@@ -5,10 +5,11 @@ categorie: articles
 title: "En plein jour, en pleine ville"
 cover_image: Cover_quartier_beaumont.jpg
 related: 
-  - "Braquages mécaniques et petits santons : plongée dans la vie du gangster Robert B."
-  - Ne pas parler trop vite des règlements de comptes
+  - Vieille école
+  - Le choix des mots
 author: Raphaël Georgy
 ---
+
 
 
 Au beau milieu de l'été, un crime aux allures de règlement de comptes a été commis à Beaumont, un quartier calme du 12ème arrondissement de Marseille. Habitants et élus sont partagés entre confiance et résignation.
