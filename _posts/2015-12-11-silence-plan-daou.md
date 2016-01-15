@@ -2,10 +2,18 @@
 layout: post
 published: true
 categorie: articles
-title: Le silence des quartiers nord
+title: La loi du silence
+cover_image: Cover_Le_silence.jpg
+related: 
+  - « Barbecue »
+  - Un effet pervers du démantèlement des trafics
+author: Joséphine Devambez
 ---
 
-Prolixes sur les problèmes généraux: la drogue, le chômage, la déscolarisation des jeunes, dans les quartiers nord de Marseille, où les trafiquants de drogue exercent une forte emprise, les habitants taisent des meurtres qui ont tout de règlements de compte. Au plan d’Aou, à quelques kilomètres de la Castellane, un [jeune homme de dix-huit ans](http://reglementsdecomptes.github.io/2015/12/11/PLANDAOU.html) est tué par balle au pied d’un immeuble, en fin de matinée le 12 octobre dernier. L’enquête policière se heurte au mutisme de certains voisins. 
+
+
+
+Prolixes lorsqu'il est question de drogue, de chômage ou de déscolarisation des jeunes, les habitants des quartiers Nord de Marseille -- où l'emprise des trafiquants de drogue est forte -- , restent silencieux lorsqu'on les interroge sur des meurtres qui s'apparentent à des règlements de compte. 
 
 ![infographie 1.png]({{site.baseurl}}/img/infographie 1.png)
 {: .fullwidth .image}
@@ -13,9 +21,13 @@ Prolixes sur les problèmes généraux: la drogue, le chômage, la déscolarisat
 Suite aux opérations policières dans la cité de la Castellane, les trafics se déplacent dans les grands ensembles de la Bricarde mais également dans le quartier résidentiel du Plan d’Aou. - **Google Maps 10/12/2015**
 {: .credit}
 
-Aux alentours de onze heures, en fin de matinée, le 12 octobre dernier, la rue Jorgi Reboul de la cité du plan d’Aou, au Nord de Marseille, est calme. Un jeune homme de dix-huit ans y meurt apparemment sans témoins. Seules les balles résonnent, l’une vient se loger dans sa nuque et l’autre dans son bras, puis le silence revient, plus personne ne s’exprime. Pour tout hommage, le mutisme des voisins et la discrétion. Dans les quartiers nord de Marseille, règne une omertà inquiète et solidaire, qui obstrue le travail d’enquête policière et tait les meurtres les plus insensés, expliquent élus et sociologues.
+Aux alentours de onze heures, le 12 octobre, le calme règne dans la rue Jorgi Reboul, dans la cité du plan d’Aou [PRECISER ARRONDISSEMENT], au nord de Marseille. Soudain des balles résonnent : un  [jeune homme de dix-huit ans](http://reglementsdecomptes.github.io/2015/12/11/PLANDAOU.html) est abattu. 
 
-Sur la chaussée, des traces de sang témoignent pourtant d’un dernier appel au secours. Agonisant, le jeune homme a péniblement atteint la porte la plus proche, celle de l’immeuble au crépit orange, à quelques mètres de là. Un homme a ouvert et a appelé les secours. En vain, marins pompiers et Samu tentent de le réanimer mais l’adolescent succombe de ses blessures sur le trajet vers l’hôpital Nord de Marseille. Son cri de détresse, comme l’écho des balles, s’est tu dans les mémoires. “Je n’étais pas là quand c’est arrivé” élude une mère de famille habitant l’immeuble. Prolixes sur les problèmes généraux: la drogue, le chômage, la déscolarisation des jeunes, les voisins se taisent sur les cas personnels: “Tout le monde se connaît dans le quartier. Lui, le mort, non jamais entendu parler” explique un voisin. 
+L'un des projectiles vient se loger dans la nuque. L'autre dans le bras. Puis le silence revient. Nul témoin. Nul hommage. Dans les quartiers Nord, règne une omertà inquiète et solidaire qui obstrue le travail d’enquête policière et tait les meurtres, expliquent élus et sociologues.
+
+Sur la chaussée, des traces de sang témoignent pourtant d’un dernier appel au secours. Agonisant, le jeune homme a péniblement atteint la porte la plus proche, celle de l’immeuble au crépi orange, à quelques mètres de là. Un homme a ouvert et appelé les secours. En vain : marins-pompiers et médecins du Samu ont tenté de ranimer le jeune majeur mais il a succombé à ses blessures, en route vers l’hôpital Nord de Marseille. 
+
+Son cri de détresse, comme le rentissement des balles, s’est perdu dans les mémoires. “Je n’étais pas là quand c’est arrivé”, élude une mère de famille qui habite le même immeuble. "Tout le monde se connaît dans le quartier", ajoute un voicin. Mais "lui, le mort, non jamais entendu parler”. 
  
 ![Infographie 2.png]({{site.baseurl}}/img/Infographie 2.png)
 {: .fullwidth .image}
@@ -23,16 +35,18 @@ Sur la chaussée, des traces de sang témoignent pourtant d’un dernier appel a
 Le 12 octobre, un jeune homme de 18 ans reçoit une ou deux balles dans la rue Jorgi Reboul et trouve refuge dans l’immeuble voisin. **(Google Maps 10/12/2015)**
 {: .credit}
 
-Pour la police, l’affaire est pourtant très localisée et a toutes les caractéristiques d’un règlement de comptes. Le jeune homme né en 1996 avait déjà un casier judiciaire fourni : vols avec effraction, violences volontaires et affaires de stupéfiants. Un profil devenu tristement banal dans un quartier quasiment administré par les trafiquants de narcotiques. La police judiciaire de Marseille tait son identité, deux complices présumés ont déjà été interpellés dans le dossier et les enquêteurs s’apprêterait à localiser et interpeller l’auteur de l’assassinat, selon une source policière. 
+Pour la police, l’affaire -- très localisée -- a tout d'un règlement de comptes. Le jeune homme, né en 1996, avait déjà un casier judiciaire important : vols avec effraction, violences volontaires et affaires de stupéfiants. Un profil tristement banal dans un quartier mis en coupe réglée par les traficants de drogue. Selon une source policière, les enquêteraient seraient sur le point d'apréhender l'auteur du crime dont deux complices présumés ont déjà été interpellés. 
 
-Depuis la maison des jeunes, à quelques mètre de là, on dit également n’avoir rien entendu. “Ce n’était pas moi qui assurait la permanence” explique un animateur, d’un ton expéditif “d’ailleurs, à partir de 17-18 ans, les jeunes ne viennent plus au centre, ils ont pris leur indépendance”. Un silence qui émeut Samia Ghali sénatrice et maire des 15e et 16e arrondissements de Marseille. "C'est quand même la mort violente d'un enfant de 18 ans, mais aucun sentiment ne transparaît. Ces jeunes ne sont même pas rentrés chez eux pour se faire oublier.  Normalement, il y a de l'émotion ! Mais là, rien.” s’indigne-t-elle au micro de France Bleu Provence. 
+A la maison des jeunes, à quelques mètre de la scène du crime, on affirme n’avoir rien entendu. “Ce n’était pas moi qui assurait la permanence”, explique un animateur, sur un ton expéditif. "D’ailleurs, à partir de 17 ou 18 ans, les jeunes ne viennent plus au centre : ils ont pris leur indépendance”. 
 
-La loi du silence qui s’est imposée veut que la vue d’un crime ne produise ni témoignage, ni réaction particulière. Elle permet la mort dans l’indifférence. Pour Marwan Mohammed, cette omertà à la Marseillaise s’impose à partir des années 2000, quand les bandes de caïds renforcent leur emprise sur les quartiers nord en s’associant à ceux que les policiers désignent comme le “milieu traditionnel” de la délinquance marseillaise. Le principal ressort de ce silence serait la peur des représailles, de l’escalade de la violence, des “matchs retour” (vengeances) et des descentes de police. Une peur à relativiser, pour Laurent Muchielli, chercheur à l’observatoire régional de la délinquance et des contextes sociaux, les enquêtes de police prospèrent grâce aux témoignages, rares et très discrets, mais non négligeables. 
+Ce silence émeut Samia Ghali sénatrice et maire PS des 15e et 16e arrondissements de Marseille. "C'est quand même la mort violente d'un enfant de 18 ans, mais aucun sentiment ne transparaît. Ces jeunes ne sont même pas rentrés chez eux pour se faire oublier.  Normalement, il y a de l'émotion ! Mais là, rien.” s’indigne-t-elle, [PEU APRES LES FAITS ?], au micro de France Bleu Provence. 
 
-Mais pour Marwan Mohammed, chercheur en sociologie au CNRS, ces preneurs d’otage des quartiers sensibles imposent un autre type de silence; celui-ci est choisi, valorisé, exercé comme une vertu, un comportement relevant à la fois de la fidélité et l’humilité. Dans une stratégie collective de prévention des “flag”, la solidarité s’illustre dans les alertes familiales et le soutien aux proches. Un “nous” qui repose en réalité davantage sur la ressemblance sociale, la proximité urbaine, les référents symboliques communs, que sur un réseau institutionnalisé, comme pouvait l’être celui des mafias corses et italiennes. 
+La loi du silence a progressivement imposé qu'un crime ne produise ni récation, ni témoignage. Les victimes meurent dans une apprente indifférence. Pour Marwan Mohammed [TITRE: chercheur en sociologie au CNRS, MODE D'INTERVIEW], cette omertà date des années 2000, lorsque les caïds du néo-banditisme de cité ont renforcé leur emprise sur les quartiers nord en s’associant à ceux que les policiers désignent comme le “milieu traditionnel”. Selon lui, le principal ressort du silence, c'est la peur : des représailles, de l’escalade de la violence, des “matchs retour” (vengeances) et ... des descentes de police. 
 
-Mais la clé de compréhension du silence est également à chercher dans la structure socio-économique du quartier. Les analyses sociologiques de la pauvreté pointent l’importance des résistances des populations dominées vis-à-vis des forces de police représentant l’ordre social établi. Cette réaction hostile se structure de fait autour des délinquants locaux et est encouragée par l’insécurité sociale, c’est-à-dire “l’absence de revenus suffisants à la maîtrise de sa propre existence” pour Marwan Mohammed. 
+Pour Laurent Muchielli, chercheur à l’observatoire régional de la délinquance et des contextes sociaux, cette analyse mérite d'être nuancée. Car les enquêtes de police progressent grâce aux témoignages, rares et très discrets, mais non négligeables, souligne-t-il. 
 
-Dans ce contexte, se taire est pour la plupart des habitants une façon de se distancier de la rue déviante, tout en adhérant tacitement à un nouveau cadre de référence: celui de l’ordre narcotique qui structure la vie quotidienne des quartiers en occupant les espaces publics: cages d’escalier, rez-de-chaussée des immeubles. Pour Laurent Muchielli, l’emprise des trafiquants est en réalité bien acceptée par les habitants: ils rendent service, rémunèrent et protègent parfois. La rupture avec les institutions politiques et médiatiques, elle, est certaine. Dans le climat de défiance vis-à-vis des institutions centrales, des forces de l’ordre, de la justice pénale et des médias, auprès de qui s’insurger? Aux yeux de qui manifester l’injustice et l’immoralité? Dans l’intimidation générale et la rupture avec l’ordre social national, les morts sont silencieuses. 
+Selon Marwan Mohammed, dans les quartoires Nord, le silence est également élevé au rang de vertu morale. C'est un comportement relevant à la fois de la fidélité et l’humilité. Dans une stratégie collective de prévention des “flag”, la solidarité s’illustre dans les alertes familiales et le soutien aux proches, expique-til. Ce crée ainsi un “nous” qui repose davantage sur la ressemblance sociale, la proximité urbaine, les référents symboliques communs, que sur un réseau institutionnalisé, comme pouvait l’être celui des mafias corses et italiennes, ajoute-t-il. 
 
-**Joséphine Devambez**
+Mais la clé de compréhension du silence est également à chercher dans la structure socio-économique du quartier [SOURCE]. Les analyses sociologiques de la pauvreté soulignent l’importance de la résistance présumée des populations qui se considèrent comme dominées par rapport aux forces de police, représentant elle l’ordre social établi. L’insécurité sociale, c’est-à-dire “l’absence de revenus suffisants à la maîtrise de sa propre existence”, encourage une forme de soutien implicite aux délinquants locaux, explique Marwan Mohammed [AI-JE BIEN COMPRIS CE QUE TU VOULAIS DIRE ?]
+
+Pour Laurent Muchielli, l’emprise des trafiquants finie par être acceptée des habitants: ils rendent service, rémunèrent et protègent parfois. Dans un climat de défiance vis-à-vis des institutions centrales -- forces de l’ordre, justice pénale, médias -- et l'intimidation générale, la mort se donne ainsi en silence.

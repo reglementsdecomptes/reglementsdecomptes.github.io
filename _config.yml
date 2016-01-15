@@ -1,12 +1,12 @@
 # Site settings
 title: Règlements de comptes à Marseille
 email: 
-description: > # this means to ignore newlines until "baseurl:"
-  Retour sur les cas survenus en 2015 par les étudiants de l'Ecole de Journalisme de Sciences Po.
+description: Retour sur les cas survenus en 2015 par les étudiants de l'Ecole de Journalisme de Sciences Po.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://reglementsdecomptes.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  reglementsdecomptes
+excerpt_separator: ""
 
 defaults:
   -

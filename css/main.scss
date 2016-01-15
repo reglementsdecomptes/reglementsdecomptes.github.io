@@ -5,8 +5,11 @@
 
 // Our variables
 
-$black : #2f302a;
-$white : #F8F9F5;
+//$black : #2f302a;
+$black : #000000;
+$white:#EFEFEA;
+$pure-white:#FFFFFF;
+//$white : #F8F9F5;
 $blue : #6fc0bb;
 
 
@@ -17,7 +20,7 @@ $small-font-size:  $base-font-size * 0.75;
 $base-line-height: 1.6;
 
 $spacing-unit:     2.5rem;
-$width: 70%;
+$width: 75%;
 $margin: 100% - $width;
 
 $text-color:       $black;
@@ -25,13 +28,18 @@ $background-color: $white;
 $brand-color:      $blue;
 
 $grey-color:       mix($white,$black,50%);
-$grey-color-light: mix($white,$black,70%);
+$grey-color-light-4: mix($white,$black,50%);
+$grey-color-light-3: mix($white,$black,75%);
+$grey-color-light-2: mix($white,$black,92%);
+$grey-color-light-1: mix($white,$black,95%);
 $grey-color-dark:  mix($white,$black,30%);
 
 $on-iphone:		320px;
 $on-android:	360px;
 $on-palm:		600px;
-$on-laptop:		1200px;
+$on-tablet-vertical:   768px;
+$on-tablet-horizontal:   960px;
+$on-laptop:		1024px;
 
 
 
