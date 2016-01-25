@@ -3,7 +3,7 @@ published: true
 title: "Le quartier de l’Opéra, un quartier populaire loin des fantasmes"
 categorie: articles
 layout: post
-cover_image: Cover_Vendetta.jpg
+cover_image: "Capture d’écran 2015-12-13 à 23.02.15.png"
 related: 
   - La loi du silence
   - Quitter les quartiers Nord
