@@ -1,9 +1,15 @@
 ---
-published: false
+published: true
 title: article claire
 categorie: articles
 layout: post
+cover_image: Cover_Vendetta.jpg
+related: 
+  - La loi du silence
+  - Quitter les quartiers Nord
+author: Claire Courbet
 ---
+
 
 Chapo
 
@@ -25,4 +31,3 @@ Crédit de la citation
 {: .credit}
 
 **Claire Courbet**
-
