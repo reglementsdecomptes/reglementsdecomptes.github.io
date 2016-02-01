@@ -11,7 +11,6 @@ author: Raphaël Georgy
 ---
 
 
-
 Au beau milieu de l'été, un crime aux allures de règlement de comptes a été commis à Beaumont, un quartier calme du 12ème arrondissement de Marseille. Habitants et élus sont partagés entre confiance et résignation.
 
 Les clients font la queue devant la boulangerie. La petite terrasse aux murs jaunis du « Rotonde Bar » est à moitié remplie et le soleil est déjà haut dans le ciel sans nuages de Marseille, raconte Sylvie, qui a assisté à la scène et accepté de la raconter, sous couvert de l'anonymat, par téléphone. 
