@@ -10,6 +10,7 @@ related:
 author: Megane De Amorim
 ---
 
+
 Abdallah A. a été assassiné le 19 juin, au pied d'un immeuble des quartiers Nord. Sa mort intervient un mois après le démantèlement d'un trafic de stupéfiants dans une cité voisine qui a entraîné une guerre de territoires dont il a pu être la victime, selon une source policière.
 
 ![Cite-des-Bleuets.png]({{site.baseurl}}/img/Cite-des-Bleuets.png)
@@ -17,7 +18,7 @@ Abdallah A. a été assassiné le 19 juin, au pied d'un immeuble des quartiers N
 Avenue Saint-Paul, Cité des Bleuets, Marseille (Google)
 {: .credit}
 
-Sous un porche de la cité des Bleuets (xx ardt), Abdallah A. reçoit une première balle. Il est environ 23H00. Mais en ce 19 juin, deuxième jour de ramadan, des enfants jouent encore dans le petit square, au bas des tours. 
+Sous un porche de la cité des Bleuets (13ème ardt), Abdallah A. reçoit une première balle. Il est environ 23H00. Mais en ce 19 juin, deuxième jour de ramadan, des enfants jouent encore dans le petit square, au bas des tours. 
 
 D’après _La Provence_, le tireur est seul et cagoulé. Abdallah, blessé, reçoit deux autres balles avant d’atteindre la porte d’un appartement. Il se réfugie chez un voisin, qui l'emmène à l’hôpital militaire Alphonse Laveran. Mais il ne survit pas à ses blessures. Il meurt à 1H00 du matin.
 
