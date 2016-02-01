@@ -13,6 +13,7 @@ author: "Laure-Hélène de Vriendt"
 
 
 
+
 Il est 16 heures le 14 avril 2014 lorsque Mehdi B. se rend chez son avocat. Le jeune homme de 27 ans conduit une voiture de location quand des hommes cagoulés arrivent à sa hauteur, sur l’autoroute A7, quelques mètres avant la sortie Plombières. Ils tirent sur le véhicule de la victime qui s'arrête en pleine voie. Mehdi B. -- membre d'un réseau de trafic de drogues basé dans la cité des Flammants (14e ardt) -- tente de s’enfuir à pied mais il est tué de plusieurs balles de kalachnikov. 
 
 Le 18 juillet 2014, alors qu’il circule sur son scooter aux abords du rond-point de Sainte Marthe (14e ardt), Zakary R. est renversé par une voiture. Il tombe de son véhicule, tente de prendre la fuite à pied mais n’a pas le temps d’aller très loin. Le jeune homme de 24 ans -- membre d'un réseau de trafic de drogues basé dans la cité Font-Vert (14e ardt, également) -- est tué par une quarantaine de balles de Kalachnikov. 
@@ -27,7 +28,7 @@ Le quartier, pourtant réputé calme, est le théâtre d'un nouveau règlement d
 
 L’expression de “match retour” qualifie des homicides qui prennent la forme d'une vengeance destinée à répondre, plus ou moins directement, à un meurtre ayant eu lieu précédemment. 
 
-Dans le cas de Zakary R. le “match retour” a eu lieu trois mois après les faits. Mais il s’écoule parfois plus de temps avant que la vengeance ne se manifeste. Romain Capdepon [OFF/ON, PEUT-IL ETRE CITE PAR SON NOM ?], reporter Police et Justice au quotidien La Provence rappelle que certains règlements de comptes et les “match retour” qui les suivent s’échelonnent parfois sur plusieurs années. 
+Dans le cas de Zakary R. le “match retour” a eu lieu trois mois après les faits. Mais il s’écoule parfois plus de temps avant que la vengeance ne se manifeste. Romain Capdepon [OFF/ON, PEUT-IL ETRE CITE PAR SON NOM ? Oui il peut], reporter Police et Justice au quotidien La Provence rappelle que certains règlements de comptes et les “match retour” qui les suivent s’échelonnent parfois sur plusieurs années. 
 
 ![]({{site.baseurl}}/img/Infographie%201%20(4).jpeg)
 {: .fullwidth}
@@ -45,11 +46,11 @@ Stéphane Quéré, expert en criminologie explique, ajoute dans un entretien té
 **Stéphane Quéré** - expert en criminologie 
 {: .credit}
  
-Dans le cas du “drive by shooting” [DONNER UNE DEFINITION] le lien est encore plus difficile à établir car les personnes ne sont pas visées en tant qu’individus mais parce qu’elles représentent le clan rival ou parce qu’elles sont sur le territoire de ce clan, sans lien obligatoire avec celui-ci.
+Dans le cas du “drive by shooting” (qui consiste à tirer sur un groupe de personnes alors que le véhicule est en déplacement) le lien est encore plus difficile à établir car les personnes ne sont pas visées en tant qu’individus mais parce qu’elles représentent le clan rival ou parce qu’elles sont sur le territoire de ce clan, sans lien obligatoire avec celui-ci.
  
 # Un long travail de recherche pour la police
  
-Lorsqu’un homicide est commis dans le milieu criminel les policiers essaient donc d'évaluer rapidement quelles sont les forces en présence et ce qui les relient, afin d’anticiper d'où viendra le coup d’après [SOURCE, QUI DIT CA ?]. Mais les rivalités s’entremêlent, ce qui complique le travail des enquêteurs.
+D'après Stéphane Quéré, lorsqu’un homicide est commis dans le milieu criminel les policiers essaient d'évaluer rapidement quelles sont les forces en présence et ce qui les relient, afin d’anticiper d'où viendra le coup d’après. Mais les rivalités s’entremêlent, ce qui complique le travail des enquêteurs.
  
 _“C’est un vrai travail de renseignement criminel qui est parfois méprisé. Parfois les équipes des clans changent, parfois des hypothèses sont tirées un peu rapidement car on ne connaît pas les spécificités actuelles du clan”,_ explique Stéphane Quéré.
  
