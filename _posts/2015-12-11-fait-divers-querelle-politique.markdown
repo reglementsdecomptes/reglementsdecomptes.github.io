@@ -18,9 +18,9 @@ author: Marine Giraud
 C’est presque en homme ordinaire que Bernard F. se rend, mardi 19 mai, un peu avant 8h30, au service des Sports de la ville de Marseille. Il y travaille comme coursier depuis près de trente ans. 
 
 ![Extrait-video-afp-bernard-fischetti.png]({{site.baseurl}}/img/Extrait-video-afp-bernard-fischetti.png)
-{ .fullwidth .image}
+{: .fullwidth .image}
 Capture d'écran - vidéo AFP
-{.credit}
+{: .credit}
 
 Arrivé devant le bâtiment, ses viennoiseries à la main, un homme casqué lui tire plusieurs balles dans la tête et le thorax, avant de s'enfuir à moto avec un complice. Les balles proviennent d’un revolver de calibre .357 Magnum, précise une source policière.
 
