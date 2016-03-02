@@ -13,7 +13,7 @@ author: Claire Courbet
 
 
 
-Le 13 septembre 2015, à proximité de l’Opéra, Laszlo [INITIALE DU NOM DE FAMILLE], un videur hongrois du O’Stop Bar tombe sous les balles d’une kalashnikov . Un choc dans ce quartier hétérogène du centre de Marseille, tranquille le jour, plus ombrageux la nuit. 
+Le 13 septembre 2015, à proximité de l’Opéra, Laszlo [INITIALE DU NOM DE FAMILLE], un videur hongrois du O’Stop Bar tombe sous les balles d’une kalashnikov . Un choc dans ce quartier hétéroclite du centre de Marseille, tranquille le jour, plus ombrageux la nuit. 
 
 « Le O’Stop c’est le bar dans lequel on va le midi manger un oeuf mayo’ ou un sandwich boulettes le soir », raconte une commerçante du quartier de l’Opéra qui a souhaité garder l’anonymat. « C’est tombé sur ce café là comme ça aurait pu tomber sur un autre », ajoute-t-elle. 
 
@@ -34,7 +34,11 @@ La mairie a tout de même renforcé les patrouilles et contrôles de police pour
 
 Bastien y habite et le décrit comme un "quartier branché et vivant où se mêlent boutiques de luxe, petits commerces, lieux culturels et où vivent des personnes aisées et d’autre, plus modestes”. Le Marseillais apprécie son quartier à l'esthétique singulière : “Il ne faut pas confondre beauté et aseptisation, ce quartier est beau avec ses imperfections et sa diversité, c’est comme un tableau qui regorge de détails, de loin ça paraît peut-être un peu flou mais c’est ça qui fait sa beauté”. 
 
-Le quartier a été construit au XVIIe siècle lors de l’agrandissement de la ville. Il a d’abord été habité par des bourgeois puis s’est popularisé pour devenir un quartier hétéroclite. Sa réputation de quartier festif s’est forgé au fil des siècles.  “Des bars et des maisons de jeu ouvrent dès la moitié du XIXe. C’est aussi là que les membres de réseaux criminels venaient récupérer l’argent du jeu et de la drogue, aujourd’hui c’est un endroit où les personnes aisées comme les plus populaires habitent, explique Cécile Regnard, Maître de Conférences en histoire contemporaine à l’Université d’Aix-Marseille. “C’est aussi un quartier qui se situe près de l’Hôtel de ville, autour duquel la prostitution s’est développée. Elle a été encadrée en 1863, n’a pas cessée mais est devenue clandestine”, ajoute-t-elle. Encore aujourd’hui le quartier semble toujours touché par ce fléau. Neuf bars à hôtesses ont été fermés en fin d’année, rapporte La Provence, pour des faits de proxénétisme. 
+Le quartier a été construit au XVIIe siècle lors de l’agrandissement de la ville, explique Cécile Regnard, Maître de Conférences en histoire contemporaine à l’Université d’Aix-Marseille. Il a d’abord été habité par des bourgeois puis s’est devenu plus populaire. 
+
+Sa réputation de quartier festif s’est forgé au fil des siècles.  “Des bars et des maisons de jeu ouvrent dès la moitié du XIXe. C’est aussi là que les membres de réseaux criminels venaient récupérer l’argent du jeu et de la drogue, aujourd’hui c’est un endroit où les personnes aisées comme les plus populaires habitent, précise Mme Regnard. 
+
+“C’est aussi un quartier qui se situe près de l’Hôtel de ville, autour duquel la prostitution s’est développée. Elle a été encadrée en 1863, n’a pas cessée mais est devenue clandestine”, ajoute-t-elle. Encore aujourd’hui le quartier semble toujours touché par ce fléau. Neuf bars à hôtesses ont été fermés en fin d’année, rapporte _La Provence_, pour des faits de proxénétisme. 
 
 
 
