@@ -16,20 +16,21 @@ twitter: "https://twitter.com/JustineBarraud"
 
 
 
+
 Dimanche 13 septembre, une [fusillade](http://www.lemonde.fr/police-justice/article/2015/09/13/une-fusillade-en-plein-c-ur-de-marseille-fait-un-mort-et-six-blesses_4755203_1653578.html) a éclaté à 6H00 du matin, suite à un différend survenu un peu plus tôt dans la nuit devant un bar du centre de Marseille, en face de l'Opéra. Un homme est mort et cinq autres ont été blessés.
 
 Selon l'AFP, ce n’est pas un cas isolé dans ce quartier situé à deux pas du Vieux-Port : deux ans auparavant, trois hommes avaient été blessés par des tirs de Kalachnikov. A l'époque, l'enquête avait également révélé que tout était parti d'un différend entre deux groupes.
 
 ##  Quartier de l’Opéra, un quartier à risque
 
-> Le quartier de l’Opéra, c’est un quartier de nuit, situé à l’hyper centre de Marseille. Il y a beaucoup de monde qui fréquente les commerces et les boites de nuit, donc c’est un quartier à risque." 
+> Le quartier de l’Opéra, c’est un quartier de nuit, situé à l’hyper centre de Marseille. Il y a beaucoup de monde qui fréquente les commerces et les boites de nuit, donc c’est un quartier à risque. 
 
 Guy Nicolaï, adjoint délégué à la sécurité de la mairie du 1er arrondissement de Marseille
 {: .credit}
 
-Depuis cette [PREMIERE/DERNIERE ?] fusillade, _"un sentiment d’insécurité, de tristesse et de peur s’est installé parmi les commerçants",_ témoigne NOM, adjoint délégué à la sécurité : _"on essaie de les tranquilliser avec les mesures prises pour sécuriser le secteur. Le nombre de policiers n’a cependant pas été augmenté. Il y a beaucoup de patrouilles à pied, des brigades VTT, mais finalement comme ailleurs."_
+Depuis cette dernière fusillade, <<un sentiment d’insécurité, de tristesse et de peur s’est installé parmi les commerçants>>, témoigne Guy Nicolaï, adjoint délégué à la sécurité : <<on essaie de les tranquilliser avec les mesures prises pour sécuriser le secteur. Le nombre de policiers n’a cependant pas été augmenté. Il y a beaucoup de patrouilles à pied, des brigades VTT, mais finalement comme ailleurs.>>
 
-Même son de cloche pour le président du Comité inter-quartier (CIQ) des habitants de l’Opéra, François Borgia : _"Le quartier de l’Opéra, c’est le jour et la nuit. La journée, l’Opéra vit tranquillement autour de ses restaurants et brasseries. Avec les boites de nuit, ce sont souvent des bandes d’autres quartiers qui viennent faire la fête",_ explique-t-il. Entre les débordements dû à l’alcool et les cas plus extrême, comme la fusillade du 13 septembre, le CIQ Bourse/Opéra a demandé l’augmentation des patrouilles de nuit. 
+Même son de cloche pour le président du Comité inter-quartier (CIQ) des habitants de l’Opéra, François Borgia : <<Le quartier de l’Opéra, c’est le jour et la nuit. La journée, l’Opéra vit tranquillement autour de ses restaurants et brasseries. Avec les boites de nuit, ce sont souvent des bandes d’autres quartiers qui viennent faire la fête>>, explique-t-il. Entre les débordements dû à l’alcool et les cas plus extrême, comme la fusillade du 13 septembre, le CIQ Bourse/Opéra a demandé l’augmentation des patrouilles de nuit. 
 
 ## La division Centre: un secteur restreint
 
