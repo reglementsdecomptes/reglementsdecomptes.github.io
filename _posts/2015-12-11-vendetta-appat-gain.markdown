@@ -11,6 +11,7 @@ author: "Louis Baudoin-Laarman"
 ---
 
 
+
 Nasseri M., 27 ans, Jimmy I., 29 ans, morts par balles à bord de leur voiture à Saint Jérôme (13 ardt) en 2012. Mohamed A., 15 ans, Kamal Z., 23 ans, et Adelmalik A., [AGE DU TROISIEME INDIVIDU], tués au pistolet automatique devant leur domicile, dans la cité voisine des Lauriers (13 ardt), en octobre 2015. Mohamed M. [AGES] et Anthony C. [AGES], abattus dans une embuscade sous le tunnel du Prado-Carénage, en novembre 2015.
 
 Trois cas  officiellement isolés les uns des autres. Et pourtant, liés par les lieux, les acteurs et les véhicules employés. Les victimes se connaissaient également. Et dans le cas de Nasseri et Mohamed M., elles étaient membres d'une même même famille. 
@@ -38,7 +39,7 @@ Selon cette même source cependant, il ne faut pas avoir une conception trop che
 Mos Def - Black on Both Sides (1999)
 {: .credit}
 
-À l’honneur de la famille s’ajoute l’honneur personnel, indispensable dans une économie où chaque preuve de faiblesses pousse à la violence des adversaires toujours avides d'une grande part du juteux trafic. Cette perpétuelle quête de légitimité, et d'autorité, le sociologue Thomas Sauvadet l’appelle le capital guerrier, tandis ce que les anglo-Saxons parlent de "street credibility". 
+À l’honneur de la famille s’ajoute l’honneur personnel, indispensable dans une économie où chaque preuve de faiblesses pousse à la violence des adversaires toujours avides d'une grande part du juteux trafic. Cette perpétuelle quête de légitimité, et d'autorité, le sociologue Thomas Sauvadet l’appelle le capital guerrier, tandis ce que les anglo-saxons parlent de "street credibility". 
 
 La culture hip-hop anglo-saxonne regorge elle aussi de références à ce code de l’honneur. L’album Black on Both Sides de Mos Def (1999), en est un exemple. “Je suis le code de l’honneur comme le ferait n’importe quel vrai homme. Je ne manque jamais de respect aux femme car j’aime ma mère”, rappe l’Américain de Boston dans la chanson “Know That”. 
 
