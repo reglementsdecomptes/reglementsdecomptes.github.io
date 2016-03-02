@@ -14,6 +14,7 @@ author: Raphaël Goument
 
 
 
+
 Le tunnel du Prado est un point de passage obligé pour nombre de Marseillais. Dans la nuit du lundi 9 au mardi 10 novembre, il est le théâtre d'une scène de guerre d’une rare violence, immortalisée par les caméras de surveillance.
 
 Kalachnikov, grosses voitures, douilles par dizaines : tous les ingrédients d'un bon film d'action. Pour ajouter au drame, deux frères occupent le centre de la scène. Ils illustrent une caractéristique fréquente des règlements de compte : le choc entre liens de sang et criminalité. 
@@ -28,7 +29,7 @@ Causant la mort de trois jeunes hommes, cette expédition punitive aurait été 
 
 La dimension familiale du litige saute aux yeux, avec trois individus d’une même fratrie impliqués dans une série de vengeances sanguinaires. Un seul est encore vivant. 
 
-Les frères Hornec, les frères Jourdain : les exemples passés à la postérité criminelle ne manquent pas. Et, avec ses règlements de compte, Marseille ne déroge pas à la règle : à l’image du cas emblématique des frères Nicolas et François B. : réputés impitoyables [DATE DE CES AFFAIRES]. Originaires de la cité des Cèdres, assassinats, rapts et trafics rythment leurs journées. 
+Les frères Hornec dans les années 1990, les frères Jourdain en 1997 : les exemples passés à la postérité criminelle ne manquent pas. Et, avec ses règlements de compte, Marseille ne déroge pas à la règle : à l’image du cas emblématique des frères Nicolas et François B. : réputés impitoyables. Originaires de la cité des Cèdres, assassinats, rapts et trafics rythment leurs journées. 
 
 ![fiche Nicolas B.png]({{site.baseurl}}/img/fiche Nicolas B.png)
 ![fiche François B.png]({{site.baseurl}}/img/fiche François B.png)
@@ -42,7 +43,7 @@ Les implications familiales pourraient ainsi expliquer en partie les engrenages 
 
 La famille peut-elle devenir un outil pour lutter contre la criminalité ? Ou mieux la comprendre. Scott Decker, criminologue américain de l’université Arizona State, s’est penché sur les logiques d’incitation familiale. Il en ressort que 80% des jeunes délinquants étudiés n’ont jamais eu de parent dans les gangs. En revanche, près de la moitié d’entre eux ont un grand frère déjà impliqué dans la criminalité. 
 
-L’influence de ces « guides informels » [SOURCE ?] est réelle et doit être mieux comprise, sinon les fratries continueront de peupler, coude-à-coude, les bancs des tribunaux comme Adbelatif et Mohamed, deux frères accusés avec un troisième homme d'un triple homicide [DATE].
+L’influence de ces « guides informels » (Marwan Mohammed, _La formation des bandes_, PUF) est réelle et doit être mieux comprise, sinon les fratries continueront de peupler, coude-à-coude, les bancs des tribunaux comme Adbelatif et Mohamed, deux frères accusés avec un troisième homme d'un triple homicide au soir de Noël 2011.
  
 
 ![fiche Mohamed L.png]({{site.baseurl}}/img/fiche Mohamed L.png)
