@@ -39,7 +39,7 @@ Bastien y habite et le décrit lui comme un "quartier branché et vivant où se 
 
 Le quartier a été construit au XVIIe siècle lors de l’agrandissement de la ville, explique Cécile Regnard, maître de Conférences en histoire contemporaine à l’Université d’Aix-Marseille. Il a d’abord été habité par des bourgeois puis s’est devenu plus populaire. 
 
-Sa réputation de quartier festif s’est forgée au fil des siècles.  “Des bars et des maisons de jeu ouvrent dès la moitié du XIXe. C’est aussi là que les membres de réseaux criminels venaient récupérer l’argent du jeu et de la drogue, aujourd’hui c’est un endroit où les personnes aisées comme les plus populaires habitent, précise Mme Regnard. 
+Sa réputation de quartier festif s’est forgée au fil des siècles.  “Des bars et des maisons de jeu ouvrent dès la moitié du XIXe. C’est aussi là que les membres de réseaux criminels venaient récupérer l’argent du jeu et de la drogue, aujourd’hui c’est un endroit où les personnes aisées comme les plus populaires habitent", précise Mme Regnard. 
 
 “C’est aussi un quartier qui se situe près de l’hôtel de ville, autour duquel la prostitution s’est développée. Elle a été encadrée en 1863, n’a pas cessée mais est devenue clandestine”, ajoute-t-elle. Encore aujourd’hui le quartier semble toujours touché par ce fléau. Neuf bars à hôtesses ont été fermés en fin d’année, rapporte _La Provence_, pour des faits de proxénétisme. 
 
