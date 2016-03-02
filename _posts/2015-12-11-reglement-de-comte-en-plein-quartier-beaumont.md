@@ -11,9 +11,10 @@ author: Raphaël Georgy
 ---
 
 
+
 Au beau milieu de l'été, un crime aux allures de règlement de comptes a été commis à Beaumont, un quartier calme du 12ème arrondissement de Marseille. Habitants et élus sont partagés entre confiance et résignation.
 
-Les clients font la queue devant la boulangerie. La petite terrasse aux murs jaunis du « Rotonde Bar » est à moitié remplie et le soleil est déjà haut dans le ciel sans nuages de Marseille, raconte Sylvie, qui a assisté à la scène et accepté de la raconter, sous couvert de l'anonymat, par téléphone. 
+Les clients font la queue devant la boulangerie. La petite terrasse aux murs jaunis du « Rotonde Bar » est à moitié remplie et le soleil est déjà haut dans le ciel sans nuages de Marseille, raconte Sylvie, qui a assisté à la scène et accepté de la raconter par téléphone, sous couvert de l'anonymat. 
 
 Ce devait être une journée splendide. Vers 9 heures, jeudi 6 août 2015, deux hommes à moto s’arrêtent près du bar, avenue du 24 avril 1915, une zone pavillonnaire de l'est marseillais. L’un attend reste sur sa moto, l’autre descend. Il porte une perruque et fait des allers et retours entre le bar et la terrasse.
 
