@@ -30,7 +30,9 @@ On peut même y retrouver des hommes politiques. Gil Nicholaï, adjoint à la ma
 
 « Le quartier n’est pas particulièrement sujet à la délinquance, selon lui. Il l’est moins que certains quartiers du nord de la ville ou que le quartier de Noailles, situé à proximité ». 
 
-La mairie a tout de même renforcé les patrouilles et contrôles de police pour répondre à l’inquiétude des habitants qui ont déjà été confronté à un événement semblable deux ans plus tôt. Le quartier avait en effet été l’objet d’une autre fusillade en 2013, trois hommes avaient été blessés suite à un différend. Hervé lui-même a été agressé dans ce quartier il y a une quinzaine d’année. Pourtant, il ne considère pas le quartier n’est pas considéré comme sensible ou dangereux, comme d’autres habitants. 
+La mairie a tout de même renforcé les patrouilles et contrôles de police pour répondre à l’inquiétude des habitants qui ont déjà été confronté à un événement semblable deux ans plus tôt. 
+
+En 2013, le quartier avait  été l’objet d’une autre fusillade : trois hommes avaient été blessés suite à un différend. Hervé lui-même a été agressé dans ce quartier il y a une quinzaine d’année. Pourtant, il ne considère pas le quartier n’est pas considéré comme sensible ou dangereux, comme d’autres habitants. 
 
 Bastien y habite et le décrit comme un "quartier branché et vivant où se mêlent boutiques de luxe, petits commerces, lieux culturels et où vivent des personnes aisées et d’autre, plus modestes”. Le Marseillais apprécie son quartier à l'esthétique singulière : “Il ne faut pas confondre beauté et aseptisation, ce quartier est beau avec ses imperfections et sa diversité, c’est comme un tableau qui regorge de détails, de loin ça paraît peut-être un peu flou mais c’est ça qui fait sa beauté”. 
 
