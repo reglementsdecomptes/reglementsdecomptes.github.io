@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Le centre-ville, zone de sécurité non prioritaire ?"
+title: "Zone de sécurité non prioritaire ?"
 categorie: articles
 cover_image: Cover_zone_non_prioritaire.jpg
 related: 
@@ -10,6 +10,7 @@ related:
 author: Justine Barraud
 twitter: "https://twitter.com/JustineBarraud"
 ---
+
 
 
 
