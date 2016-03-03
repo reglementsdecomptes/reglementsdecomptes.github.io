@@ -10,21 +10,21 @@ related:
 author: Claire Courbet
 ---
 
+
 **Le 13 septembre 2015, à proximité de l’Opéra, Laszlo T., un videur hongrois du O’Stop Bar tombe sous les balles d’une kalashnikov . Un choc dans ce quartier hétéroclite du centre de Marseille, tranquille le jour, ombrageux la nuit.**
 
 «Le O’Stop c’est le bar dans lequel on va le midi manger un oeuf mayo’ ou un sandwich boulettes le soir», raconte une commerçante du quartier de l’Opéra qui a souhaité garder l’anonymat. «C’est tombé sur ce café là comme ça aurait pu tomber sur un autre», ajoute-t-elle. 
 
 Le restaurant est connu pour être l’un des rares établissements de la ville à être ouvert sans interruption. «24h/24H» lit-on en lettres dorées sur l’auvent bordeaux du restaurant situé face au parvis de l'Opéra.
 
-Visuel plein écran!![]({{site.baseurl}}/_posts/ostop.img)
-![ostop.img]({{site.baseurl}}/_posts/ostop.img)
-{: .fullwidth}
+![]({{site.baseurl}}/img/ostop.img)
+{: .fullwidth .image}
+
 
 Les fêtards s’y retrouvent après une soirée dans les discothèques des alentours à l’image d’Hervé qui a fréquenté le lieu de nombreuses années : «C’est un endroit où se rejoignent ceux qui appartiennent au monde de la nuit parce que c’est l’un des rares lieux où on peut manger chaud vers 5h ou 6h du matin. Le restaurant est un peu moins cher que le Mas [autre restaurant marseillais ouvert la nuit], alors la clientèle y est plus diverse : il y a des personnes aisées, d’autres qui ont des situations précaires, des amateurs d’Opéra qui veulent grignoter un morceau après une représentation et des jeunes qui souhaitent manger quelque chose après une soirée en discothèque». 
 
-Image plein écran avec crédit ![]({{site.baseurl}}/_posts/opera.img)
+[]({{site.baseurl}}/img/opera.img)
 {: .fullwidth .image}
-Google Street View![opera.img]({{site.baseurl}}/_posts/opera.img)
 
 {: .credit}
 
