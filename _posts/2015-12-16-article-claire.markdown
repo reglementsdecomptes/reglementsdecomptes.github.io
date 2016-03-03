@@ -16,11 +16,15 @@ author: Claire Courbet
 
 Le restaurant est connu pour être l’un des rares établissements de la ville à être ouvert sans interruption. «24h/24H» lit-on en lettres dorées sur l’auvent bordeaux du restaurant situé face au parvis de l'Opéra.
 
+Visuel plein écran!![]({{site.baseurl}}/_posts/ostop.img)
+{: .fullwidth}
+
 Les fêtards s’y retrouvent après une soirée dans les discothèques des alentours à l’image d’Hervé qui a fréquenté le lieu de nombreuses années : «C’est un endroit où se rejoignent ceux qui appartiennent au monde de la nuit parce que c’est l’un des rares lieux où on peut manger chaud vers 5h ou 6h du matin. Le restaurant est un peu moins cher que le Mas [autre restaurant marseillais ouvert la nuit], alors la clientèle y est plus diverse : il y a des personnes aisées, d’autres qui ont des situations précaires, des amateurs d’Opéra qui veulent grignoter un morceau après une représentation et des jeunes qui souhaitent manger quelque chose après une soirée en discothèque». 
 
-![Capture d’écran 2015-12-13 à 23.02.15.png]({{site.baseurl}}/img/Capture d’écran 2015-12-13 à 23.02.15.png)
+Image plein écran avec crédit ![]({{site.baseurl}}/_posts/opera.img)
 {: .fullwidth .image}
-Google street view
+Google Street View![opera.img]({{site.baseurl}}/_posts/opera.img)
+
 {: .credit}
 
 On peut même y retrouver des hommes politiques. Gil Nicholaï, adjoint à la mairie du 1er arrondissement chargé de la sécurité dit s'y rendre de temps en temps. L’élu connaît bien le bar mais aussi le quartier fréquenté par des personnes aux niveaux de vie variés.
