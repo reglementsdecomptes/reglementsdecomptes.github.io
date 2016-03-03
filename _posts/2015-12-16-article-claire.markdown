@@ -31,6 +31,8 @@ La mairie a tout de même renforcé les patrouilles et contrôles de police pour
 
 En 2013, le quartier avait  été le théâtre d’une autre fusillade : trois hommes avaient été blessés suite à un différend. Hervé lui-même a été agressé dans ce quartier il y a une quinzaine d’année. Pourtant, il ne considère pas le quartier comme sensible ou dangereux. 
 
+>Citation «Il ne faut pas confondre beauté et aseptisation, ce quartier est beau avec ses imperfections et sa diversité, c’est comme un tableau qui regorge de détails»
+
 Bastien y habite et le décrit lui comme un «quartier branché et vivant où se mêlent boutiques de luxe, petits commerces, lieux culturels et où vivent des personnes aisées et d’autre, plus modestes». Marseillais, il apprécie son quartier à l'esthétique singulière : «Il ne faut pas confondre beauté et aseptisation, ce quartier est beau avec ses imperfections et sa diversité, c’est comme un tableau qui regorge de détails, de loin ça paraît peut-être un peu flou mais c’est ça qui fait sa beauté». 
 
 Le quartier a été construit au XVIIe siècle lors de l’agrandissement de la ville, explique Cécile Regnard, maître de Conférences en histoire contemporaine à l’Université d’Aix-Marseille. Il a d’abord été habité par des bourgeois puis s’est devenu plus populaire. 
