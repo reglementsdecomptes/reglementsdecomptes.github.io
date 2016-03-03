@@ -15,6 +15,7 @@ author: Raphaël Goument
 
 
 
+
 Le tunnel du Prado est un point de passage obligé pour nombre de Marseillais. Dans la nuit du lundi 9 au mardi 10 novembre, il est le théâtre d'une scène de guerre d’une rare violence, immortalisée par les caméras de surveillance.
 
 Kalachnikov, grosses voitures, douilles par dizaines : tous les ingrédients d'un bon film d'action. Pour ajouter au drame, deux frères occupent le centre de la scène. Ils illustrent une caractéristique fréquente des règlements de compte : le choc entre liens de sang et criminalité. 
@@ -29,7 +30,7 @@ Causant la mort de trois jeunes hommes, cette expédition punitive aurait été 
 
 La dimension familiale du litige saute aux yeux, avec trois individus d’une même fratrie impliqués dans une série de vengeances sanguinaires. Un seul est encore vivant. 
 
-Les frères Hornec dans les années 1990, les frères Jourdain en 1997 : les exemples passés à la postérité criminelle ne manquent pas. Et, avec ses règlements de compte, Marseille ne déroge pas à la règle : à l’image du cas emblématique des frères Nicolas et François B. : réputés impitoyables. Originaires de la cité des Cèdres, assassinats, rapts et trafics rythment leurs journées. 
+Les frères Hornec dans les années 1990, les frères Jourdain en 1997 : les exemples passés à la postérité criminelle ne manquent pas. Et, avec ses règlements de compte, Marseille ne déroge pas à la règle : à l’image du cas emblématique des frères Nicolas et François B. : réputés impitoyables. Originaires de la cité des Cèdres, ils sont soupçonnés d'assassinats, rapts et trafics. 
 
 ![fiche Nicolas B.png]({{site.baseurl}}/img/fiche Nicolas B.png)
 ![fiche François B.png]({{site.baseurl}}/img/fiche François B.png)
