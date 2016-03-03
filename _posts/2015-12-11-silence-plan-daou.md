@@ -26,7 +26,7 @@ Suite aux opérations policières dans la cité de la Castellane, les trafics se
 
 Aux alentours de onze heures, le 12 octobre, le calme règne dans la rue Jorgi Reboul, dans la cité du plan d’Aou dans le 15e arrondissement. Soudain des balles résonnent : un  [jeune homme de dix-huit ans](http://reglementsdecomptes.github.io/2015/12/11/PLANDAOU.html) est abattu. 
 
-L'un des projectiles vient se loger dans la nuque. L'autre dans le bras. Puis le silence revient. Nul témoin. Nul hommage. Dans les quartiers Nord, règne une omertà inquiète et solidaire qui freine l'enquête policière en taisant les meurtres, expliquent élus et sociologues.
+L'un des projectiles vient se loger dans la nuque. L'autre dans le bras. Puis le silence revient. Nul témoin. Nul hommage. Dans les quartiers Nord, règne une omertà inquiète et solidaire qui freine l'enquête policière, expliquent élus et sociologues.
 
 Sur la chaussée, des traces de sang témoignent pourtant d’un dernier appel au secours. Agonisant, le jeune homme a péniblement atteint la porte la plus proche, celle de l’immeuble au crépi orange, à quelques mètres de là. Un homme a ouvert et appelé les sauveteurs. En vain : marins-pompiers et médecins du Samu ont tenté de ranimer le jeune majeur mais il a succombé à ses blessures, en route vers l’hôpital Nord de Marseille. 
 
