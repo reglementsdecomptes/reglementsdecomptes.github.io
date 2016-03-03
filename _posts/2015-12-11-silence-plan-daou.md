@@ -15,6 +15,7 @@ author: Joséphine Devambez
 
 
 
+
 Prolixes lorsqu'il est question de drogue, de chômage ou de déscolarisation des jeunes, les habitants des quartiers Nord de Marseille -- où l'emprise des trafiquants de drogue est forte -- , restent silencieux lorsqu'on les interroge sur des meurtres qui s'apparentent à des règlements de compte. 
 
 ![infographie 1.png]({{site.baseurl}}/img/infographie 1.png)
@@ -23,7 +24,7 @@ Prolixes lorsqu'il est question de drogue, de chômage ou de déscolarisation de
 Suite aux opérations policières dans la cité de la Castellane, les trafics se déplacent dans les grands ensembles de la Bricarde mais également dans le quartier résidentiel du Plan d’Aou. - **Google Maps 10/12/2015**
 {: .credit}
 
-Aux alentours de onze heures, le 12 octobre, le calme règne dans la rue Jorgi Reboul, dans la cité du plan d’Aou dans le 15e arrondissement, au nord de Marseille. Soudain des balles résonnent : un  [jeune homme de dix-huit ans](http://reglementsdecomptes.github.io/2015/12/11/PLANDAOU.html) est abattu. 
+Aux alentours de onze heures, le 12 octobre, le calme règne dans la rue Jorgi Reboul, dans la cité du plan d’Aou dans le 15e arrondissement. Soudain des balles résonnent : un  [jeune homme de dix-huit ans](http://reglementsdecomptes.github.io/2015/12/11/PLANDAOU.html) est abattu. 
 
 L'un des projectiles vient se loger dans la nuque. L'autre dans le bras. Puis le silence revient. Nul témoin. Nul hommage. Dans les quartiers Nord, règne une omertà inquiète et solidaire qui freine l'enquête policière en taisant les meurtres, expliquent élus et sociologues.
 
