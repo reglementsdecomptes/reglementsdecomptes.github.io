@@ -36,7 +36,7 @@ Les frères Hornec dans les années 1990, les frères Jourdain en 1997 : les exe
 ![fiche François B.png]({{site.baseurl}}/img/fiche François B.png)
 
 
-Travailler en famille constitue, dans le milieu, un réel avantage. La trahison y fait figure d’exception. Un journaliste marseillais, qui préfère conserver l'anonymat, explique que la confiance figure au centre de tout système criminel : or elle _« est plus grande dans une même famille. Pas besoin de s’entretuer entre frères pour les gains, il n’y a qu’à partager, et effectivement c’est plus facile d’être en confiance avec des gens qu’on connait aussi bien que ceux de sa propre famille ». _
+Travailler en famille constitue, dans le milieu, un réel avantage. La trahison y fait figure d’exception. Un journaliste marseillais, qui préfère conserver l'anonymat, explique que la confiance figure au centre de tout système criminel : or elle _« est plus grande dans une même famille. Pas besoin de s’entretuer entre frères pour les gains, il n’y a qu’à partager, et effectivement c’est plus facile d’être en confiance avec des gens qu’on connait aussi bien que ceux de sa propre famille »._
 
 Un avis partagé Stéphane Querré, criminologue. Selon lui, les associés de ce type d'affaires sont souvent issus de la même famille ou encore amis d’enfance. Il voit dans cette proximité l'origine d'une surenchère dans la violence : _« cette double dimension est dangereuse : les affaires et les liens de sang. Lorsqu’on cherche à venger l’honneur de la famille, les deux dimensions se percutent »._ D’ou la difficulté, évidente, pour la police d’approcher ces cercles très fermés. 
 
