@@ -16,7 +16,7 @@ author: Claire Courbet
 
 **Le 13 septembre 2015, à proximité de l’Opéra, Laszlo T., un videur hongrois du O’Stop Bar tombe sous les balles d’une kalashnikov . Un choc dans ce quartier hétéroclite du centre de Marseille, tranquille le jour, ombrageux la nuit.**
 
-«Le O’Stop c’est le bar dans lequel on va le midi manger un oeuf mayo’ ou un sandwich boulettes le soir», raconte une commerçante du quartier de l’Opéra qui a souhaité garder l’anonymat. «C’est tombé sur ce café là comme ça aurait pu tomber sur un autre», ajoute-t-elle. 
+_«Le O’Stop c’est le bar dans lequel on va le midi manger un oeuf mayo’ ou un sandwich boulettes le soir»,_ raconte une commerçante du quartier de l’Opéra qui a souhaité garder l’anonymat. _«C’est tombé sur ce café là comme ça aurait pu tomber sur un autre»,_ ajoute-t-elle. 
 
 Le restaurant est connu pour être l’un des rares établissements de la ville à être ouvert sans interruption. «24h/24H» lit-on en lettres dorées sur l’auvent bordeaux du restaurant situé face au parvis de l'Opéra.
 
