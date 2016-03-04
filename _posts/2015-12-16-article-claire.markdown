@@ -37,7 +37,10 @@ La mairie a tout de même renforcé les patrouilles et contrôles de police pour
 
 En 2013, le quartier avait  été le théâtre d’une autre fusillade : trois hommes avaient été blessés suite à un différend. Hervé lui-même a été agressé dans ce quartier il y a une quinzaine d’année. Pourtant, il ne considère pas le quartier comme sensible ou dangereux. 
 
->Citation «Il ne faut pas confondre beauté et aseptisation, ce quartier est beau avec ses imperfections et sa diversité, c’est comme un tableau qui regorge de détails»
+> Il ne faut pas confondre beauté et aseptisation, ce quartier est beau avec ses imperfections et sa diversité, c’est comme un tableau qui regorge de détails
+
+Un habitant du quartier de l'opéra
+{: .credit}
 
 Bastien y habite et le décrit lui comme un _«quartier branché et vivant où se mêlent boutiques de luxe, petits commerces, lieux culturels et où vivent des personnes aisées et d’autre, plus modestes»._ Marseillais, il apprécie son quartier à l'esthétique singulière : _«il ne faut pas confondre beauté et aseptisation, ce quartier est beau avec ses imperfections et sa diversité, c’est comme un tableau qui regorge de détails, de loin ça paraît peut-être un peu flou mais c’est ça qui fait sa beauté»._
 
@@ -46,5 +49,26 @@ Le quartier a été construit au XVIIe siècle lors de l’agrandissement de la 
 Sa réputation festive s’est forgée au fil des siècles. _«Des bars et des maisons de jeu ouvrent dès la moitié du XIXe. C’est aussi là que les membres de réseaux criminels venaient récupérer l’argent du jeu et de la drogue, aujourd’hui c’est un endroit où les personnes aisées comme les plus populaires habitent»,_ précise Mme Regnard. 
 
 _«C’est aussi un quartier qui se situe près de l’hôtel de ville, autour duquel la prostitution s’est développée. Elle a été encadrée en 1863, n’a pas cessée mais est devenue clandestine»,_ ajoute-t-elle. Encore aujourd’hui le quartier est concerné : neuf bars à hôtesses ont été fermés en fin d’année pour des faits de proxénétisme, rapporte _La Provence._ 
+
+
+
+
+## Sous titre
+
+Visuel plein écran
+{: .fullwidth}
+
+Image plein écran avec crédit (utiliser l'option insérer image dans la barre d'outils et remplacer _posts/ par img/ avant de valider)
+{: .fullwidth .image}
+Crédit de l'image
+{: .credit}
+
+texte
+
+>Citation
+
+Crédit de la citation
+{: .credit}
+
 
 **Claire Courbet**
