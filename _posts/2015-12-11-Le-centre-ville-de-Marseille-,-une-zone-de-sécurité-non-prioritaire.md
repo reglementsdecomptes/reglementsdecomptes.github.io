@@ -20,9 +20,10 @@ twitter: "https://twitter.com/JustineBarraud"
 
 
 
+
 Dimanche 13 septembre, une [fusillade](http://www.lemonde.fr/police-justice/article/2015/09/13/une-fusillade-en-plein-c-ur-de-marseille-fait-un-mort-et-six-blesses_4755203_1653578.html) a éclaté à 6H00 du matin, suite à un différend survenu un peu plus tôt dans la nuit devant un bar du centre de Marseille, en face de l'Opéra. Un homme est mort et cinq autres ont été blessés.
 
-Selon l'AFP, ce n’est pas un cas isolé dans ce quartier situé à deux pas du Vieux-Port : deux ans auparavant, trois hommes avaient été blessés par des tirs de Kalachnikov. A l'époque, l'enquête avait également révélé que tout était parti d'un différend entre deux groupes.
+Selon l'AFP, ce n’est pas un cas isolé dans ce quartier situé à deux pas du Vieux-Port : deux ans auparavant, trois hommes avaient été blessés par des tirs de kalachnikov. A l'époque, l'enquête avait également révélé que tout était parti d'un différend entre deux groupes.
 
 ##  Quartier de l’Opéra, un quartier à risque
 
