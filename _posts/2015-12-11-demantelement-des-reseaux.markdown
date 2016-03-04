@@ -11,6 +11,7 @@ author: Megane De Amorim
 ---
 
 
+
 Abdallah A. a été assassiné le 19 juin, au pied d'un immeuble des quartiers Nord. Sa mort intervient un mois après le démantèlement d'un trafic de stupéfiants dans une cité voisine qui a entraîné une guerre de territoires dont il a pu être la victime, selon une source policière.
 
 ![Cite-des-Bleuets.png]({{site.baseurl}}/img/Cite-des-Bleuets.png)
@@ -29,7 +30,7 @@ Le 18 mai, en effet, près de 300 policiers avait opéré un vaste coup de filet
 ![Carte Bleuets Lauriers final.jpg]({{site.baseurl}}/img/Carte Bleuets Lauriers final.jpg)
 {: .fullwidth}
 
-Si la mort d’Abdallah A. a un lien avec ce démantèlement, ce ne serait pas une première. L’opération policière a également précédé un règlement de compte survenu le 25 octobre dans la cité des Lauriers. Laurent Nuñez, préfet de police des Bouches-du-Rhône, expliquait alors au micro de RTL que le quartier, déstabilisé, était la cible d’une guerre de territoire entre réseaux adverses. _"Il y avait des tentatives de reprises et on peut penser que le règlement de compte [du 25 octobre] est sous doute lié à cette tentative."_
+Si la mort d’Abdallah A. a un lien avec ce démantèlement, ce ne serait pas une première. L’opération policière a également précédé un règlement de compte survenu le 25 octobre dans la cité des Lauriers. Laurent Nuñez, préfet de police des Bouches-du-Rhône, expliquait alors au micro de RTL que le quartier, déstabilisé, était la cible d’une guerre de territoire entre réseaux adverses. _"Il y avait des tentatives de reprises et on peut penser que le règlement de compte [du 25 octobre] est sans doute lié à cette tentative."_
 
 Selon lui, la mort de Mohamed A. 15 ans, Kamal Z. 15 ans et Abdelmalik A. 23 ans peut être la conséquence du démantèlement du trafic de la cité des Lauriers.
 
@@ -65,7 +66,7 @@ Les exemples sont nombreux. En avril 2014, deux hommes à peine sortis de la pri
 Si cette chronologie n’est pas exhaustive, elle permet de mettre en évidence l’apparition de règlements de compte après les démantèlements. Pour le cas d’Abdallah A., l’enquête doit encore confirmer que son assassinat a bien un lien avec le démantèlement du réseau des Lauriers, un mois plus tôt.
 
 Face aux conséquences mortelles des démantèlements, la police a une responsabilité, selon Stéphane Quéré. _“Le problème c’est qu’en France la police est réactive. Elle commence une enquête sur les faits, après un flingage.”_ Pour le spécialiste, il faudrait une police pro-active, c’est-à-dire capable d’identifier les acteurs avant qu’il n’y ait de règlements de compte. 
-“Mais ça commence à changer.” 
+_“Mais ça commence à changer.”_ 
 
 LIRE AUSSI : ["Marseille, l'approche globale à l'épreuve des faits"](https://)
 {: .relance}
