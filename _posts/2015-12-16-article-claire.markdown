@@ -3,12 +3,13 @@ published: true
 title: "Tranquille le jour, ombrageux la nuit"
 categorie: articles
 layout: post
-cover_image: "Capture d’écran 2015-12-13 à 23.02.15.png"
+cover_image: opera.png
 related: 
   - La loi du silence
   - Quitter les quartiers Nord
 author: Claire Courbet
 ---
+
 
 **Le 13 septembre 2015, à proximité de l’Opéra, Laszlo T., un videur hongrois du O’Stop Bar tombe sous les balles d’une kalashnikov . Un choc dans ce quartier hétéroclite du centre de Marseille, tranquille le jour, ombrageux la nuit.**
 
