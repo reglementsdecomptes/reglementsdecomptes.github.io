@@ -53,7 +53,7 @@ Ces cas là ne change néanmoins pas l’affectation première des policiers à 
 
 ## Etat d’urgence et centre-ville
 
-Le 19 novembre, les députés ont voté la prolongation de l’Etat d’Urgence pour trois mois. Dans ce cadre exceptionnel, le préfet de Police des Bouches du Rhône a annoncé davantage de patrouilles dans le centre ville. Mais pour Laurent Nunez, la priorité en matière de sécurité se situe vers les cités et quartiers sensibles de Marseille. 
+Le 19 novembre, les députés ont voté la prolongation de l’état d’urgence pour trois mois. Dans ce cadre exceptionnel, le préfet de Police des Bouches du Rhône a annoncé davantage de patrouilles dans le centre ville. Mais pour Laurent Nunez, la priorité en matière de sécurité se situe vers les cités et quartiers sensibles de Marseille. 
 
 > Il ne faut pas délaisser le centre ville car c’est un point important. Néanmoins, on constate une baisse des faits criminels dans ce secteur.” 
 
