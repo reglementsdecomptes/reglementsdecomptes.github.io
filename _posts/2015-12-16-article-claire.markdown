@@ -20,7 +20,7 @@ Le restaurant est connu pour être l’un des rares établissements de la ville 
 
 ![ostop]({{site.baseurl}}/img/o%20stop.png)
 {: .fullwidth .image}
-. 
+O’Stop bar - source Google Street View
 {: .credit}
 
 
