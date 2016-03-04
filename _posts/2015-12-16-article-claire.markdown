@@ -10,9 +10,6 @@ related:
 author: Claire Courbet
 ---
 
-
-
-
 **Le 13 septembre 2015, à proximité de l’Opéra, Laszlo T., un videur hongrois du O’Stop Bar tombe sous les balles d’une kalashnikov . Un choc dans ce quartier hétéroclite du centre de Marseille, tranquille le jour, ombrageux la nuit.**
 
 _«Le O’Stop c’est le bar dans lequel on va le midi manger un oeuf mayo’ ou un sandwich boulettes le soir»,_ raconte une commerçante du quartier de l’Opéra qui a souhaité garder l’anonymat. _«C’est tombé sur ce café là comme ça aurait pu tomber sur un autre»,_ ajoute-t-elle. 
@@ -27,9 +24,9 @@ O’Stop bar - source Google Street View
 
 Les fêtards s’y retrouvent après une soirée dans les discothèques des alentours à l’image d’Hervé qui a fréquenté le lieu de nombreuses années : _«C’est un endroit où se rejoignent ceux qui appartiennent au monde de la nuit parce que c’est l’un des rares lieux où on peut manger chaud vers 5h ou 6h du matin. Le restaurant est un peu moins cher que le Mas [autre restaurant marseillais ouvert la nuit], alors la clientèle y est plus diverse : il y a des personnes aisées, d’autres qui ont des situations précaires, des amateurs d’Opéra qui veulent grignoter un morceau après une représentation et des jeunes qui souhaitent manger quelque chose après une soirée en discothèque»._
 
-![Opera]({{site.baseurl}}/img/Capture d’écran 2015-12-13 à 23.02.15.png)
+![opera2.png]({{site.baseurl}}/img/opera2.png)
 {: .fullwidth .image}
-L'Opèra de Marseille - source Google Street View
+L'Opéra de Marseille - source Google Street View
 {: .credit}
 
 
