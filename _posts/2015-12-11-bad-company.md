@@ -45,7 +45,7 @@ Yet it was also, even if indirectly, under these men’s orders that Bernard F. 
  
 Still he was out of jail by January, after spending little more than 5 months there. According to his lawyer, a government agency (DNVSF) had afterwards declared that his finances were in order and his sentence was to be re-evaluated. However the "Calisson" case wasn’t the only criminal affairs that brought police suspicion to Bernard F.—although he was rarely charged—and the Corsicans weren’t the only unsavory individuals he associated with. Most notably, he was [arrested in Andorra](http://www.lamarseillaise.fr/marseille/faits-divers-justice/38939-petit-ber-bandit-coursier-de-la-mairie-a-ete-abattu) with a member of the Marseille town council trying to cash 1.3 million euros in checks stolen from a notary’s office. But Bernard F. still worked for the town hall when he was killed, a job often described as a cover-up for more lucrative activities. He showed that a minor player in the traditional scene could remain employed in the town hall for almost thirty years.
  
-As of now Ange Toussaint F. remains in jail but the « traditional » Corsica organized-crime clans remain very much active. Marseille is no Chicago, and the Shepherds Robbers no Cosa Nostra but, under the mediteranean sun, organized crime doesn’t seem ready to end.
+As of now Ange Toussaint F. stays in jail but the « traditional » Corsica organized-crime clans remain very much active. Marseille is no Chicago, and the Shepherds Robbers no Cosa Nostra but, under the mediteranean sun, organized crime doesn’t seem ready to end.
 
 
 ![Rue_Panier_Marseille-1.png]({{site.baseurl}}/img/Rue_Panier_Marseille-1.png)
