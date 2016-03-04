@@ -22,7 +22,7 @@ Les véhicules de gendarmerie entourent une voiture stationnée près du rond po
 M. Santini, adjoint à la mairie de Meyreuil, chargé de la sécurité. 
 {: .credit}
 
-“Assassinat sur fond de vendetta”, “match retour”, la presse locale évoque, dès le surlendemain, l’hypothèse d’un règlement de comptes. Mais est-ce aussi évident ? Comme dans bien des cas d’homicides constatés dans la région marseillaise, et particulièrement à la campagne, les premières suppositions ne résistent pas à l’épreuve des investigations.
+_“Assassinat sur fond de vendetta”, “match retour”,_ la presse locale évoque, dès le surlendemain, l’hypothèse d’un règlement de comptes. Mais est-ce aussi évident ? Comme dans bien des cas d’homicides constatés dans la région marseillaise, et particulièrement à la campagne, les premières suppositions ne résistent pas à l’épreuve des investigations.
 
 D’après _La Provence_, la victime était recherchée dans l’enquête sur la mort de Richard S. Le corps de cet homme de 54 ans avait été retrouvé, le 23 septembre 2015, sur le siège passager d’une voiture calcinée à Pertuis, dans le département du Vaucluse, à 35 kilomètres de Meyreuil. 
 
