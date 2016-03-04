@@ -40,7 +40,7 @@ En 2013, le quartier avait  été le théâtre d’une autre fusillade : trois h
 
 Bastien y habite et le décrit lui comme un _«quartier branché et vivant où se mêlent boutiques de luxe, petits commerces, lieux culturels et où vivent des personnes aisées et d’autre, plus modestes»._ Marseillais, il apprécie son quartier à l'esthétique singulière : _«il ne faut pas confondre beauté et aseptisation, ce quartier est beau avec ses imperfections et sa diversité, c’est comme un tableau qui regorge de détails, de loin ça paraît peut-être un peu flou mais c’est ça qui fait sa beauté»._
 
-Le quartier a été construit au XVIIe siècle lors de l’agrandissement de la ville, explique Cécile Regnard, maître de Conférences en histoire contemporaine à l’Université d’Aix-Marseille. Il a d’abord été habité par des bourgeois puis s’est devenu plus populaire. 
+Le quartier a été construit au XVIIe siècle lors de l’agrandissement de la ville, explique Cécile Regnard, maître de Conférences en histoire contemporaine à l’Université d’Aix-Marseille. Il a d’abord été habité par des bourgeois puis est devenu plus populaire. 
 
 Sa réputation de quartier festif s’est forgée au fil des siècles. _«Des bars et des maisons de jeu ouvrent dès la moitié du XIXe. C’est aussi là que les membres de réseaux criminels venaient récupérer l’argent du jeu et de la drogue, aujourd’hui c’est un endroit où les personnes aisées comme les plus populaires habitent»,_ précise Mme Regnard. 
 
