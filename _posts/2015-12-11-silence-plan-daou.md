@@ -39,7 +39,7 @@ Son cri de détresse, comme le rentissement des balles, s’est perdu dans les m
 Le 12 octobre, un jeune homme de 18 ans reçoit une ou deux balles dans la rue Jorgi Reboul et trouve refuge dans l’immeuble voisin. **(Google Maps 10/12/2015)**
 {: .credit}
 
-Pour la police, l’affaire -- très localisée -- a tout d'un règlement de comptes. Le jeune homme, né en 1996, avait déjà un casier judiciaire important : vols avec effraction, violences volontaires et affaires de stupéfiants. Un profil tristement banal dans un quartier mis en coupe réglée par les traficants de drogue. Selon une source policière, les enquêteraient seraient sur le point d'apréhender l'auteur du crime dont deux complices présumés ont déjà été interpellés. 
+Pour la police, l’affaire -- très localisée -- a tout d'un règlement de comptes. Le jeune homme, né en 1996, avait déjà un casier judiciaire important : vols avec effraction, violences volontaires et affaires de stupéfiants. Un profil tristement banal dans un quartier mis en coupe réglée par les traficants de drogue. Selon une source policière, les enquêteurs seraient sur le point d'apréhender l'auteur du crime dont deux complices présumés ont déjà été interpellés. 
 
 A la maison des jeunes, à quelques mètre de la scène du crime, on affirme n’avoir rien entendu. “Ce n’était pas moi qui assurait la permanence”, explique un animateur, sur un ton expéditif. "D’ailleurs, à partir de 17 ou 18 ans, les jeunes ne viennent plus au centre : ils ont pris leur indépendance”. 
 
