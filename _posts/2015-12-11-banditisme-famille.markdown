@@ -16,13 +16,14 @@ author: Raphaël Goument
 
 
 
+
 Le tunnel du Prado est un point de passage obligé pour nombre de Marseillais. Dans la nuit du lundi 9 au mardi 10 novembre, il est le théâtre d'une scène de guerre d’une rare violence, immortalisée par les caméras de surveillance.
 
 Kalachnikov, grosses voitures, douilles par dizaines : tous les ingrédients d'un bon film d'action. Pour ajouter au drame, deux frères occupent le centre de la scène. Ils illustrent une caractéristique fréquente des règlements de compte : le choc entre liens de sang et criminalité. 
 
 La police identifie rapidement les victime de l'embuscade : Anthony C. succombe de la suite de ses blessures, et surtout : Mohamed M. alias « Babouin », tué sur le coup. Deux autres occupants réussissent à s’échapper, dont Omar, l’un des cousins de Mohamed.  
 
-Ce dernier faisait figure de « caïd » dans les quartiers nord de la cité phocéenne. Déjà condamné pour homicide volontaire, il avait aussi été interpelé en possession d’armes, de 87.000 euros en liquide et de 52 Kg de cannabis. 
+Ce dernier faisait figure de « caïd » dans les quartiers nord de la cité phocéenne. Déjà condamné pour homicide volontaire, il avait aussi été interpellé en possession d’armes, de 87.000 euros en liquide et de 52 Kg de cannabis. 
 
 « Babouin » n'en était pas à sa première affaire. Il venait d’être libéré en août après 2 ans et demi de détention provisoire. Les enquêteurs envisagent rapidement un lien avec une précédente fusillade : celle de la cité des Lauriers, 15 jours plus tôt. 
 
