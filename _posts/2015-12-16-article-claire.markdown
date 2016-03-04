@@ -29,7 +29,7 @@ Les fêtards s’y retrouvent après une soirée dans les discothèques des alen
 
 ![Opera]({{site.baseurl}}/img/Capture d’écran 2015-12-13 à 23.02.15.png)
 {: .fullwidth .image}
-O’Stop bar - source Google Street View
+L'Opèra de Marseille - source Google Street View
 {: .credit}
 
 
