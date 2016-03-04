@@ -33,6 +33,6 @@ Using words such as “immigrants”, the Hungarian media assume that the culpri
 
 Locals of Bekes county in Hungary, from which Laszlo T. was a native, expressed their utter surprise and emotional support to the family. As indicated by the local newspaper Beol, Laszlo’s mother was extremely affected by his loss and under sedatives. His step-dad handled the funerals and launched a crowdfunding campaign for the ceremony that was held on October 16th. Friends from his childhood boxing club also held a vigil in his honor. 
 
-In France, Laszlo’s friends also showed their support on social media. Marseille’s Royal Boxing Club released a tribute video to the young man on its Youtube account. Renaud, one of his boxer companions recalls “a brave, strong and a good man” with a taste for thai boxing. 
+In France, Laszlo’s friends also showed their support on social media. Marseille’s Royal Boxing Club released a tribute video to the young man on its Youtube account. Renaud, one of his boxer companions recalls _“a brave, strong and a good man” with a taste for thai boxing._
 
 Almost three months after the incident, very few information leaked from the investigation. French officers refuse to reveal any details on their probe and the owners of the O’Stop bar are reluctant to answer any inquiries.
