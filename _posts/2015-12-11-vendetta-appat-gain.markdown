@@ -15,9 +15,10 @@ author: "Louis Baudoin-Laarman"
 
 
 
+
 Nasseri M., 27 ans, Jimmy I., 29 ans, morts par balles à bord de leur voiture à Saint Jérôme (13 ardt) en 2012. Mohamed A., 15 ans, Kamal Z., 23 ans, et Adelmalik A., 15 ans, tués au pistolet automatique devant leur domicile, dans la cité voisine des Lauriers (13 ardt), en octobre 2015. Mohamed M., 31 ans et Anthony C., 34 ans, abattus dans une embuscade sous le tunnel du Prado-Carénage, en novembre 2015.
 
-Trois affaires officiellement isolées les unes des autres. Et pourtant, liées par les lieux, les acteurs et les véhicules employés. Les victimes se connaissaient également. Et dans le cas de Nasseri et Mohamed M., elles étaient membres d'une même même famille. 
+Trois affaires apparemment isolées les unes des autres. Et pourtant, liées par les lieux, les acteurs et les véhicules employés. Les victimes se connaissaient également. Et dans le cas de Nasseri et Mohamed M., elles étaient membres d'une même même famille. 
 
 Selon une source policière, « des éléments rapprochent [Mohamed] M. à la cité des Lauriers. » Les deux faits-divers pourraient ainsi être liés par une vengeance : celle d'un homme, Mohamed M., pour la mort de son frère Nasseri M. tombé à Saint-Jérôme. Selon cette hypothèse, Mohamed M. se serait rendus aux Lauriers, cité des meurtriers présumés de son frère, le jour de la fusillade qui a provoqué la mort de trois jeunes hommes, puis aurait été abattu, en représailles à ses crimes présumés, à la sortie du tunnel du tunnel Prado Carénage.
 
