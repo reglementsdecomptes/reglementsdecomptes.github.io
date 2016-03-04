@@ -48,7 +48,7 @@ La division Centre, dont fait parti le quartier de l’Opéra, ne concentre que 
 
 La répartition des policiers se base sur des études sur la criminalité à moyen-long terme. _<< Une fusillade c’est un cas anecdotique par rapport au problème global de la délinquance. Elle ne symbolise pas forcément une hausse de la délinquance >>,_ explique Arnaud Louis, porte-parole de la DDSP des Bouches du Rhône.
 
-Ces cas là ne change néanmoins pas l’affectation première des policiers à certains secteurs. Les ressources en personnel sont, certes, utilisées en fonction de l’évolution de la délinquance mais afin de ne pas déstabiliser l’organisation quotidienne de la sécurité, il y a des effectifs qui sont indéboulonables dans certains secteurs de Marseille. 
+Ces cas là ne change néanmoins pas l’affectation première des policiers à certains secteurs. Les ressources en personnel sont, certes, utilisées en fonction de l’évolution de la délinquance mais afin de ne pas déstabiliser l’organisation quotidienne de la sécurité, il y a des effectifs qui sont fixes dans certains secteurs de Marseille. 
 
 ## Etat d’urgence et centre-ville
 
