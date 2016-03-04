@@ -3,7 +3,7 @@ published: true
 title: "Tranquille le jour, ombrageux la nuit"
 categorie: articles
 layout: post
-cover_image: opera.pn
+cover_image: opera.png
 related: 
   - La loi du silence
   - Quitter les quartiers Nord
