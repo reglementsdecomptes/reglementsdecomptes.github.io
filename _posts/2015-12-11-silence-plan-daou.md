@@ -31,7 +31,7 @@ L'un des projectiles vient se loger dans la nuque. L'autre dans le bras. Puis le
 
 Sur la chaussée, des traces de sang témoignent pourtant d’un dernier appel au secours. Agonisant, le jeune homme a péniblement atteint la porte la plus proche, celle de l’immeuble au crépi orange, à quelques mètres de là. Un homme a ouvert et appelé les sauveteurs. En vain : marins-pompiers et médecins du Samu ont tenté de ranimer le jeune majeur mais il a succombé à ses blessures, en route vers l’hôpital Nord de Marseille. 
 
-Son cri de détresse, comme le rentissement des balles, s’est perdu dans les mémoires. “Je n’étais pas là quand c’est arrivé”, élude une mère de famille qui habite le même immeuble. "Tout le monde se connaît dans le quartier", ajoute un voisin. Mais "lui, le mort, non jamais entendu parler”. 
+Son cri de détresse, comme le rentissement des balles, s’est perdu dans les mémoires. _“Je n’étais pas là quand c’est arrivé”,_ élude une mère de famille qui habite le même immeuble. _"Tout le monde se connaît dans le quartier",_ ajoute un voisin. Mais _"lui, le mort, non jamais entendu parler”._ 
  
 ![Infographie 2.png]({{site.baseurl}}/img/Infographie 2.png)
 {: .fullwidth .image}
