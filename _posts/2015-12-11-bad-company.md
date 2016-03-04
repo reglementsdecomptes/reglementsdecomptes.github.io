@@ -12,6 +12,7 @@ author: Elise Blanchard
 
 
 
+
 It’s almost summer in Marseille. A courier from the town hall’s sport offices arrives at work near the Velodrome, the renowned soccer stadium in a city famous for its team as well as its passionate supporters—but also for its high-rate of homicides and a century-long history of organized crime. It’s around 8.30 a.m., on May 20th of 2015 and Bernard F., the town employee, who turned 50 one week ago, arrives carrying a bag full of fresh pastries. Just as he goes to open the door, a man wearing a motorcycle helmet opens fire on him with a .357 Magnum revolver. The man walks back toward his accomplice and they flee on a motorcycle, leaving Bernard F. bleeding on the ground. Nearby parents walking their children to school in this relatively quiet, well-off neighborhood, hear the shots ring out. 
 
 ![PortraitF.png]({{site.baseurl}}/img/PortraitF.png)
@@ -21,7 +22,7 @@ Bernard F.
 
 A police source says they are just starting the investigation regarding Bernard F.’s murder, which will take months. The not-apparent but pivotal detail here is that Bernard F. hailed from the Panier, an iconic corner of the old Marseille near the harbor, now loved by tourists but historically linked to the Corsica-Marseille organized-crime ring known in part for running the heroin labs of the French Connection. In the last decade or so, their activity has been pushed to the background as police, politicians, and media have turned to Marseille’s ghettos and their own large-scale, powerful and deadly drug traffics. But the old Panier-Corsica heads are starting to [cooperate](http://www.laprovence.com/article/actualites/3490484/marseille-linquietante-alliance-du-milieu-et-des-bandits-des-cites.html) and work with this neo-criminal rings. And Bernard F.'s life is proof that France's mediteranean blend of "traditional" organized-crime is still very much active. 
 
-The judiciary police knew Bernard F. as a man connected the Corsica-Marseille traditional organized-crime scene. Cited in a La Provence [article](http://www.laprovence.com/article/actualites/3412605/marseille-execution-sur-le-chemin-de-lecole.html), they hint at battles between clans regarding [control](http://www.leparisien.fr/espace-premium/actu/abattu-pres-du-stade-velodrome-20-05-2015-4785717.php) of the Panier as the reason for Bernard F.’s death. But a journalist specialized in Marseille’s criminal scene doubts it. Bernard F. wasn’t important enough to warrant this fate: just a minor rogue who dabbled with the big guys and did footwork for them. 
+The judiciary police knew Bernard F. as a man connected with the Corsica-Marseille traditional organized-crime scene. Cited in a _La Provence_ [article](http://www.laprovence.com/article/actualites/3412605/marseille-execution-sur-le-chemin-de-lecole.html), they hint at battles between clans regarding [control](http://www.leparisien.fr/espace-premium/actu/abattu-pres-du-stade-velodrome-20-05-2015-4785717.php) of the Panier as the reason for Bernard F.’s death. But a journalist specialized in Marseille’s criminal scene doubts it. Bernard F. wasn’t important enough to warrant this fate: just a minor rogue who dabbled with the big guys and did footwork for them. 
 
 ![carte-fischetti.png]({{site.baseurl}}/img/carte-fischetti.png)
 {: .fullwidth .image}
