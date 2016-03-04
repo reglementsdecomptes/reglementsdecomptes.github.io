@@ -44,7 +44,7 @@ Le quartier a été construit au XVIIe siècle lors de l’agrandissement de la 
 
 Sa réputation festive s’est forgée au fil des siècles. _«Des bars et des maisons de jeu ouvrent dès la moitié du XIXe. C’est aussi là que les membres de réseaux criminels venaient récupérer l’argent du jeu et de la drogue, aujourd’hui c’est un endroit où les personnes aisées comme les plus populaires habitent»,_ précise Mme Regnard. 
 
-_«C’est aussi un quartier qui se situe près de l’hôtel de ville, autour duquel la prostitution s’est développée. Elle a été encadrée en 1863, n’a pas cessée mais est devenue clandestine»,_ ajoute-t-elle. Encore aujourd’hui le quartier est concerné : neuf bars à hôtesses ont été fermés en fin d’année, rapporte _La Provence_, pour des faits de proxénétisme. 
+_«C’est aussi un quartier qui se situe près de l’hôtel de ville, autour duquel la prostitution s’est développée. Elle a été encadrée en 1863, n’a pas cessée mais est devenue clandestine»,_ ajoute-t-elle. Encore aujourd’hui le quartier est concerné : neuf bars à hôtesses ont été fermés en fin d’année pour des faits de proxénétisme, rapporte _La Provence._ 
 
 
 
