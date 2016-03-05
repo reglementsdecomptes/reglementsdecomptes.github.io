@@ -22,7 +22,7 @@ Le 18 juillet 2014, alors qu’il circule sur son scooter aux abords du rond-poi
 
 Le règlement de compte visant Zakary R. fait écho au meurtre de Mehdi B. trois mois plus tôt : même mode opératoire, même arme utilisée et même violence. Rien d’anormal : l’homicide du 18 juillet semble être le “match retour” du règlement de compte du 14 avril. 
 
-Autre cas. Le 13 mars 2013, Hichem A. et Rochdi G., deux jeunes de 18 et 25 ans, sont tués par balles en plein jour, au pied des immeubles de la cité des Bleuets (13e ardt). 
+Autre cas le 13 mars 2013 : Hichem A. et Rochdi G., deux jeunes de 18 et 25 ans, sont tués par balles en plein jour, au pied des immeubles de la cité des Bleuets (13e ardt). 
 
 Le quartier, pourtant réputé calme, est le théâtre d'un nouveau règlement de compte le 20 juin 2015, lorsque Abdallah A., 28 ans, est tué par trois tirs d’une arme de poing de calibre 9mm. Connu des services de police pour des trafics de stupéfiants sans pour autant être un “gros profil”, Abdallah A. serait-il lui aussi la victime d’un match retour ? Les enquêteurs, qui ne connaissent pas encore le mobile du crime, ne l'exclut pas, selon une source policière. 
 
