@@ -48,7 +48,7 @@ Puisque le décrochage recule, c'est sur leur temps libre que les mineurs rejoig
 
 _« Parmi nos 40 jeunes licenciés des cités avoisinantes, le football constitue une passion et un vecteur d’échange. En bref, un moyen de changer d’environnement"_, poursuit-il.
 
-Depuis son inscription en 2014, Kamal Z. venait d’ailleurs souvent aux entraînements. _« Il avait des relations saines et amicales avec ses camarades »._ Après sa mort, il a fallu beaucoup discuter au sein du club, pour réconforter ses camarades, conclut M. Sahki.
+Depuis son inscription en 2014, Kamal Z. venait d’ailleurs souvent aux entraînements. _« Il avait des relations saines et amicales avec ses camarades »._ Après sa mort, il a fallu beaucoup discuter au sein du club, pour les réconforter, conclut M. Sahki.
  
 # Rester prudent sur les mots
  
