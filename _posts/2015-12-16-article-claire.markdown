@@ -54,4 +54,3 @@ Sa réputation festive s’est forgée au fil des siècles. _«Des bars et des m
 
 _«C’est aussi un quartier qui se situe près de l’hôtel de ville, autour duquel la prostitution s’est développée. Elle a été encadrée en 1863, n’a pas cessée mais est devenue clandestine»,_ ajoute-t-elle. Encore aujourd’hui le quartier est concerné : neuf bars à hôtesses ont été fermés en fin d’année pour des faits de proxénétisme, rapporte _La Provence._ 
 
-**Claire Courbet**
