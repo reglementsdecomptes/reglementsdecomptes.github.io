@@ -10,6 +10,7 @@ related:
 author: Delphine Allaire
 ---
 
+
 Il est 2h40, dans la nuit du 24 au 25 octobre, lorsque une arme automatique de calibre 9mm, rafale, en pleine vacances de la Toussaint, trois adolescents au pied d’un immeuble de la Cité des Lauriers (13e ardt).
 
 Parmi les victimes, deux sont âgées de 15 ans et déjà connues des services de police pour des faits de petite délinquance. Avant de tirer, les auteurs présumés ont questionné les victimes sur un individu, relié au trafic de drogue, incitant les enquêteurs à envisager l'hypothèse d’un règlement de comptes. Le hall D de ce bâtiment est connu pour être un point de vente, précise une source policière. 
@@ -18,7 +19,7 @@ Victimes innocentes ou victimes impliquées : comment de jeunes mineurs ont-il p
  
 # Au mauvais endroit, au mauvais moment
  
-Si, dans les Bouches-du-Rhône, seulement 16 % des individus impliqués dans des faits liés à la grande criminalité sont mineurs, selon la Préfecture de police, les faits de petite et moyenne délinquance (violences légères, vols, dégradations, rackets) peuvent parfois conduire des jeunes à être concernés par un règlement de comptes. De nombreux mineurs ont effet déjà _« un palmarès bien étoffé »_, indiquent à la fois une source policière et un habitant du 13ème arrondissement. _« On voit des choufs [guetteur, NDLR] à partir de 12 ans »_, souligne un élu responsable de la sécurité dans les quartiers Nord.
+Si, dans les Bouches-du-Rhône, seulement 16 % des individus impliqués dans des faits liés à la grande criminalité sont mineurs, selon la préfecture de police, les faits de petite et moyenne délinquance (violences légères, vols, dégradations, rackets) peuvent parfois conduire des jeunes à être concernés par un règlement de comptes. De nombreux mineurs ont effet déjà _« un palmarès bien étoffé »_, indiquent à la fois une source policière et un habitant du 13ème arrondissement. _« On voit des choufs [guetteur, NDLR] à partir de 12 ans »_, souligne un élu responsable de la sécurité dans les quartiers Nord.
  
 ![dessin crimi.png]({{site.baseurl}}/img/dessin crimi.png)
 {: .fullwidth}
