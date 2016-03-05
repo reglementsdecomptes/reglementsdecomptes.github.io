@@ -30,7 +30,7 @@ Le quartier, pourtant réputé calme, est le théâtre d'un nouveau règlement d
 
 L’expression de “match retour” qualifie des homicides qui prennent la forme d'une vengeance destinée à répondre, plus ou moins directement, à un meurtre ayant eu lieu précédemment. 
 
-Dans le cas de Zakary R. le “match retour” a eu lieu trois mois après les faits. Mais il s’écoule parfois plus de temps avant que la vengeance ne se manifeste. Romain Capdepon, reporter Police et Justice au quotidien La Provence rappelle que certains règlements de comptes et les “match retour” qui les suivent s’échelonnent parfois sur plusieurs années. 
+Dans le cas de Zakary R. le “match retour” a eu lieu trois mois après les faits. Mais il s’écoule parfois plus de temps avant que la vengeance ne se manifeste. Romain Capdepon, reporter Police et Justice au quotidien _La Provence_ rappelle que certains règlements de comptes et les “match retour” qui les suivent s’échelonnent parfois sur plusieurs années. 
 
 ![]({{site.baseurl}}/img/Infographie%201%20(4).jpeg)
 {: .fullwidth}
