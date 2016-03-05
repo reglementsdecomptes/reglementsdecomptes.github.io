@@ -45,7 +45,7 @@ Le maire de Marseille a ajouté que la ville avait même envisagé une révocati
 **Jean-Paul Gaudin** - Maire de la ville de Marseille (Conseil Municipal du 14 septembre 2015)
 {: .credit}
 
-Le maire en vient pourtant à la politique. Au conseil municipal de septembre, Jean-Claude Gaudin a répondu aux critiques de ses opposants en leur renvoyant la balle :  _«Je n’étais pas maire de Marseille à l’époque»._ Le recrutement de Bernard F. au service des sports date il est vrai de mai 1987, époque à laquelle le parti socialiste était aux commandes de la ville. _«Il y a 11500 employés municipaux, il se peut qu’il y ait toujours quelqu’un qui ne se comporte pas bien»_, a ajouté M. Gaudin.
+Le maire en vient pourtant à la politique. Au conseil municipal de septembre, Jean-Claude Gaudin a répondu aux critiques de ses opposants en leur renvoyant la balle :  _«Je n’étais pas maire de Marseille à l’époque»._ Le recrutement de Bernard F. au service des sports date il est vrai de mai 1987, époque à laquelle le parti socialiste était aux commandes de la ville. _«Il y a 11.500 employés municipaux, il se peut qu’il y ait toujours quelqu’un qui ne se comporte pas bien»_, a ajouté M. Gaudin.
  
 Maître Georges Maury, l'élu Front Nationam qui a questionné le maire en conseil municipal, considère aujourd’hui que ce dernier a _«botté en touche»_ et raille qu'il soit _«compliqué de mettre en mouvement une action disciplinaire contre un fonctionnaire»._ Invoquant le statut de fonctionnaire public, qui impose un casier judiciaire quasi vide (la plupart des condamnations pour crimes et délits sont interdites), il estime que les condamnations antérieures à l'affaire “Calisson”, toujours en cours, suffisaient à justifier sa révocation. 
 
