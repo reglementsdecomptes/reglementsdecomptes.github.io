@@ -19,7 +19,7 @@ Victimes innocentes ou victimes impliquées : comment de jeunes mineurs ont-il p
  
 # Au mauvais endroit, au mauvais moment
  
-Si, dans les Bouches-du-Rhône, seulement 16 % des individus impliqués dans des faits liés à la grande criminalité sont mineurs, selon la préfecture de police, les faits de petite et moyenne délinquance (violences légères, vols, dégradations, rackets) peuvent parfois conduire des jeunes à être concernés par un règlement de comptes. De nombreux mineurs ont effet déjà _« un palmarès bien étoffé »_, indiquent à la fois une source policière et un habitant du 13ème arrondissement. _« On voit des choufs [guetteur, NDLR] à partir de 12 ans »_, souligne un élu responsable de la sécurité dans les quartiers Nord.
+Si, dans les Bouches-du-Rhône, seulement 16 % des individus impliqués dans des faits liés à la grande criminalité sont mineurs, selon la préfecture de police, les faits de petite et moyenne délinquance (violences légères, vols, dégradations, rackets) peuvent parfois conduire des jeunes à être concernés par un règlement de comptes. De nombreux mineurs ont effet déjà _« un palmarès bien étoffé »_, indiquent à la fois une source policière et un habitant du 13ème arrondissement. _« On voit des choufs [guetteur, NDLR] à partir de 12 ans»_, souligne un élu responsable de la sécurité dans les quartiers Nord.
  
 ![dessin crimi.png]({{site.baseurl}}/img/dessin crimi.png)
 {: .fullwidth}
