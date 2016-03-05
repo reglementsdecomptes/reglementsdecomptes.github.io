@@ -18,7 +18,8 @@ author: Joséphine Devambez
 
 
 
-Prolixes lorsqu'il est question de drogue, de chômage ou de déscolarisation des jeunes, les habitants des quartiers Nord de Marseille -- où l'emprise des trafiquants de drogue est forte -- , restent silencieux lorsqu'on les interroge sur des meurtres qui s'apparentent à des règlements de compte. 
+
+Prolixes lorsqu'il est question de drogue, de chômage ou de déscolarisation des jeunes, les habitants des quartiers Nord de Marseille -- où l'emprise des trafiquants de drogue est forte -- restent silencieux lorsqu'on les interroge sur des meurtres qui s'apparentent à des règlements de compte. 
 
 ![infographie 1.png]({{site.baseurl}}/img/infographie 1.png)
 {: .fullwidth .image}
