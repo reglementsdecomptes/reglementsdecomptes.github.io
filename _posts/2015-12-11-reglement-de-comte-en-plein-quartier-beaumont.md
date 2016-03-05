@@ -12,6 +12,7 @@ author: Raphaël Georgy
 
 
 
+
 Au beau milieu de l'été, un crime aux allures de règlement de comptes a été commis à Beaumont, un quartier calme du 12ème arrondissement de Marseille. Habitants et élus sont partagés entre confiance et résignation.
 
 Les clients font la queue devant la boulangerie. La petite terrasse aux murs jaunis du « Rotonde Bar » est à moitié remplie et le soleil est déjà haut dans le ciel sans nuages de Marseille, raconte Sylvie, qui a assisté à la scène et accepté de la raconter par téléphone, sous couvert de l'anonymat. 
@@ -57,6 +58,6 @@ Didier, qui habite un immeuble tout proche de la scène du crime, paraît résig
 **Valérie** - habitante à côté du lieu du crime
 {: .credit}
 
-Les riverains ne semblent pas craindre que les règlements de compte s’exportent des quartiers Nord vers des zones rarement concernés par ce genre d’affaires. La délinquance à Marseille est en baisse, comme le souligne le directeur départemental de la sécurité publique, Pierre-Marie Bourniquel. Contacté par téléphone, il fait savoir que les moyens de surveillance sont revus régulièrement en proportion de la criminalité constatée.
+Les riverains ne semblent pas craindre que les règlements de compte s’exportent des quartiers Nord vers des zones rarement concernées par ce genre d’affaires. La délinquance à Marseille est en baisse, comme le souligne le directeur départemental de la sécurité publique, Pierre-Marie Bourniquel. Contacté par téléphone, il fait savoir que les moyens de surveillance sont revus régulièrement en proportion de la criminalité constatée.
 
 M. Coulet confie que de nombreux habitants l'ont questionné sur la sécurité dans le quartier, dit-il. Impossible de faire des miracle,s leur a-t-il répondu : _« Il peut toujours y avoir des dommages collatéraux, et ça m’interpelle. Mais on est impuissants par rapport à cela »_.
