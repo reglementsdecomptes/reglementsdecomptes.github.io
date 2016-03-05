@@ -13,7 +13,8 @@ author: Hadrien Bect
 
 
 
-Malgré des interventions policières régulières et la mise en place de nouvelles actions, les règlements de compte ne connaissent pas de trève à Marseille. Aussi des questions émergent-elles sur _«l’approche globale»_ mise en oeuvre par la police pour lutter contre le néo-banditisme de cité.
+
+Malgré des interventions policières régulières et la mise en place de nouvelles actions, les règlements de compte ne connaissent guère de trève à Marseille. Aussi des questions émergent-elles sur _«l’approche globale»_ mise en oeuvre par la police pour lutter contre le néo-banditisme de cité.
 
 Plus de vingt interpellations, 30 kilos de résine de cannabis et des centaines de milliers d'euros saisis. Le 18 mai dernier, près de 300 policiers, notamment des hommes du Raid et des CRS, investissaient la cité des Lauriers, dans le 13e arrondissement de Marseille. Préparée depuis _«près d'un an»,_ selon le ministre de l'Intérieur, Bernard Cazeneuve, cette vaste opération s'inscrit dans une logique plus large : faire revenir les forces de l'ordre dans les cités marseillaises pour lutter contre les trafics qui s'y déroulent. Pourtant, quelques mois après, un nouveau règlement de compte sanglant, vraisemblablement sur fond de trafic de drogue, met une nouvelle fois les Lauriers à la une de l'actualité. Trois jeunes, dont deux mineurs sont abattus le 25 octobre. La nouvelle méthode prônée par le ministère de l'Intérieur, baptisée « approche globale » semble battue en brèche.
 
