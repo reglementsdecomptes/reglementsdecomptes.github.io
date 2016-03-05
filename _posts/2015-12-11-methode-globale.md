@@ -22,7 +22,7 @@ Plus de vingt interpellations, 30 kilos de résine de cannabis et des centaines 
 
 Sur le fond, le préfet de police des Bouches-du-Rhône, Laurent Nunez met en avant une logique de _«coordination»_ entre les différents services de police, notamment _«pour échanger du renseignement»_, lors d’un entretien exclusif. Sur le terrain, cette méthode globale se traduit par _«le déploiement de CRS dans les quartiers, pour sécuriser l'intervention des autres acteurs»_. 
 
-La particularité de l’approche globale réside dans la durée et la récurrence de la présence policière, qui peut durer _«15 jours, trois semaines, voire un mois»,_ rappelle-t-il, estimant qu'elle est _«saluée par tous». 
+La particularité de l’approche globale réside dans la durée et la récurrence de la présence policière, qui peut durer _«15 jours, trois semaines, voire un mois»,_ rappelle-t-il, estimant qu'elle est _«saluée par tous»._ 
 
 Les habitants, concernés au plan premier, semblent plus ou moins satisfaits du déroulement de ces opérations : selon un rapport réalisé à la demande de la Préfecture de police portant sur l’évaluation de la méthode globale, 76 % des personnes interrogées dans la cité de La Sauvagère estiment que la présence policière a rendu _«la vie plus agréable»_. Au cour de la même période, près de 50 % des personnes interrogées à la cité du Clos des Roses considèrent en revanche que cette présence n’a eu _"aucun effet"_. Malgré ces perceptions contrastées, le déploiement policier a permis d’entamer des travaux de rénovation urbaines dans des cités au sein desquelles _«les dealers s’étaient appropriés les territoires à tel point qu’il y avait des contrôles à l’entrée des cités»_, précise une source policière.
 
