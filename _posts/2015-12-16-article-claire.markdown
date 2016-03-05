@@ -25,7 +25,7 @@ O’Stop bar - source Google Street View
 {: .credit}
 
 
-Les fêtards s’y retrouvent après une soirée dans les discothèques des alentours à l’image d’Hervé qui a fréquenté le lieu de nombreuses années : _«C’est un endroit où se rejoignent ceux qui appartiennent au monde de la nuit parce que c’est l’un des rares lieux où on peut manger chaud vers 5h ou 6h du matin. Le restaurant est un peu moins cher que le Mas [autre restaurant marseillais ouvert la nuit], alors la clientèle y est plus diverse : il y a des personnes aisées, d’autres qui ont des situations précaires, des amateurs d’Opéra qui veulent grignoter un morceau après une représentation et des jeunes qui souhaitent manger quelque chose après une soirée en discothèque»._
+Les fêtards s’y retrouvent après une soirée dans les discothèques des alentours à l’image d’Hervé qui a fréquenté le lieu de nombreuses années : _«C’est un endroit où se rejoignent ceux qui appartiennent au monde de la nuit parce que c’est l’un des rares lieux où on peut manger chaud vers 5h ou 6h du matin. Le restaurant est un peu moins cher que le Mas_ [autre restaurant marseillais ouvert la nuit], _alors la clientèle y est plus diverse : il y a des personnes aisées, d’autres qui ont des situations précaires, des amateurs d’Opéra qui veulent grignoter un morceau après une représentation et des jeunes qui souhaitent manger quelque chose après une soirée en discothèque»._
 
 ![opera2.png]({{site.baseurl}}/img/opera2.png)
 {: .fullwidth .image}
