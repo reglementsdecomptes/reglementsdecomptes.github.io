@@ -40,7 +40,7 @@ Mohamed A., l’autre victime âgée de 15 ans, était scolarisé dans un collè
 ![dessin scol.png]({{site.baseurl}}/img/dessin scol.png)
 {: .fullwidth}
  
-Les taux de scolarisation calculés, par tranche d'âge, dans le 13ème arrondissement ne sont pas si éloignés de la moyenne nationale (98.7%). Ils s’inscrivent dans une baisse générale du décrochage scolaire qui concernait 110 000 élèves sur tout le territoire en 2015, contre 136 000 en 2014. 
+Les taux de scolarisation calculés, par tranche d'âge, dans le 13ème arrondissement ne sont pas si éloignés de la moyenne nationale (98.7%). Ils s’inscrivent dans une baisse générale du décrochage scolaire qui concernait 110.000 élèves sur tout le territoire en 2015, contre 136.000 en 2014. 
 
 _“Les résultats sont encourageants, même si la communauté éducative doit maintenir ses efforts sur les plus jeunes, deux tiers des élèves décrochant à 15 ans, dès la fin du collège”_, a prévenu la ministre de l’Éducation Nationale, Najat Vallaud-Belkacem, à l'occasion du premier anniversaire du plan national d'actions, "Tous mobilisés contre le décrochage scolaire", le 1er décembre 2015.
 
