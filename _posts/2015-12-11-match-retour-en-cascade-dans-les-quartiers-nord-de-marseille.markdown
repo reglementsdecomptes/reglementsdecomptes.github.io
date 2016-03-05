@@ -35,7 +35,7 @@ Dans le cas de Zakary R. le “match retour” a eu lieu trois mois après les f
 ![]({{site.baseurl}}/img/Infographie%201%20(4).jpeg)
 {: .fullwidth}
 
-Si un “match retour” est une réponse à un règlement de comptes antérieurs, le mode opératoire n’est pas toujours le même. Un autre journaliste marseillais, bon connaisseur de ces dossier, explique qu'il varie du simple coup de couteau dans la rue à des formes beaucoup plus élaborées et spectaculaires. 
+Si un “match retour” est une réponse à un règlement de comptes antérieurs, le mode opératoire n’est pas toujours le même. Un autre journaliste marseillais, bon connaisseur de ces dossiers, qui a souhaité conserver l'anonymat, explique qu'il varie du simple coup de couteau dans la rue à des formes beaucoup plus élaborées et spectaculaires. 
 
 Une seule caractéristique les relie : ce sont des guet-apens préparés. Un règlement de compte n’est jamais le fruit du hasard et la victime est toujours placée dans une situation dont elle ne peut pas s’échapper. Sur son scooter puis à pied, Zackary R. n’a aucun moyen d’éviter les tirs de ses agresseurs. De même Abadallah A., ciblé sous un porche, sans aucun moyen de locomotion.
 
