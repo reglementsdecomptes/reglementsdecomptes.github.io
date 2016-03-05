@@ -15,6 +15,7 @@ author: Marine Giraud
 
 
 
+
 C’est presque en homme ordinaire que Bernard F. se rend, mardi 19 mai, un peu avant 8h30, au service des Sports de la ville de Marseille. Il y travaille comme coursier depuis près de trente ans. 
 
 ![Extrait-video-afp-bernard-fischetti.png]({{site.baseurl}}/img/Extrait-video-afp-bernard-fischetti.png)
@@ -24,7 +25,7 @@ Capture d'écran - vidéo AFP
 
 Arrivé devant le bâtiment, ses viennoiseries à la main, un homme casqué lui tire plusieurs balles dans la tête et le thorax, avant de s'enfuir à moto avec un complice. Les balles proviennent d’un revolver de calibre .357 Magnum, précise une source policière.
 
-Cette affaire aurait pu s'en tenir à la rubrique “Faits divers”. Mais rapidement  les élus d'opposition au conseil municipal pointent la situation professionnelle ambigüe de Bernard F., à la fois employé de la fonction publique et proche du grand banditisme. En quelques heures, les critiques virent à la controverse.  
+Cette affaire aurait pu en rester à la rubrique “Faits divers”. Mais rapidement  les élus d'opposition au conseil municipal pointent la situation professionnelle ambigüe de Bernard F., à la fois employé de la fonction publique et proche du grand banditisme. En quelques heures, les critiques virent à la controverse.  
 
 <iframe src='//cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Mr7AF3dgapAmR4p1IXXCQAnSB1xJeaQqcRBQak5Oabo&font=OpenSans-GentiumBook&lang=fr&timenav_position=top&initial_zoom=2&height=500' width='100%' height='500' frameborder='0'></iframe>
 
