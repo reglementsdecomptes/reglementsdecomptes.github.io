@@ -63,7 +63,7 @@ Pour éviter les "matchs retour", la police emploie depuis 2012 une méthode pro
 **Source policière**
 {: .credit}
 
-Mais ces cibles ou agresseurs finissent un jour par sortir de priso. Et l’échéance du règlement de compte n’en est que repoussée. Car comme le rappelle Romain Capdepon : “dans ce milieu on a de la mémoire”
+Mais ces cibles ou agresseurs finissent un jour par sortir de priso. Et l’échéance du règlement de compte n’en est que repoussée. Car comme le rappelle Romain Capdepon : _“dans ce milieu on a de la mémoire”_
 
 # La portée symbolique des “match retour”
  
