@@ -20,7 +20,7 @@ Plus de vingt interpellations, 30 kilos de résine de cannabis et des centaines 
 
 # Une nouvelle méthode _«saluée par tous»_
 
-Sur le fond, le Préfet de police des Bouches-du-Rhône, Laurent Nunez met en avant une logique de _«coordination»_ entre les différents services de police, notamment _«pour échanger du renseignement»_, lors d’un entretien exclusif. Sur le terrain, cette méthode globale se traduit par _«le déploiement de CRS dans les quartiers, pour sécuriser l'intervention des autres acteurs»_. 
+Sur le fond, le préfet de police des Bouches-du-Rhône, Laurent Nunez met en avant une logique de _«coordination»_ entre les différents services de police, notamment _«pour échanger du renseignement»_, lors d’un entretien exclusif. Sur le terrain, cette méthode globale se traduit par _«le déploiement de CRS dans les quartiers, pour sécuriser l'intervention des autres acteurs»_. 
 
 La particularité de l’approche globale réside dans la durée et la récurrence de la présence policière, qui peut durer _«15 jours, trois semaines, voire un mois»,_ rappelle-t-il, estimant qu'elle est _«saluée par tous». 
 
