@@ -60,4 +60,4 @@ Didier, qui habite un immeuble tout proche de la scène du crime, paraît résig
 
 Les riverains ne semblent pas craindre que les règlements de compte s’exportent des quartiers Nord vers des zones rarement concernées par ce genre d’affaires. La délinquance à Marseille est en baisse, comme le souligne le directeur départemental de la sécurité publique, Pierre-Marie Bourniquel. Contacté par téléphone, il fait savoir que les moyens de surveillance sont revus régulièrement en proportion de la criminalité constatée.
 
-M. Coulet confie que de nombreux habitants l'ont questionné sur la sécurité dans le quartier, dit-il. Impossible de faire des miracle,s leur a-t-il répondu : _« Il peut toujours y avoir des dommages collatéraux, et ça m’interpelle. Mais on est impuissants par rapport à cela »_.
+M. Coulet confie que de nombreux habitants l'ont questionné sur la sécurité dans le quartier, dit-il. Impossible de faire des miracles, leur a-t-il répondu : _« Il peut toujours y avoir des dommages collatéraux, et ça m’interpelle. Mais on est impuissants par rapport à cela »_.
